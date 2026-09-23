@@ -84,7 +84,7 @@
   "ticker": "TAK",
   "item": "TAK zasocitinib CHMP opinion 2027 timing",
   "kind": "chmp_watch",
-  "detail": "EMA accepted MAA 14 Sep 2026 (Takeda PR). 2027 opinion window derived from acceptance; not sponsor-guided. Row kept as inferred. || Eisai MAA validated 27 Mar 2026 (hard anchor, Eisai PR); Eisai guides only 'standard review timeline'. Q2 2027 opinion was review-clock math, not sponsor-guided into 2027. Moved to watchlist per completeness contract \u00a71 (CHMP admissible only when sponsor-guided into 2027).",
+  "detail": "EMA accepted MAA 14 Sep 2026 (Takeda PR). 2027 opinion window derived from acceptance; not sponsor-guided. Row kept as inferred. || Eisai MAA validated 27 Mar 2026 (hard anchor, Eisai PR); Eisai guides only 'standard review timeline'. Q2 2027 opinion was review-clock math, not sponsor-guided into 2027. Moved to watchlist per completeness contract §1 (CHMP admissible only when sponsor-guided into 2027).",
   "source": "CHMP/EC+filings sweep 2026-09-23 ; v1.7 audit 2026-09-23 (CHMP admissibility reconciliation)"
  },
  {
@@ -92,7 +92,7 @@
   "ticker": "NUVB",
   "item": "NUVB taletrectinib CHMP opinion 2027 timing",
   "kind": "chmp_watch",
-  "detail": "Eisai MAA validated 27 Mar 2026, \"standard review timeline\" only; no sponsor-guided opinion window. Row stands as inferred. || EMA accepted MAA 14 Sep 2026 (Takeda PR, source upgraded 2026-09-23). 2027 opinion timing derived from acceptance clock; not sponsor-guided. Moved to watchlist per completeness contract \u00a71. Underlying US PDUFA row (2027-Q1, Priority Review) remains in the calendar.",
+  "detail": "Eisai MAA validated 27 Mar 2026, \"standard review timeline\" only; no sponsor-guided opinion window. Row stands as inferred. || EMA accepted MAA 14 Sep 2026 (Takeda PR, source upgraded 2026-09-23). 2027 opinion timing derived from acceptance clock; not sponsor-guided. Moved to watchlist per completeness contract §1. Underlying US PDUFA row (2027-Q1, Priority Review) remains in the calendar.",
   "source": "CHMP/EC+filings sweep 2026-09-23 ; v1.7 audit 2026-09-23 (CHMP admissibility reconciliation)"
  },
  {
@@ -108,7 +108,7 @@
   "ticker": "GSK",
   "item": "dostarlimab (Jemperli)",
   "kind": null,
-  "detail": "National Priority Voucher eligibility should be tracked alongside the Feb 2027 PDUFA \u2014 voucher redemption review accelerates the FDA clock; watch for company disclosure that the voucher will be attached to the Jemperli endometrial sBLA.",
+  "detail": "National Priority Voucher eligibility should be tracked alongside the Feb 2027 PDUFA — voucher redemption review accelerates the FDA clock; watch for company disclosure that the voucher will be attached to the Jemperli endometrial sBLA.",
   "source": "PDUFA sweep 2026-09-23"
  },
  {
@@ -116,7 +116,7 @@
   "ticker": null,
   "item": "ESMO Congress 2027 (Barcelona)",
   "kind": null,
-  "detail": "Parked: organizer-published 2027 dates not found on esmo.org \u2014 only third-party listings (provisional Sep 17-21, 2027). Re-verify when ESMO publishes congress hub.",
+  "detail": "Parked: organizer-published 2027 dates not found on esmo.org — only third-party listings (provisional Sep 17-21, 2027). Re-verify when ESMO publishes congress hub.",
   "source": ""
  },
  {
@@ -124,7 +124,7 @@
   "ticker": "INCY",
   "item": "axatilimab + ruxolitinib (Phase 2)",
   "kind": null,
-  "detail": "INCY axatilimab+ruxolitinib newly-diagnosed chronic GVHD Phase 2 (NCT06388564): Incyte Q2 2026 PR guides topline H2 2026 \u2014 no longer a 2027 catalyst. https://www.businesswire.com/news/home/20260728733422/en/ (2026-07-28). Verified 2026-09-23.",
+  "detail": "INCY axatilimab+ruxolitinib newly-diagnosed chronic GVHD Phase 2 (NCT06388564): Incyte Q2 2026 PR guides topline H2 2026 — no longer a 2027 catalyst. https://www.businesswire.com/news/home/20260728733422/en/ (2026-07-28). Verified 2026-09-23.",
   "source": ""
  },
  {
@@ -146,7 +146,7 @@
  {
   "category": "watch_candidate",
   "ticker": "AZN",
-  "item": "AZN anifrolumab (Saphnelo) IRIS Phase 3 readout \u2014 lupus nephritis",
+  "item": "AZN anifrolumab (Saphnelo) IRIS Phase 3 readout — lupus nephritis",
   "kind": "readout_watch",
   "detail": "NCT05138133 is Phase 3 (AZ PRs list anifrolumab LN in Phase III). However NO primary 2026 source guides a 2027 readout: the AZ JPM 2026 presentation (slide content dated 6 Nov 2025) listed IRIS as an H2 2026 key high-value readout. Do not add until a 2026 primary source guides a 2027 event.",
   "source": "Final-gap verification 2026-09-23"
@@ -154,7 +154,7 @@
  {
   "category": "watch_candidate",
   "ticker": "AZN",
-  "item": "AZN anifrolumab (Saphnelo) JASMINE readout \u2014 myositis (polymyositis/dermatomyositis)",
+  "item": "AZN anifrolumab (Saphnelo) JASMINE readout — myositis (polymyositis/dermatomyositis)",
   "kind": "readout_watch",
   "detail": "NCT06455449; AZ PRs list anifrolumab myositis among Phase III programs (2-stage study). Not among AZ's key high-value readouts listed for H1/H2 2026, and NO primary 2026 source guides a 2027 event. Registry phase designation not re-verified on CT.gov. Do not add until a 2026 primary source guides a 2027 event and phase is verified.",
   "source": "Final-gap verification 2026-09-23"
@@ -162,10 +162,10 @@
  {
   "category": "watch_candidate",
   "ticker": "BMY",
-  "item": "BMY Camzyos (mavacamten) sNDA adolescent oHCM \u2014 accepted priority review, PDUFA date undisclosed",
+  "item": "BMY Camzyos (mavacamten) sNDA adolescent oHCM - priority review, PDUFA September 30, 2026",
   "kind": "pdufa_watch",
-  "detail": "FDA accepted for priority review (announced 2026-06-01) the Camzyos sNDA for adolescents 12-<18 with symptomatic obstructive HCM, based on Phase 3 SCOUT-HCM. No PDUFA date disclosed in the announcement; per PDUFA gate it cannot enter as pdufa until a disclosed date exists. Promote to pdufa if a 2027 PDUFA date is disclosed.",
-  "source": "Final-gap verification 2026-09-23 (spotted during BMY Q2 2026 pipeline sweep)"
+  "detail": "CORRECTED 2026-09-23: FDA accepted for priority review (announced 2026-06-01) the Camzyos sNDA for adolescents 12-<18 with symptomatic obstructive HCM, based on Phase 3 SCOUT-HCM; BMS disclosed the PDUFA date: September 30, 2026 (BMS news release). The date falls in 2026, outside the 2027 calendar scope; retained as a resolved watch item.",
+  "source": "BMS news release (news.bms.com), verified 2026-09-23"
  },
  {
   "category": "slipped",
@@ -178,7 +178,7 @@
   "category": "parked_conference",
   "ticker": null,
   "item": "American Neurological Association Annual Meeting 2027 (ANA2027, 152nd)",
-  "detail": "ANA2027 152nd Annual Meeting: PARKED. Organizer published Oct 16\u201319 2027 (Chicago) on the now-offline 2025.myana.org subdomain; no 2027 dates on current myana.org. Unresolved conflict: eMedEvents lists Sep 18\u201321 2027. Recheck trigger: launch of 2027.myana.org.",
+  "detail": "ANA2027 152nd Annual Meeting: PARKED. Organizer published Oct 16–19 2027 (Chicago) on the now-offline 2025.myana.org subdomain; no 2027 dates on current myana.org. Unresolved conflict: eMedEvents lists Sep 18–21 2027. Recheck trigger: launch of 2027.myana.org.",
   "source": "https://2025.myana.org/general-information/future-annual-meeting-dates/",
   "recheck": "organizer publishes 2027 dates"
  },
@@ -186,7 +186,7 @@
   "category": "parked_conference",
   "ticker": null,
   "item": "European Congress on Obesity (ECO) 2027, 34th (EASO)",
-  "detail": "ECO 2027 (European Congress on Obesity): PARKED. Organizer (eco2027.org sponsorship PDF) prints venue Munich only, no calendar days. Third-party Healio lists May 18\u201321 2027 \u2014 not organizer evidence. Recheck trigger: eco2027.org publishes dates.",
+  "detail": "ECO 2027 (European Congress on Obesity): PARKED. Organizer (eco2027.org sponsorship PDF) prints venue Munich only, no calendar days. Third-party Healio lists May 18–21 2027 — not organizer evidence. Recheck trigger: eco2027.org publishes dates.",
   "source": "https://eco2027.org/?p=abstract-submission",
   "recheck": "organizer publishes 2027 dates"
  },
@@ -194,77 +194,77 @@
   "category": "conference_seek",
   "ticker": null,
   "item": "ASH Annual Meeting 2027",
-  "detail": "2026 was Dec 12-15 New Orleans; 2027 dates unpublished \u2014 PARKED. Do not invent December.",
+  "detail": "2026 was Dec 12-15 New Orleans; 2027 dates unpublished — PARKED. Do not invent December.",
   "source": ""
  },
  {
   "category": "conference_seek",
   "ticker": null,
   "item": "AHA Scientific Sessions 2027",
-  "detail": "not in book \u2014 add only if organizer page prints 2027 dates",
+  "detail": "not in book — add only if organizer page prints 2027 dates",
   "source": ""
  },
  {
   "category": "conference_seek",
   "ticker": null,
   "item": "ACR Convergence 2027",
-  "detail": "not in book \u2014 add only if organizer page prints 2027 dates",
+  "detail": "not in book — add only if organizer page prints 2027 dates",
   "source": ""
  },
  {
   "category": "conference_seek",
   "ticker": null,
   "item": "ERS Congress 2027",
-  "detail": "not in book \u2014 add only if organizer page prints 2027 dates",
+  "detail": "not in book — add only if organizer page prints 2027 dates",
   "source": ""
  },
  {
   "category": "conference_seek",
   "ticker": null,
   "item": "IDWeek 2027",
-  "detail": "not in book \u2014 add only if organizer page prints 2027 dates",
+  "detail": "not in book — add only if organizer page prints 2027 dates",
   "source": ""
  },
  {
   "category": "conference_seek",
   "ticker": null,
   "item": "AASLD The Liver Meeting 2027",
-  "detail": "not in book (DDW present; different meeting) \u2014 add only with organizer dates",
+  "detail": "not in book (DDW present; different meeting) — add only with organizer dates",
   "source": ""
  },
  {
   "category": "conference_seek",
   "ticker": null,
   "item": "ECTRIMS / ACTRIMS 2027",
-  "detail": "not in book \u2014 add only with organizer dates",
+  "detail": "not in book — add only with organizer dates",
   "source": ""
  },
  {
   "category": "conference_seek",
   "ticker": null,
   "item": "EADV 2027",
-  "detail": "not in book \u2014 add only with organizer dates",
+  "detail": "not in book — add only with organizer dates",
   "source": ""
  },
  {
   "category": "conference_seek",
   "ticker": null,
   "item": "CTOS 2027",
-  "detail": "not in book \u2014 add only with organizer dates",
+  "detail": "not in book — add only with organizer dates",
   "source": ""
  },
  {
   "category": "conference_seek",
   "ticker": null,
   "item": "ESMO Immuno-Oncology 2027",
-  "detail": "not in book \u2014 add only with organizer dates",
+  "detail": "not in book — add only with organizer dates",
   "source": ""
  },
  {
   "category": "conference_seek",
   "ticker": null,
   "item": "ACG 2027",
-  "detail": "not in book \u2014 add only with organizer dates",
+  "detail": "not in book — add only with organizer dates",
   "source": ""
  },
  {
@@ -285,15 +285,15 @@
   "category": "chmp_watch",
   "ticker": null,
   "item": "CHMP opinion timing derived from review-clock math",
-  "detail": "v16-1038 (NUVB taletrectinib), v16-1040 (TAK zasocitinib), v16-1041 (MRK ENFLONSIA): MAA accepted/validated but 2027 opinion timing was clock math or absent \u2014 parked on watchlist rather than carried as calendar rows. Admit only when the sponsor guides an opinion window.",
+  "detail": "v16-1038 (NUVB taletrectinib), v16-1040 (TAK zasocitinib), v16-1041 (MRK ENFLONSIA): MAA accepted/validated but 2027 opinion timing was clock math or absent — parked on watchlist rather than carried as calendar rows. Admit only when the sponsor guides an opinion window.",
   "source": "CHMP reconciliation 2026-09-23"
  },
  {
   "category": "filing_watch",
   "ticker": "CGON",
-  "item": "CG Oncology cretostimogene \u2014 PIVOT-006 intermediate-risk NMIBC BLA filing 2027",
+  "item": "CG Oncology cretostimogene — PIVOT-006 intermediate-risk NMIBC BLA filing 2027",
   "detail": "PARKED 2026-09-23 (URL gate fail: prior americanbankingnews citation 404). CEO Arthur Kuan guided at a 2026 healthcare conference (reported by American Market News, June 10 2026) that CG Oncology \"currently anticipates completing the PIVOT-006 BLA in 2027,\" second and sequential after the HR BCG-unresponsive BLA (Q4 2026), needing 12-month follow-up + data cleanup. Recheck trigger: company IR deck/earnings PR or legitimate outlet (BioSpace/STAT/Endpoints/Fierce) carrying the 2027 filing language.",
-  "source": "https://www.americanbankingnews.com/2026/06/10/cg-oncology-eyes-bladder-cancer-breakthrough-with-phase-3-data-q4-filing-ahead.html (aggregator \u2014 discovery only, do not cite as source)"
+  "source": "https://www.americanbankingnews.com/2026/06/10/cg-oncology-eyes-bladder-cancer-breakthrough-with-phase-3-data-q4-filing-ahead.html (aggregator — discovery only, do not cite as source)"
  },
  {
   "item": "SMMT HARMONi-3 Phase 3 ivonescimab PFS readout H1 2027",
@@ -378,5 +378,221 @@
   "kind": "parked_lead",
   "detail": "No sponsor-primary 2027 guidance found.",
   "source": "gap-hunt v1.8 2026-09-23"
+ },
+ {
+  "category": "watch_candidate",
+  "ticker": "AZN",
+  "item": "Olaparib (Lynparza) generic settlement / launch timing",
+  "kind": "parked_lead",
+  "detail": "Considered for key_patent_expiry/generic-event admission at v1.9; parked — generic settlement terms and actual launch timing unconfirmed from primary sources. Recheck trigger: FDA generic approval or disclosed settlement terms; monthly refresh.",
+  "source": "v1.9 application sweep 2026-09-23"
+ },
+ {
+  "category": "watch_candidate",
+  "ticker": "ALPMY",
+  "item": "Enzalutamide (Xtandi) sourced generic LAUNCH date",
+  "kind": "parked_lead",
+  "detail": "US patent-protection expiry admitted as v19-0038 (Aug 13, 2027, FDA Orange Book + Astellas IR). Actual generic launch timing (settlements, at-risk entry) deliberately kept out of scope. Recheck trigger: Astellas securities-report settlement disclosure or ANDA approval; monthly refresh.",
+  "source": "v1.9 application sweep 2026-09-23"
+ },
+ {
+  "category": "watch_candidate",
+  "ticker": "AMRX",
+  "item": "Amneal per-product LOE dates + take-private status",
+  "kind": "parked_lead",
+  "detail": "Considered at v1.9; parked — per-product patent-expiry dates unsourced from company filings and take-private status unconfirmed. Recheck trigger: Amneal 10-K patent table (per-product dates) and take-private deal announcement/close; monthly refresh.",
+  "source": "v1.9 application sweep 2026-09-23"
+ },
+ {
+  "category": "watch_candidate",
+  "ticker": "AMPH",
+  "item": "Amphastar primary-source confirmation",
+  "kind": "parked_lead",
+  "detail": "Considered at v1.9; parked — needs primary-source (company filing) confirmation before admission. Recheck trigger: Amphastar SEC filing with the specific date/event; monthly refresh.",
+  "source": "v1.9 application sweep 2026-09-23"
+ },
+ {
+  "category": "watch_candidate",
+  "ticker": "NVO",
+  "item": "Novo Nordisk v. Sun litigation trial date (March 8, 2027)",
+  "kind": "parked_lead",
+  "detail": "Considered for litigation_milestone at v1.9; parked — March 8, 2027 trial date unconfirmed against a court docket. Recheck trigger: PACER/docket confirmation of the trial date; monthly refresh.",
+  "source": "v1.9 application sweep 2026-09-23"
+ },
+ {
+  "category": "watch_candidate",
+  "ticker": "AZN",
+  "item": "AZN datopotamab deruxtecan +/- rilvegostomig (adjuvant NSCLC) Phase 3 readout - removed",
+  "kind": "readout_watch",
+  "detail": "v20 removed: registry primary completion moved to actual 2026 (track-A re-pull 2026-09-23); no company 2027 guidance found. Recheck trigger: company-guided 2027 readout timing.",
+  "source": "Track A registry re-pull 2026-09-23"
+ },
+ {
+  "category": "watch_candidate",
+  "ticker": "FEMY",
+  "item": "FEMY FemBloc FINALE pivotal readout timing - removed (no company timing)",
+  "kind": "readout_watch",
+  "detail": "v20 removed: the 2027-H1 bucket was based on enrollment math, not company-printed timing; CT.gov PCD 2029-12 (est, full 5-yr follow-up), updated 2026-09-14. Recheck trigger: Femasys-guided readout timing.",
+  "source": "Track A review 2026-09-23"
+ },
+ {
+  "category": "watch_candidate",
+  "ticker": "NVS",
+  "item": "NVS remibrutinib RECHARGE-1 16-week readout - parked (moved to 2026)",
+  "kind": "parked_lead",
+  "detail": "v20 parked: Q2 2026 Novartis deck (Jul 21, 2026) moved the 16-week readout to H2 2026, explicitly noting \"Readout accelerated from 2027\". The 2027 readout row no longer holds. Recheck trigger: Novartis deck confirming any 2027 readout.",
+  "source": "https://www.novartis.com/sites/novartiscom/files/q1-2026-investor-presentation.pdf"
+ },
+ {
+  "category": "watch_candidate",
+  "ticker": "NVS",
+  "item": "NVS remibrutinib RECHARGE-2 16-week readout - parked (moved to 2026)",
+  "kind": "parked_lead",
+  "detail": "v20 parked: Q2 2026 Novartis deck (Jul 21, 2026) moved the 16-week readout to H2 2026, explicitly noting \"Readout accelerated from 2027\". The 2027 readout row no longer holds. Recheck trigger: Novartis deck confirming any 2027 readout.",
+  "source": "https://www.novartis.com/sites/novartiscom/files/q1-2026-investor-presentation.pdf"
+ },
+ {
+  "category": "watch_candidate",
+  "ticker": "NVS",
+  "item": "NVS NEOS (ofatumumab/siponimod vs fingolimod, pediatric MS) readout - parked (moved to 2026)",
+  "kind": "parked_lead",
+  "detail": "v20 parked: Q2 2026 Novartis deck NEOS slide (NCT04926818) now shows \"Readout 2026\", moved earlier from the Q1 2026 deck's 2027. The 2027 readout row no longer holds. Recheck trigger: Novartis deck.",
+  "source": "https://www.novartis.com/sites/novartiscom/files/q1-2026-investor-presentation.pdf"
+ },
+ {
+  "category": "watch_candidate",
+  "ticker": "PHAT",
+  "item": "PHAT VOQUEZNA (vonoprazan) EoE program - parked (dormant)",
+  "kind": "parked_lead",
+  "detail": "v20 parked: no EoE mention since Q4 2024 earnings - program appears dormant. Recheck trigger: Phathom deck or filing reinstating EoE.",
+  "source": "Track B review 2026-09-23"
+ },
+ {
+  "category": "watch_candidate",
+  "ticker": "ALEC",
+  "item": "ALEC AL050 IND - parked (no longer in active trials)",
+  "kind": "parked_lead",
+  "detail": "v20 parked: AL050 no longer appears in Alector's active clinical trials. Recheck trigger: Alector pipeline update.",
+  "source": "Track B review 2026-09-23"
+ },
+ {
+  "category": "watch_candidate",
+  "ticker": "AZN",
+  "item": "AZN cliramitug (ALXN2220) readout - parked (no mention since H2 2024)",
+  "kind": "parked_lead",
+  "detail": "v20 parked: no cliramitug mention in AstraZeneca materials since H2 2024. Recheck trigger: AstraZeneca pipeline update.",
+  "source": "Track B review 2026-09-23"
+ },
+ {
+  "category": "watch_candidate",
+  "ticker": "XFOR",
+  "item": "XFOR mavorixafor G-BA benefit assessment (WHIM) - parked (no active 2027 procedure)",
+  "kind": "parked_lead",
+  "detail": "v20 parked: staged for Feb 2027, but direct G-BA check (2026-09-23) found only the closed WHIM procedure (first Beschluss 06.02.2025; renewed-assessment Beschluss 17.07.2025) - no active 2027 G-BA procedure located. Recheck trigger: new G-BA Verfahrenseintrag for mavorixafor or X4 filing in a new indication (e.g., chronic neutropenia); monthly refresh.",
+  "source": "Direct G-BA verification attempt 2026-09-23 (g-ba.de mavorixafor pages)"
+ },
+ {
+  "category": "watch_candidate",
+  "ticker": "serplulimab (Shanghai Henlius)",
+  "item": "Serplulimab G-BA benefit assessment (oesophageal cancer) - parked (no 2027 procedure)",
+  "kind": "parked_lead",
+  "detail": "v20 parked: staged for Jan 2027, but direct G-BA check (2026-09-23) found only the ES-SCLC procedure (Beschluss 16.10.2025); ESCC was already EU-approved (Feb 2025). No 2027 re-assessment basis located. Recheck trigger: new G-BA procedure for serplulimab; monthly refresh.",
+  "source": "Direct G-BA verification attempt 2026-09-23"
+ },
+ {
+  "category": "watch_candidate",
+  "ticker": "ABUS",
+  "item": "ABUS LNP patent EP 4 241 767 EPO opposition hearing - parked (register unverified)",
+  "kind": "parked_lead",
+  "detail": "v20 parked: JUVE Patent (trade press) reports the opposition hearing due January 2027 (opponents: Moderna, MSD, Arrowhouse, Keltie); the official EPO register could not be accessed for direct confirmation. Note: Moderna settled globally with Arbutus (Mar 2026, $178M first payment). Recheck trigger: EPO register entry or official hearing summons; monthly refresh.",
+  "source": "https://www.juve-patent.com/cases/the-mrna-wars-are-escalating-with-new-claims-from-arbutus/ (trade press only)"
+ },
+ {
+  "category": "watch_candidate",
+  "ticker": "CELC",
+  "item": "CELC REVTORPYK (gedatolisib) sNDA - awaiting FDA acceptance/PDUFA date",
+  "kind": "pdufa_watch",
+  "detail": "Submitted 2026-08-26 for PIK3CA-mutant HR+/HER2- locally advanced or metastatic breast cancer; no FDA acceptance or PDUFA date disclosed as of 2026-09-23. Source rests on a trade-press mirror; seek sponsor PR or 8-K before admission. Watch trigger: Sponsor disclosure of FDA acceptance + PDUFA target action date.",
+  "source": "https://www.barchart.com/story/news/4098872/celcuity-submits-snda-to-fda-for-revtorpyk-gedatolisib-for-hr-her2-pik3ca-mutant-locally-advanced-or-metastatic-breast-cancer"
+ },
+ {
+  "category": "watch_candidate",
+  "ticker": "KPTI",
+  "item": "KPTI XPOVIO (selinexor) + ruxolitinib sNDA - awaiting FDA acceptance/PDUFA date",
+  "kind": "pdufa_watch",
+  "detail": "Submitted 2026-08-31 for JAK-inhibitor-naive myelofibrosis; accelerated approval and Priority Review requested; company expected acceptance/review timing in Q4 2026. Calendar row v16-0126 (regulatory_other) already covers the submission; this item tracks acceptance only, no duplication. Watch trigger: FDA acceptance + PDUFA target action date.",
+  "source": "https://www.onclive.com/view/fda-receives-snda-for-selinexor-plus-ruxolitinib-in-jak-inhibitor-naive-myelofibrosis"
+ },
+ {
+  "category": "watch_candidate",
+  "ticker": "QURE",
+  "item": "QURE ifezuntirgene inilparvovec (AMT-130) BLA - awaiting FDA acceptance/PDUFA date",
+  "kind": "pdufa_watch",
+  "detail": "Submitted 2026-09-02 (8-K Item 7.01, Exhibit 99.1) for Huntington's disease (AAV5 gene therapy, accelerated approval sought); Priority Review requested; FDA 60-day filing review underway; no acceptance or PDUFA date yet. UK MAA filed in parallel. If Priority granted, PDUFA ~May 2027; standard review ~Sep 2027. Watch trigger: FDA acceptance + PDUFA target action date (expected ~Nov 2026).",
+  "source": "https://www.globenewswire.com/news-release/2026/09/02/3354993/0/en/uniqure-announces-submission-of-biologics-license-application-for-ifezuntirgene-inilparvovec-amt-130-in-huntington-s-disease.html"
+ },
+ {
+  "category": "watch_candidate",
+  "ticker": "AQST",
+  "item": "AQST Anaphylm (dibutepinephrine) NDA resubmission - awaiting FDA classification/new PDUFA date",
+  "kind": "pdufa_watch",
+  "detail": "Resubmitted 2026-09-17 after the January 30, 2026 CRL; FDA will determine resubmission classification and review timeline after initial review; no action date announced. Watch trigger: FDA classification of resubmission + new PDUFA target action date.",
+  "source": "https://www.globenewswire.com/news-release/2026/09/17/3363841/0/en/aquestive-therapeutics-announces-resubmission-of-new-drug-application-to-fda-for-anaphylm-dibutepinephrine-sublingual-film.html"
+ },
+ {
+  "category": "watch_candidate",
+  "ticker": "PVLA",
+  "item": "PVLA QTORIN (rapamycin) NDA - awaiting FDA acceptance/PDUFA date",
+  "kind": "pdufa_watch",
+  "detail": "Rolling submission completed 2026-08-31 for microcystic lymphatic malformations; Breakthrough Therapy designated; company targets H1 2027 commercial launch if approved. No FDA filing acceptance or goal date disclosed. Calendar row v16-0125 (regulatory_other) already covers the submission; this item tracks acceptance only. Watch trigger: FDA filing acceptance + PDUFA target action date.",
+  "source": "https://www.biospace.com/press-releases/palvella-therapeutics-completes-rolling-submission-of-new-drug-application-to-fda-for-qtorin-rapamycin-for-the-treatment-of-microcystic-lymphatic-malformations"
+ },
+ {
+  "category": "watch_candidate",
+  "ticker": "KYTX",
+  "item": "KYTX mivocabtagene autoleucel (miv-cel) rolling BLA - awaiting completion/acceptance/PDUFA date",
+  "kind": "pdufa_watch",
+  "detail": "Rolling BLA initiated (CMC module submitted) for stiff person syndrome; completion guided for Q4 2026; confirmed on track in Aug 2026 corporate update. No completed submission or acceptance yet. Calendar row v16-0128 covers the submission. Watch trigger: Completed BLA submission + FDA acceptance + PDUFA target action date.",
+  "source": "https://files.quartr.com/reports/dc7dd-2026-05-12-20-00-09.pdf?ref=cHVibGljLmNvbQ=="
+ },
+ {
+  "category": "watch_candidate",
+  "ticker": "LRMR",
+  "item": "LRMR nomlabofusp rolling BLA - awaiting completion/acceptance/PDUFA date",
+  "kind": "pdufa_watch",
+  "detail": "First module submitted 2026-06-29 after FDA alignment in Type B pre-BLA meeting; remaining modules expected 2H 2026; company targets mid-2027 commercial launch if approved (Friedreich's ataxia, accelerated approval sought; skin frataxin as novel surrogate endpoint). Calendar row v16-0132 covers the submission (event definition revised v20). Watch trigger: Completed BLA submission + FDA acceptance + PDUFA target action date.",
+  "source": "https://files.quartr.com/reports/b62279ee89b37cfa87664bd6454fac98-2026-06-29-10-35-20.pdf?ref=U0E="
+ },
+ {
+  "category": "watch_candidate",
+  "ticker": "ACHV",
+  "item": "ACHV cytisinicline NDA - awaiting resubmission/acceptance/PDUFA date",
+  "kind": "pdufa_watch",
+  "detail": "Manufacturing-only CRL (June 22, 2026 - cGMP observations at third-party facility; no efficacy/safety deficiency); resubmission planned Q4 2026 naming Adare as primary manufacturer; company says potential approval H1 2027 if accepted. No actual resubmission or acceptance yet. Calendar row v16-0436 covers the existing submission. Watch trigger: Actual NDA resubmission + FDA acceptance + PDUFA target action date.",
+  "source": "https://www.nasdaq.com/articles/fda-issues-crl-achieve-life-sciences-cytisinicline-nda-over-cgmp-manufacturing-concerns"
+ },
+ {
+  "category": "watch_candidate",
+  "ticker": "INCY",
+  "item": "INCY tafasitamab + lenalidomide + R-CHOP (frontMIND) sBLA - awaiting submission/acceptance/PDUFA date",
+  "kind": "pdufa_watch",
+  "detail": "frontMIND positive (PFS HR 0.75) in previously untreated high-risk DLBCL; sBLA planned for H1 2026 but not yet submitted as of ~June 2026 commentary. No confirmed US sBLA submission or acceptance. Calendar row v17-0043 covers the planned submission. Watch trigger: US sBLA submission + FDA acceptance + PDUFA target action date.",
+  "source": "https://www.ainvest.com/news/incyte-frontmind-signal-clinical-commercial-line-dlbcl-constraint-2606/"
+ },
+ {
+  "category": "watch_candidate",
+  "ticker": "AZN",
+  "item": "AZN camizestrant NDA - awaiting new FDA (PDUFA) decision date after 2026-05-27 extension",
+  "kind": "pdufa_watch",
+  "detail": "Camizestrant + CDK4/6 inhibitor (SERENA-6, first-line HR+/HER2- advanced breast cancer with emergent ESR1 mutation). Accepted July 2025; FDA extended the PDUFA date on 2026-05-27 to review additional data (April 2026 AdCom did not reach majority); new decision date NOT disclosed by AstraZeneca as of 2026-09-23. No camizestrant acceptance row with a current 2027 date in data.json. Watch trigger: Sponsor disclosure of new FDA (PDUFA) decision date.",
+  "source": "https://www.astrazeneca.com/content/astraz/media-centre/press-releases/2026/us-fda-decision-date-camizestrant-extended.html"
+ },
+ {
+  "category": "watch_candidate",
+  "ticker": "PRIVATE",
+  "item": "Sydnexis SYD-101 (low-dose atropine 0.01%) AdCom - meeting date not yet set",
+  "kind": "adcom_watch",
+  "detail": "Sydnexis announced an FDA Advisory Committee meeting to review the SYD-101 NDA for pediatric progressive myopia; no meeting date announced as of 2026-09-23. No calendar row admitted until a date is set. Watch trigger: FDA/Sydnexis announcement of the AdCom meeting date.",
+  "source": "https://www.biospace.com/press-releases/sydnexis-announces-fda-advisory-committee-meeting-to-review-nda-for-syd-101-for-pediatric-progressive-myopia"
  }
 ]
