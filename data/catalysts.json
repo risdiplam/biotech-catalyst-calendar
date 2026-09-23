@@ -1108,38 +1108,6 @@
   "company": "AstraZeneca PLC",
   "country": "United Kingdom",
   "us_listed": true,
-  "drug": "datopotamab deruxtecan +/- rilvegostomig (adjuvant NSCLC)",
-  "indication": "stage I NSCLC adenocarcinoma, ctDNA+ or high-risk, post-resection",
-  "event_type": "readout",
-  "phase": "3",
-  "date_exact": null,
-  "date_bucket": "2027-H2",
-  "date_quality": "inferred",
-  "competitors": [
-   "Keytruda (Merck)",
-   "Tecentriq (Roche)"
-  ],
-  "source_url": "https://clinicaltrials.gov/study/NCT06564844",
-  "source_type": "clinicaltrials.gov",
-  "as_of": "2026-09-23",
-  "notes": "Phase 3; registry primary completion 2027-06-30; no company 2027 guidance found.",
-  "us_tradable": true,
-  "nct_id": "NCT06564844",
-  "application_type": "",
-  "review_class": "",
-  "adcom_planned": "unknown",
-  "trial_status": "",
-  "source_date": "",
-  "record_id": "v16-0035",
-  "guidance_detail": "Phase 3; registry primary completion 2027-06-30; no company 2027 guidance found.",
-  "audit_status": "v17_reverified",
-  "audit_action": "nct_backfill"
- },
- {
-  "ticker": "AZN",
-  "company": "AstraZeneca PLC",
-  "country": "United Kingdom",
-  "us_listed": true,
   "drug": "datopotamab deruxtecan (TROPION-Breast03)",
   "indication": "stage I-III triple-negative breast cancer without pCR post-neoadjuvant",
   "event_type": "readout",
@@ -1966,7 +1934,7 @@
   "phase": "3",
   "date_exact": "2027-05-13",
   "date_bucket": "2027-Q2",
-  "date_quality": "guidance",
+  "date_quality": "hard",
   "competitors": [
    "Carvykti (Johnson & Johnson/Legend Biotech)",
    "linvoseltamab (Regeneron)"
@@ -1974,7 +1942,7 @@
   "source_url": "https://www.businesswire.com/news/home/20260713597234/en/U.S.-Food-and-Drug-Administration-Accepts-Bristol-Myers-Squibbs-New-Drug-Application-for-Mezigdomide-in-Patients-with-Relapsed-or-Refractory-Multiple-Myeloma",
   "source_type": "company PR",
   "as_of": "2026-09-23",
-  "notes": "FDA accepted NDA for mezigdomide (MeziKd: oral mezigdomide + carfilzomib + dexamethasone) in relapsed/refractory multiple myeloma, based on Phase 3 SUCCESSOR-2 (NCT05552976; PFS 18.0 vs 8.3 months, HR 0.48, p<0.0001). BMS PR 2026-07-13: 'The FDA has granted a Prescription Drug User Fee Act (PDUFA) date of May 13, 2027 for this indication.' GAP: acceptance letter text not viewed; acceptance confirmed via company PR only. Distinct from v17-0037 (CA057-1040 Ph1/2 readout) and v16-0067 (SUCCESSOR-1 readout). iberdomide NDA acceptance (Feb 2026, PDUFA Aug 17 2026) is a separate 2026 event, not in the 2027 book.",
+  "notes": "FDA accepted NDA for mezigdomide (MeziKd: oral mezigdomide + carfilzomib + dexamethasone) in relapsed/refractory multiple myeloma, based on Phase 3 SUCCESSOR-2 (NCT05552976; PFS 18.0 vs 8.3 months, HR 0.48, p<0.0001). BMS PR 2026-07-13: 'The FDA has granted a Prescription Drug User Fee Act (PDUFA) date of May 13, 2027 for this indication.' GAP: acceptance letter text not viewed; acceptance confirmed via company PR only. Distinct from v17-0037 (CA057-1040 Ph1/2 readout) and v16-0067 (SUCCESSOR-1 readout). iberdomide NDA acceptance (Feb 2026, PDUFA Aug 17 2026) is a separate 2026 event, not in the 2027 book. V20 re-verification (2026-09-23): BMS July 13, 2026 acceptance release prints exact PDUFA date of May 13, 2027 - upgraded guidance to hard. Quarter unchanged (Q2). Source: businesswire.com/news/home/20260713597234/en/. Quote: \"May 13, 2027\".",
   "us_tradable": true,
   "nct_id": "NCT05552976",
   "application_type": "NDA",
@@ -1984,8 +1952,8 @@
   "source_date": "",
   "record_id": "v16-0062",
   "guidance_detail": "FDA accepted NDA for mezigdomide (MeziKd: oral mezigdomide + carfilzomib + dexamethasone) in relapsed/refractory multiple myeloma, based on Phase 3 SUCCESSOR-2 (NCT05552976; PFS 18.0 vs 8.3 months, HR 0.48, p<0.0001). BMS PR 2026-07-13: 'The FDA has granted a Prescription Drug User Fee Act (PDUFA) date of May 13, 2027 for this indication.' GAP: acceptance letter text not viewed; acceptance confirmed via company PR only. Distinct from v17-0037 (CA057-1040 Ph1/2 readout) and v16-0067 (SUCCESSOR-1 readout). iberdomide NDA acceptance (Feb 2026, PDUFA Aug 17 2026) is a separate 2026 event, not in the 2027 book.",
-  "audit_status": "v17_reverified",
-  "audit_action": "competitor_normalize"
+  "audit_status": "v20_reverified",
+  "audit_action": "guidance_to_hard"
  },
  {
   "ticker": "BMY",
@@ -2225,7 +2193,7 @@
   "source_url": "https://bms.com/assets/bms/us/en-us/pdf/investor-info/doc_presentations/2026/BMY-2026-Q2-Results-Investor-Presentation-with-Appendix.pdf",
   "source_type": "company deck",
   "as_of": "2026-09-23",
-  "notes": "Pivotal Breakfree-SLE readout guided 2027 per Q2 2026 investor deck. PHASE CORRECTION (2026-09-23): CT.gov NCT07015983 phases=['PHASE2'] - protocol outranks marketing language; BMS Q2 2026 deck describes Breakfree-SLE as pivotal/registrational (noted here, does not change phase tag).",
+  "notes": "Pivotal Breakfree-SLE readout guided 2027 per Q2 2026 investor deck. PHASE CORRECTION (2026-09-23): CT.gov NCT07015983 phases=['PHASE2'] - protocol outranks marketing language; BMS Q2 2026 deck describes Breakfree-SLE as pivotal/registrational (noted here, does not change phase tag). V20 re-verification (2026-09-23): Q2 2026 BMS deck guides Breakfree-SLE readout in 2027, but BMS voluntarily paused enrollment across its zola-cel (zolacabtagene autoleucel, BMS-986353) autoimmune program in late Aug 2026 after detecting transient and reversible inflammatory events during routine safety surveillance (reported Aug 31-Sep 1, 2026). BMS says it aims to resume as quickly as possible and the pause is precautionary, not a regulatory hold - but the 2027 readout timing is now at risk and under review. Bucket kept at 2027. Source: https://bms.com/assets/bms/us/en-us/pdf/investor-info/doc_presentations/2026/BMY-2026-Q2-Results-Investor-Presentation-with-Appendix.pdf. Quote: \"Bristol Myers Squibb voluntarily pauses enrollment in its Zola-cel autoimmune studies over transient inflammatory events.\".",
   "us_tradable": true,
   "nct_id": "NCT07015983",
   "application_type": "",
@@ -2235,8 +2203,8 @@
   "source_date": "",
   "record_id": "v16-0070",
   "guidance_detail": "Pivotal Breakfree-SLE readout guided 2027 per Q2 2026 investor deck.",
-  "audit_status": "v18_reverified",
-  "audit_action": "improved"
+  "audit_status": "v20_reverified",
+  "audit_action": "guidance_revision"
  },
  {
   "ticker": "BMY",
@@ -3375,13 +3343,13 @@
    "soticlestat (in development)"
   ],
   "country": "United States",
-  "date_bucket": "2027-Q3",
+  "date_bucket": "2027-H1",
   "date_exact": null,
   "date_quality": "guidance",
   "drug": "EPX-100 (clemizole) — ARGUS",
   "event_type": "readout",
   "indication": "Dravet syndrome",
-  "notes": "Phase 3 ARGUS guided for mid-2027 topline, mapped to the Q2/Q3 boundary as Q3.",
+  "notes": "Phase 3 ARGUS guided for mid-2027 topline, mapped to the Q2/Q3 boundary as Q3. V20 re-verification (2026-09-23): HRMY EPX-100 ARGUS (Dravet). Company Q2 2026 PR (via NeurologyLive): topline from both studies expected in H1 2027. Calendar had Q3 based on \"mid-2027\" mapping; revised to H1 2027 per company guidance. Source: https://www.neurologylive.com/view/favorable-phase-1-data-orexin-2-agonist-bp-205-broader-pipeline-progress-headline-harmony-q2-update. Quote: \"Topline data from both studies are expected during the first half of 2027\".",
   "phase": "3",
   "source_type": "company PR",
   "source_url": "https://www.globenewswire.com/news-release/2026/08/04/3338190/0/en/Harmony-Biosciences-Announces-Record-Q2-2026-Revenue-and-Shares-Initial-Clinical-Data-for-Its-Orexin-2-Agonist-BP-205-Reinforcing-Potential-Best-in-Class-Profile.html",
@@ -3396,8 +3364,8 @@
   "source_date": "",
   "record_id": "v16-0105",
   "guidance_detail": "Phase 3 ARGUS guided for mid-2027 topline, mapped to the Q2/Q3 boundary as Q3.",
-  "audit_status": "v17_reverified",
-  "audit_action": "nct_backfill"
+  "audit_status": "v20_reverified",
+  "audit_action": "guidance_revision"
  },
  {
   "as_of": "2026-09-23",
@@ -3409,13 +3377,13 @@
    "soticlestat (in development)"
   ],
   "country": "United States",
-  "date_bucket": "2027-Q3",
+  "date_bucket": "2027-H1",
   "date_exact": null,
   "date_quality": "guidance",
   "drug": "EPX-100 (clemizole) — LIGHTHOUSE",
   "event_type": "readout",
   "indication": "Lennox-Gastaut syndrome",
-  "notes": "Phase 3 LIGHTHOUSE guided for mid-2027 topline, mapped to the Q2/Q3 boundary as Q3.",
+  "notes": "Phase 3 LIGHTHOUSE guided for mid-2027 topline, mapped to the Q2/Q3 boundary as Q3. V20 re-verification (2026-09-23): HRMY EPX-100 LIGHTHOUSE (Lennox-Gastaut). Company Q2 2026 PR (via NeurologyLive): topline from both studies expected in H1 2027. Calendar had Q3 based on \"mid-2027\" mapping; revised to H1 2027 per company guidance. Source: https://www.neurologylive.com/view/favorable-phase-1-data-orexin-2-agonist-bp-205-broader-pipeline-progress-headline-harmony-q2-update. Quote: \"Topline data from both studies are expected during the first half of 2027\".",
   "phase": "3",
   "source_type": "company PR",
   "source_url": "https://www.globenewswire.com/news-release/2026/08/04/3338190/0/en/Harmony-Biosciences-Announces-Record-Q2-2026-Revenue-and-Shares-Initial-Clinical-Data-for-Its-Orexin-2-Agonist-BP-205-Reinforcing-Potential-Best-in-Class-Profile.html",
@@ -3430,8 +3398,8 @@
   "source_date": "",
   "record_id": "v16-0106",
   "guidance_detail": "Phase 3 LIGHTHOUSE guided for mid-2027 topline, mapped to the Q2/Q3 boundary as Q3.",
-  "audit_status": "v17_reverified",
-  "audit_action": "nct_backfill"
+  "audit_status": "v20_reverified",
+  "audit_action": "guidance_revision"
  },
  {
   "as_of": "2026-09-23",
@@ -3541,7 +3509,7 @@
   "event_type": "nda_filing",
   "phase": null,
   "date_exact": null,
-  "date_bucket": "2027-Q2",
+  "date_bucket": "2027-H2",
   "date_quality": "guidance",
   "competitors": [
    "NVS (Kesimpta/ofatumumab — anti-CD20 RMS)",
@@ -3551,8 +3519,8 @@
   ],
   "source_url": "https://imux.com/wp-content/uploads/2026/02/20260226-Immunic-Q4-2025-Earnings-Release.pdf",
   "source_type": "company PR",
-  "as_of": "2026-09-18",
-  "notes": "Planned US NDA submission 'mid-2027' (Q2/Q3 boundary; filed in 2027-Q2 per spec), contingent on positive ENSURE-1/ENSURE-2 Phase 3 topline expected by end-2026.",
+  "as_of": "2026-09-23",
+  "notes": "Planned US NDA submission 'mid-2027' (Q2/Q3 boundary; filed in 2027-Q2 per spec), contingent on positive ENSURE-1/ENSURE-2 Phase 3 topline expected by end-2026. V20 re-verification (2026-09-23): Immunic's Feb 26, 2026 Q4 2025 earnings release guides only 'mid-2027' for the US NDA submission of vidofludimus calcium in RMS (contingent on positive ENSURE-1/2 topline by end-2026). The row's 2027-Q2 bucket was over-precise; rebucketed conservatively to 2027-H2 since mid-2027 sits on the Q2/Q3 boundary. Source: https://imux.com/wp-content/uploads/2026/02/20260226-Immunic-Q4-2025-Earnings-Release.pdf. Quote: \"mid-2027\".",
   "us_tradable": true,
   "nct_id": "",
   "application_type": "",
@@ -3562,8 +3530,8 @@
   "source_date": "",
   "record_id": "v16-0110",
   "guidance_detail": "Planned US NDA submission 'mid-2027' (Q2/Q3 boundary; filed in 2027-Q2 per spec), contingent on positive ENSURE-1/ENSURE-2 Phase 3 topline expected by end-2026.",
-  "audit_status": "v16_verified",
-  "audit_action": "none"
+  "audit_status": "v20_reverified",
+  "audit_action": "guidance_revision"
  },
  {
   "ticker": "INCY",
@@ -4265,8 +4233,8 @@
   ],
   "source_url": "https://www.globenewswire.com/news-release/2026/02/24/3243356/0/en/Larimar-Therapeutics-Announces-FDA-Breakthrough-Therapy-Designation-for-Nomlabofusp-in-FA-and-Reiterates-Planned-BLA-Submission-in-June-2026.html",
   "source_type": "company PR",
-  "as_of": "2026-09-18",
-  "notes": "Rolling BLA for accelerated approval: first module submitted June 29, 2026, remaining modules expected 2H 2026; Breakthrough Therapy designation Feb 2026; company targets US launch in 1H 2027 if approved. [Source verified 2026-09-20: Larimar's Feb 24, 2026 GlobeNewswire release (opened): 'Planned BLA submission seeking accelerated approval on track for June 2026; U.S. launch targeted for first-half 2027, if approved.' Milestone list: 'BLA seeking acc]",
+  "as_of": "2026-09-23",
+  "notes": "Rolling BLA for accelerated approval: first module submitted June 29, 2026, remaining modules expected 2H 2026; Breakthrough Therapy designation Feb 2026; company targets US launch in 1H 2027 if approved. [Source verified 2026-09-20: Larimar's Feb 24, 2026 GlobeNewswire release (opened): 'Planned BLA submission seeking accelerated approval on track for June 2026; U.S. launch targeted for first-half 2027, if approved.' Milestone list: 'BLA seeking acc] V20 re-verification (2026-09-23): LRMR nomlabofusp: H1 2027 was a commercial launch target (\"company targets US launch in 1H 2027 if approved\"), not a defined regulatory milestone. Rolling BLA: first module submitted June 29, 2026, remaining modules expected 2H 2026. FDA approval decision timing depends on BLA completion; H1 2027 launch is contingent, not a regulatory catalyst. Event definition revised to reflect regulatory uncertainty; bucket kept 2027-H1. Source: https://www.globenewswire.com/news-release/2026/02/24/3243356/0/en/Larimar-Therapeutics-Announces-FDA-Breakthrough-Thera. Quote: \"the remaining modules are expected to be submitted in the second half of 2026\".",
   "us_tradable": true,
   "nct_id": "",
   "application_type": "",
@@ -4276,8 +4244,8 @@
   "source_date": "",
   "record_id": "v16-0132",
   "guidance_detail": "Rolling BLA for accelerated approval: first module submitted June 29, 2026, remaining modules expected 2H 2026; Breakthrough Therapy designation Feb 2026; company targets US launch in 1H 2027 if approved.",
-  "audit_status": "v16_verified",
-  "audit_action": "none"
+  "audit_status": "v20_reverified",
+  "audit_action": "guidance_revision"
  },
  {
   "ticker": "NBIX",
@@ -4322,27 +4290,27 @@
   "event_type": "readout",
   "phase": "3",
   "date_exact": null,
-  "date_bucket": "2027-Q4",
-  "date_quality": "inferred",
+  "date_bucket": "2027",
+  "date_quality": "guidance",
   "competitors": [
    "BMY (Cobenfy)",
    "ABBV (emraclidine, discontinued)"
   ],
-  "source_url": "https://clinicaltrials.gov/api/v2/studies/NCT06963034",
-  "source_type": "clinicaltrials.gov",
-  "as_of": "2026-09-18",
-  "notes": "Inferred from registry PCD Oct 2027 (NCT06963034); company guides first Ph3 readout H2 2027; oral M4 agonist.",
+  "source_url": "https://www.prnewswire.com/news-releases/neurocrine-biosciences-reports-second-quarter-2026-financial-results-302839431.html",
+  "source_type": "company PR",
+  "as_of": "2026-09-23",
+  "notes": "Inferred from registry PCD Oct 2027 (NCT06963034); company guides first Ph3 readout H2 2027; oral M4 agonist. V20 re-verification (2026-09-23): sponsor Q2 2026 PR: \"With multiple important clinical milestones in 2027, including Phase 3 readouts for osavampator in major depressive disorder and direclidine in schizophrenia...\" No half/quarter printed by sponsor, so conservative window 2027. Registry PCD Oct 2027 (NCT06963034) stays in notes only.",
   "us_tradable": true,
   "nct_id": "NCT06963034",
   "application_type": "",
   "review_class": "",
   "adcom_planned": "unknown",
   "trial_status": "",
-  "source_date": "",
+  "source_date": "2026-07",
   "record_id": "v16-0134",
   "guidance_detail": "Inferred from registry PCD Oct 2027 (NCT06963034); company guides first Ph3 readout H2 2027; oral M4 agonist.",
-  "audit_status": "v16_verified",
-  "audit_action": "none"
+  "audit_status": "v20_reverified",
+  "audit_action": "inferred_to_guidance"
  },
  {
   "ticker": "NBIX",
@@ -4891,70 +4859,6 @@
   "company": "Novartis AG",
   "country": "Switzerland",
   "us_listed": true,
-  "drug": "remibrutinib",
-  "indication": "hidradenitis suppurativa (RECHARGE-1)",
-  "event_type": "readout",
-  "phase": "3",
-  "date_exact": null,
-  "date_bucket": "2027",
-  "date_quality": "guidance",
-  "competitors": [
-   "REGN/SNY (Dupixent)",
-   "Roche/NVS (Xolair)"
-  ],
-  "source_url": "https://www.novartis.com/sites/novartiscom/files/q1-2026-investor-presentation.pdf",
-  "source_type": "company deck",
-  "as_of": "2026-09-18",
-  "notes": "Phase 3 RECHARGE-1 (NCT06799000) of oral BTK inhibitor remibrutinib in hidradenitis suppurativa; readout guided 2027 per Q1 2026 Novartis deck. Indication corrected from CSU (already approved as Rhapsido) per CT.gov registry.",
-  "us_tradable": true,
-  "nct_id": "NCT06799000",
-  "application_type": "",
-  "review_class": "",
-  "adcom_planned": "unknown",
-  "trial_status": "",
-  "source_date": "",
-  "record_id": "v16-0152",
-  "guidance_detail": "Phase 3 RECHARGE-1 (NCT06799000) of oral BTK inhibitor remibrutinib in hidradenitis suppurativa; readout guided 2027 per Q1 2026 Novartis deck.",
-  "audit_status": "v16_verified",
-  "audit_action": "none"
- },
- {
-  "ticker": "NVS",
-  "company": "Novartis AG",
-  "country": "Switzerland",
-  "us_listed": true,
-  "drug": "remibrutinib",
-  "indication": "hidradenitis suppurativa (RECHARGE-2)",
-  "event_type": "readout",
-  "phase": "3",
-  "date_exact": null,
-  "date_bucket": "2027",
-  "date_quality": "guidance",
-  "competitors": [
-   "REGN/SNY (Dupixent)",
-   "Roche/NVS (Xolair)"
-  ],
-  "source_url": "https://www.novartis.com/sites/novartiscom/files/q1-2026-investor-presentation.pdf",
-  "source_type": "company deck",
-  "as_of": "2026-09-18",
-  "notes": "Phase 3 RECHARGE-2 (NCT06840392) of oral BTK inhibitor remibrutinib in hidradenitis suppurativa; readout guided 2027 per Q1 2026 Novartis deck. Indication corrected from CSU (already approved as Rhapsido) per CT.gov registry.",
-  "us_tradable": true,
-  "nct_id": "NCT06840392",
-  "application_type": "",
-  "review_class": "",
-  "adcom_planned": "unknown",
-  "trial_status": "",
-  "source_date": "",
-  "record_id": "v16-0153",
-  "guidance_detail": "Phase 3 RECHARGE-2 (NCT06840392) of oral BTK inhibitor remibrutinib in hidradenitis suppurativa; readout guided 2027 per Q1 2026 Novartis deck.",
-  "audit_status": "v16_verified",
-  "audit_action": "none"
- },
- {
-  "ticker": "NVS",
-  "company": "Novartis AG",
-  "country": "Switzerland",
-  "us_listed": true,
   "drug": "iptacopan (Fabhalta)",
   "indication": "generalized myasthenia gravis (APPRAISE)",
   "event_type": "readout",
@@ -4982,38 +4886,6 @@
   "guidance_detail": "Phase 3 APPRAISE readout guided 2027 per Q1 2026 deck; factor B inhibitor (NCT06517758).",
   "audit_status": "v16_verified",
   "audit_action": "none"
- },
- {
-  "ticker": "NVS",
-  "company": "Novartis AG",
-  "country": "Switzerland",
-  "us_listed": true,
-  "drug": "ofatumumab (Kesimpta)",
-  "indication": "pediatric multiple sclerosis (NEOS)",
-  "event_type": "readout",
-  "phase": "3",
-  "date_exact": null,
-  "date_bucket": "2027",
-  "date_quality": "guidance",
-  "competitors": [
-   "Roche (Ocrevus)",
-   "SNY (tolebrutinib)"
-  ],
-  "source_url": "https://www.novartis.com/sites/novartiscom/files/q1-2026-investor-presentation.pdf",
-  "source_type": "company deck",
-  "as_of": "2026-09-23",
-  "notes": "Phase 3 NEOS pediatric MS readout guided 2027 per Q1 2026 deck (registry shows actual PCD Mar 2026; readout timing per company).",
-  "us_tradable": true,
-  "nct_id": "NCT04926818",
-  "application_type": "",
-  "review_class": "",
-  "adcom_planned": "unknown",
-  "trial_status": "",
-  "source_date": "",
-  "record_id": "v16-0155",
-  "guidance_detail": "Phase 3 NEOS pediatric MS readout guided 2027 per Q1 2026 deck (registry shows actual PCD Mar 2026; readout timing per company).",
-  "audit_status": "v17_reverified",
-  "audit_action": "nct_backfill"
  },
  {
   "ticker": "MRK",
@@ -7178,13 +7050,13 @@
   "company": "Verrica Pharmaceuticals Inc.",
   "competitors": [],
   "country": "United States",
-  "date_bucket": "2027-Q3",
+  "date_bucket": "2027-H1",
   "date_exact": null,
   "date_quality": "guidance",
   "drug": "YCANTH (VP-102)",
   "event_type": "readout",
   "indication": "common warts (COVE-3)",
-  "notes": "Pivotal Phase 3 COVE-3 topline expected mid-2027; mid-year window maps to Q2/Q3 boundary.",
+  "notes": "Pivotal Phase 3 COVE-3 topline expected mid-2027; mid-year window maps to Q2/Q3 boundary. V20 re-verification (2026-09-23): VRCA YCANTH COVE-3 Phase 3 common warts. Company guides 'remaining Phase 3 readouts, including COVE-3, anticipated by mid-2027.' Record's Q3 2027 was too late; revised to H1 2027 per \"by mid-2027\" guidance. Source: https://www.stocktitan.net/news/VRCA/verrica-pharmaceuticals-announces-completion-of-enrollment-in-first-ma37aynjat2u.html. Quote: \"remaining Phase 3 readouts, including COVE-3, anticipated by mid-2027\".",
   "phase": "3",
   "source_type": "company PR",
   "source_url": "https://verrica.com/press_release/verrica-pharmaceuticals-announces-completion-of-enrollment-in-first-pivotal-phase-3-trial-cove-2-evaluating-ycanth-for-the-treatment-of-common-warts-with-topline-data-expected-q1-2027/",
@@ -7199,8 +7071,8 @@
   "source_date": "",
   "record_id": "v16-0223",
   "guidance_detail": "Pivotal Phase 3 COVE-3 topline expected mid-2027; mid-year window maps to Q2/Q3 boundary.",
-  "audit_status": "v17_reverified",
-  "audit_action": "nct_backfill"
+  "audit_status": "v20_reverified",
+  "audit_action": "guidance_revision"
  },
  {
   "as_of": "2026-09-23",
@@ -13475,7 +13347,7 @@
   "audit_action": "none"
  },
  {
-  "as_of": "2026-09-18",
+  "as_of": "2026-09-23",
   "company": "Aligos Therapeutics, Inc.",
   "competitors": [
    "GSK (bepirovirsen)",
@@ -13483,13 +13355,13 @@
    "ABUS (imdusiran)"
   ],
   "country": "United States",
-  "date_bucket": "2027",
+  "date_bucket": "2027-Q3",
   "date_exact": null,
   "date_quality": "guidance",
   "drug": "pevifoscorvir sodium",
   "event_type": "readout",
   "indication": "Chronic hepatitis B virus infection",
-  "notes": "Phase 2 B-SUPREME; topline data for HBeAg- and HBeAg+ cohorts expected in 2027 (company guidance unchanged per Apr 2026 update).",
+  "notes": "Phase 2 B-SUPREME; topline data for HBeAg- and HBeAg+ cohorts expected in 2027 (company guidance unchanged per Apr 2026 update). V20 re-verification (2026-09-23): Timing refined from \"2027\" to \"late third quarter of 2027\" for B-SUPREME topline data (both HBeAg+ and HBeAg- cohorts). Source: https://www.biospace.com/press-releases/aligos-therapeutics-reports-recent-business-progress-and-fourth-quarter-and-full-year-2025-financial-results. Quote: \"Topline safety and efficacy data are expected to be available in late third quarter of 2027.\".",
   "phase": "2",
   "source_type": "company PR",
   "source_url": "https://www.biospace.com/press-releases/aligos-therapeutics-reports-recent-business-progress-and-fourth-quarter-and-full-year-2025-financial-results",
@@ -13503,11 +13375,11 @@
   "source_date": "",
   "record_id": "v16-0442",
   "guidance_detail": "Phase 2 B-SUPREME; topline data for HBeAg- and HBeAg+ cohorts expected in 2027 (company guidance unchanged per Apr 2026 update).",
-  "audit_status": "v16_verified",
-  "audit_action": "none"
+  "audit_status": "v20_reverified",
+  "audit_action": "guidance_revision"
  },
  {
-  "as_of": "2026-09-18",
+  "as_of": "2026-09-23",
   "company": "Allogene Therapeutics, Inc.",
   "competitors": [
    "GILD (axicabtagene ciloleucel)",
@@ -13515,13 +13387,13 @@
    "NVS (tisagenlecleucel)"
   ],
   "country": "United States",
-  "date_bucket": "2027-Q2",
+  "date_bucket": "2027-H2",
   "date_exact": null,
   "date_quality": "guidance",
   "drug": "cemacabtagene ansegedleucel (cema-cel)",
   "event_type": "readout",
   "indication": "First-line consolidation in LBCL patients with minimal residual disease",
-  "notes": "Pivotal Phase 2 ALPHA3 of cema-cel as 1L MRD+ LBCL consolidation; company anticipates interim EFS (primary endpoint) analysis in mid-2027 (Q2/Q3 boundary), primary EFS analysis mid-2028 (Apr 2026 company PR).",
+  "notes": "Pivotal Phase 2 ALPHA3 of cema-cel as 1L MRD+ LBCL consolidation; company anticipates interim EFS (primary endpoint) analysis in mid-2027 (Q2/Q3 boundary), primary EFS analysis mid-2028 (Apr 2026 company PR). V20 re-verification (2026-09-23): Allogene's September 2026 8-K guides only 'mid-2027' for the ALPHA3 interim EFS analysis (primary EFS analysis mid-2028). The row's 2027-Q2 bucket was over-precise; rebucketed conservatively to 2027-H2. Note the 10-Q caveat: the interim analysis is DSMB-overseen and the company 'may not announce treatment-arm-specific interim EFS results in mid-2027, and any public update may be limited' - the mid-2027 program update may be limited in depth. Source: https://www.globenewswire.com/news-release/2026/04/13/3272397/0/en/Allogene-Therapeutics-Reports-Interim-Futility-Analysis-from-Pivotal-ALPHA3-Trial-Showing-58-3-MRD-Clearance-with-Cemacabtagene-Ansegedleucel-Cema-Cel-vs-16-7-in.html. Quote: \"mid-2027\".",
   "phase": "2",
   "source_type": "company PR",
   "source_url": "https://www.globenewswire.com/news-release/2026/04/13/3272397/0/en/Allogene-Therapeutics-Reports-Interim-Futility-Analysis-from-Pivotal-ALPHA3-Trial-Showing-58-3-MRD-Clearance-with-Cemacabtagene-Ansegedleucel-Cema-Cel-vs-16-7-in.html",
@@ -13535,8 +13407,8 @@
   "source_date": "",
   "record_id": "v16-0443",
   "guidance_detail": "Pivotal Phase 2 ALPHA3 of cema-cel as 1L MRD+ LBCL consolidation; company anticipates interim EFS (primary endpoint) analysis in mid-2027 (Q2/Q3 boundary), primary EFS analysis mid-2028 (Apr 2026 company PR).",
-  "audit_status": "v16_verified",
-  "audit_action": "none"
+  "audit_status": "v20_reverified",
+  "audit_action": "guidance_revision"
  },
  {
   "as_of": "2026-09-18",
@@ -13602,7 +13474,7 @@
   "audit_action": "none"
  },
  {
-  "as_of": "2026-09-18",
+  "as_of": "2026-09-23",
   "company": "argenx SE",
   "competitors": [
    "HNSA (imlifidase)",
@@ -13616,7 +13488,7 @@
   "drug": "efgartigimod",
   "event_type": "readout",
   "indication": "Antibody-mediated rejection (AMR) after kidney transplantation",
-  "notes": "Global Phase 2 proof-of-concept (NCT06503731, ARGX-113-2302); estimated primary completion Nov 2027 (registry last verified May 1, 2026). Readout inferred from completion; company 2025 strategic priorities also guided AMR PoC topline in 2027. [V17 audit 2026-09-23: argenx Jan 2025 outlook guides \"AMR in 2027\" (year-level, no half); quality upgraded inferred->guidance, bucket firmed to 2027.]",
+  "notes": "Global Phase 2 proof-of-concept (NCT06503731, ARGX-113-2302); estimated primary completion Nov 2027 (registry last verified May 1, 2026). Readout inferred from completion; company 2025 strategic priorities also guided AMR PoC topline in 2027. [V17 audit 2026-09-23: argenx Jan 2025 outlook guides \"AMR in 2027\" (year-level, no half); quality upgraded inferred->guidance, bucket firmed to 2027.] V20 re-verification (2026-09-23): ARGX efgartigimod AMR (kidney transplant). Jan 2025 strategic outlook guided \"AMR in 2027\". Phase 2 study (NCT06503731) primary completion Nov 2027. Not mentioned in H1 2026 registrational readout outlook (which focused on registrational studies). Revised to reflect Phase 2 status and late-2027 trial completion timeline; 2027 readout contingent on data availability. Bucket kept at 2027. Source: https://clinicaltrials.gov/study/NCT06503731. Quote: \"Primary Completion (Estimated), 2027-11\".",
   "phase": "2",
   "source_type": "clinicaltrials.gov",
   "source_url": "https://clinicaltrials.gov/ct2/show/NCT06503731",
@@ -13630,8 +13502,8 @@
   "source_date": "",
   "record_id": "v16-0446",
   "guidance_detail": "Company-guided 2027 topline (argenx strategic outlook Jan 2025: \"AMR in 2027\").",
-  "audit_status": "v17_reverified",
-  "audit_action": "corrected"
+  "audit_status": "v20_reverified",
+  "audit_action": "guidance_revision"
  },
  {
   "as_of": "2026-09-18",
@@ -16924,37 +16796,6 @@
   "audit_action": "none"
  },
  {
-  "as_of": "2026-09-18",
-  "company": "Phathom Pharmaceuticals, Inc.",
-  "competitors": [
-   "SNY/REGN dupilumab (Dupixent)",
-   "Takeda budesonide oral suspension (Eohilia)"
-  ],
-  "country": "United States",
-  "date_bucket": "2027",
-  "date_exact": null,
-  "date_quality": "guidance",
-  "drug": "VOQUEZNA (vonoprazan)",
-  "event_type": "readout",
-  "indication": "Eosinophilic esophagitis (EoE) in adults",
-  "notes": "pHalcon-EoE-201 Phase 2; first patient dosed Nov 2025; topline primary and secondary results guided for 2027",
-  "phase": "2",
-  "source_type": "company PR",
-  "source_url": "https://www.globenewswire.com/news-release/2025/11/04/3180287/0/en/Phathom-Pharmaceuticals-Announces-First-Patient-Dosed-in-Phase-2-Study-of-VOQUEZNA-vonoprazan-in-Eosinophilic-EoE.html",
-  "ticker": "PHAT",
-  "us_listed": true,
-  "nct_id": "",
-  "application_type": "",
-  "review_class": "",
-  "adcom_planned": "unknown",
-  "trial_status": "",
-  "source_date": "",
-  "record_id": "v16-0553",
-  "guidance_detail": "pHalcon-EoE-201 Phase 2; first patient dosed Nov 2025; topline primary and secondary results guided for 2027.",
-  "audit_status": "v16_verified",
-  "audit_action": "none"
- },
- {
   "as_of": "2026-09-23",
   "company": "Pharming Group N.V.",
   "competitors": [
@@ -17109,7 +16950,7 @@
   "audit_action": "none"
  },
  {
-  "as_of": "2026-09-18",
+  "as_of": "2026-09-23",
   "company": "Regeneron Pharmaceuticals, Inc.",
   "competitors": [
    "BMS/Bristol Myers Squibb milvexian (FXI inhibitor, LIBREXIA program)",
@@ -17118,11 +16959,11 @@
   "country": "United States",
   "date_bucket": "2027-Q2",
   "date_exact": null,
-  "date_quality": "guidance",
+  "date_quality": "inferred",
   "drug": "cenvacibart (REGN7508) + amrecibart (REGN9933), anti-Factor XI antibodies",
   "event_type": "readout",
   "indication": "Stroke prevention in patients with atrial fibrillation (SPA)",
-  "notes": "Phase 2 ROXI-ATLAS evaluates cenvacibart (REGN7508) + amrecibart (REGN9933) vs apixaban in AF stroke prevention; Regeneron April 2026 corporate deck lists the trial as enrolling with estimated primary completion supporting a 2Q 2027 readout. Per Caleb's 2026-09-20 directive, Quartr-hosted call transcripts are legitimate sources; no URL change.",
+  "notes": "Phase 2 ROXI-ATLAS evaluates cenvacibart (REGN7508) + amrecibart (REGN9933) vs apixaban in AF stroke prevention; Regeneron April 2026 corporate deck lists the trial as enrolling with estimated primary completion supporting a 2Q 2027 readout. Per Caleb's 2026-09-20 directive, Quartr-hosted call transcripts are legitimate sources; no URL change. V20 re-verification (2026-09-23): ROXI-ATLAS: source guides trial completion (not a readout). With trial completing 2027 and a 12-week readout lag, the company has no public 2027 readout timing - downgraded guidance to inferred. Bucket kept 2027-Q2. Source: https://investor.regeneron.com/news-releases/news-release-details/regeneron-announces-investor-conference-participation/.",
   "phase": "2",
   "source_type": "company deck",
   "source_url": "https://files.quartr.com/conference-calls/91889-2026-04-29-12-51-27.pdf?ref=TWFya2V0QmVhdCBNZWRpYSBMTEM=",
@@ -17136,8 +16977,8 @@
   "source_date": "",
   "record_id": "v16-0559",
   "guidance_detail": "Phase 2 ROXI-ATLAS evaluates cenvacibart (REGN7508) + amrecibart (REGN9933) vs apixaban in AF stroke prevention; Regeneron April 2026 corporate deck lists the trial as enrolling with estimated primary completion supporting a 2Q 2027 readout.",
-  "audit_status": "v16_verified",
-  "audit_action": "none"
+  "audit_status": "v20_reverified",
+  "audit_action": "guidance_revision"
  },
  {
   "as_of": "2026-09-18",
@@ -18318,39 +18159,6 @@
   "country": "United States",
   "us_listed": true,
   "us_tradable": true,
-  "drug": "AL050",
-  "indication": "Parkinson's disease (ABC-enabled GCase enzyme replacement)",
-  "event_type": "ind",
-  "phase": null,
-  "date_exact": null,
-  "date_bucket": "2027",
-  "date_quality": "guidance",
-  "competitors": [
-   "PR001 (Eli Lilly/Prevail)",
-   "GT-02287 (Gain Therapeutics)",
-   "BIIB122 (Biogen/Denali)"
-  ],
-  "source_url": "https://www.globenewswire.com/news-release/2025/11/06/3183074/0/en/Alector-Reports-Third-Quarter-2025-Financial-Results-and-Provides-Business-Update.html",
-  "source_type": "company PR",
-  "as_of": "2026-09-18",
-  "notes": "Company targets AL050 IND application in 2027; ABC blood-brain-barrier platform program [Source verified 2026-09-20: \"Alector has selected lead candidate AL050 for its ABC-enabled glucocerebrosidase (GCase) enzyme replacement therapy (ERT) in Parkinson's disease (PD) and is advancing the candidate toward IND-enabling studies. The compa]",
-  "nct_id": "",
-  "application_type": "",
-  "review_class": "",
-  "adcom_planned": "unknown",
-  "trial_status": "",
-  "source_date": "",
-  "record_id": "v16-0597",
-  "guidance_detail": "Company targets AL050 IND application in 2027; ABC blood-brain-barrier platform program [Source verified 2026-09-20: \"Alector has selected lead candidate AL050 for its ABC-enabled glucocerebrosidase (GCase) enzyme replacement therapy (ERT) in Parkinson's disease (PD) and is advancing the candidate toward IND-enabling studies.",
-  "audit_status": "v16_verified",
-  "audit_action": "none"
- },
- {
-  "ticker": "ALEC",
-  "company": "Alector, Inc.",
-  "country": "United States",
-  "us_listed": true,
-  "us_tradable": true,
   "drug": "AL137 (ABC-enabled anti-amyloid beta antibody)",
   "indication": "Alzheimer's disease",
   "event_type": "ind",
@@ -18768,7 +18576,7 @@
   "audit_action": "none"
  },
  {
-  "as_of": "2026-09-18",
+  "as_of": "2026-09-23",
   "company": "Arvinas, Inc.",
   "competitors": [
    "Leuprolide (off-label, generics)"
@@ -18776,11 +18584,11 @@
   "country": "United States",
   "date_bucket": "2027-H1",
   "date_exact": null,
-  "date_quality": "inferred",
+  "date_quality": "guidance",
   "drug": "ARV-027",
   "event_type": "readout",
   "indication": "Spinal and bulbar muscular atrophy (oral PROTAC polyQ-AR degrader; Phase 1 in healthy volunteers)",
-  "notes": "Company guided 2026-08-04 sharing Phase 1 data over the next 12 months; H1 2027 is the 2027 portion of that window; no approved disease-modifying therapy for SBMA. [Source verified 2026-09-20: \"Continue enrollment in the multiple dose cohort of the Phase 1 clinical trial in healthy volunteers and share initial data evaluating androgen receptor (AR)-degradation in muscle (1H 2027).\"]",
+  "notes": "Company guided 2026-08-04 sharing Phase 1 data over the next 12 months; H1 2027 is the 2027 portion of that window; no approved disease-modifying therapy for SBMA. [Source verified 2026-09-20: \"Continue enrollment in the multiple dose cohort of the Phase 1 clinical trial in healthy volunteers and share initial data evaluating androgen receptor (AR)-degradation in muscle (1H 2027).\"] V20 re-verification (2026-09-23): sponsor Q2 2026 PR: \"Continue enrollment in the multiple dose cohort of the Phase 1 clinical trial in healthy volunteers and share initial data evaluating androgen receptor (AR)-degradation in muscle (1H 2027).\" No calendar day printed, so guidance (not hard).",
   "phase": "1",
   "source_type": "company PR",
   "source_url": "https://www.globenewswire.com/news-release/2026/08/04/3338149/0/en/Arvinas-Reports-Second-Quarter-2026-Financial-Results-and-Provides-Corporate-Update.html",
@@ -18792,11 +18600,11 @@
   "review_class": "",
   "adcom_planned": "unknown",
   "trial_status": "",
-  "source_date": "",
+  "source_date": "2026-08-04",
   "record_id": "v16-0611",
   "guidance_detail": "Company guided 2026-08-04 sharing Phase 1 data over the next 12 months; H1 2027 is the 2027 portion of that window; no approved disease-modifying therapy for SBMA.",
-  "audit_status": "v16_verified",
-  "audit_action": "none"
+  "audit_status": "v20_reverified",
+  "audit_action": "inferred_to_guidance"
  },
  {
   "as_of": "2026-09-18",
@@ -18831,7 +18639,7 @@
   "audit_action": "none"
  },
  {
-  "as_of": "2026-09-18",
+  "as_of": "2026-09-23",
   "company": "Arvinas, Inc.",
   "competitors": [
    "Glofitamab/Columvi (Roche)",
@@ -18841,11 +18649,11 @@
   "country": "United States",
   "date_bucket": "2027-H1",
   "date_exact": null,
-  "date_quality": "inferred",
+  "date_quality": "guidance",
   "drug": "ARV-393",
   "event_type": "readout",
   "indication": "Relapsed/refractory non-Hodgkin lymphoma (oral PROTAC BCL6 degrader)",
-  "notes": "Company guided 2026-08-04 sharing clinical data from three Phase 1 programs (ARV-393, ARV-102, ARV-027) over the next 12 months; H1 2027 is the 2027 portion of that window. [Source verified 2026-09-20: \"Share additional monotherapy data from the ongoing Phase 1 dose escalation trial in B- and T-cell lymphomas (mid-2027).\"]",
+  "notes": "Company guided 2026-08-04 sharing clinical data from three Phase 1 programs (ARV-393, ARV-102, ARV-027) over the next 12 months; H1 2027 is the 2027 portion of that window. [Source verified 2026-09-20: \"Share additional monotherapy data from the ongoing Phase 1 dose escalation trial in B- and T-cell lymphomas (mid-2027).\"] V20 re-verification (2026-09-23): sponsor Q2 2026 PR: \"Share additional monotherapy data from the ongoing Phase 1 dose escalation trial in B- and T-cell lymphomas (mid-2027).\" No calendar day printed, so guidance (not hard).",
   "phase": "1",
   "source_type": "company PR",
   "source_url": "https://www.globenewswire.com/news-release/2026/08/04/3338149/0/en/Arvinas-Reports-Second-Quarter-2026-Financial-Results-and-Provides-Corporate-Update.html",
@@ -18857,11 +18665,11 @@
   "review_class": "",
   "adcom_planned": "unknown",
   "trial_status": "",
-  "source_date": "",
+  "source_date": "2026-08-04",
   "record_id": "v16-0613",
   "guidance_detail": "Company guided 2026-08-04 sharing clinical data from three Phase 1 programs (ARV-393, ARV-102, ARV-027) over the next 12 months; H1 2027 is the 2027 portion of that window.",
-  "audit_status": "v16_verified",
-  "audit_action": "none"
+  "audit_status": "v20_reverified",
+  "audit_action": "inferred_to_guidance"
  },
  {
   "as_of": "2026-09-23",
@@ -20840,7 +20648,7 @@
   "audit_action": "none"
  },
  {
-  "as_of": "2026-09-18",
+  "as_of": "2026-09-23",
   "company": "Werewolf Therapeutics, Inc.",
   "competitors": [
    "xaluritamig (Amgen, STEAP1xCD3 T-cell engager)",
@@ -20853,7 +20661,7 @@
   "drug": "WTX-1011 (INDUCER T-cell engager targeting STEAP1)",
   "event_type": "ind",
   "indication": "Advanced, relapsed/refractory STEAP1-expressing cancers (prostate cancer)",
-  "notes": "One of two INDUCER IND filings the company plans by mid-2027 (with WTX-2022; captured in H1 at the Q2/Q3 boundary). Cell-line development initiated and IND-enabling studies underway; filings are pending additional funding.",
+  "notes": "One of two INDUCER IND filings the company plans by mid-2027 (with WTX-2022; captured in H1 at the Q2/Q3 boundary). Cell-line development initiated and IND-enabling studies underway; filings are pending additional funding. V20 re-verification (2026-09-23): Howl merged into Ambros (closed); the merger does not prove IND-program cancellation. Recheck trigger: Howl/Ambros investor materials or SEC filings confirming WTX-1011/WTX-2022 IND status.",
   "phase": "preclinical",
   "source_type": "company PR",
   "source_url": "https://www.globenewswire.com/news-release/2025/12/18/3207684/0/en/Werewolf-Therapeutics-Announces-Pipeline-and-Business-Updates.html",
@@ -20868,11 +20676,11 @@
   "source_date": "",
   "record_id": "v16-0675",
   "guidance_detail": "One of two INDUCER IND filings the company plans by mid-2027 (with WTX-2022; captured in H1 at the Q2/Q3 boundary).",
-  "audit_status": "v16_verified",
-  "audit_action": "none"
+  "audit_status": "v20_reverified",
+  "audit_action": "recheck_note"
  },
  {
-  "as_of": "2026-09-18",
+  "as_of": "2026-09-23",
   "company": "Werewolf Therapeutics, Inc.",
   "competitors": [
    "raludotatug deruxtecan (Daiichi Sankyo/Merck, CDH6 ADC)",
@@ -20885,7 +20693,7 @@
   "drug": "WTX-2022 (INDUCER T-cell engager targeting CDH6)",
   "event_type": "ind",
   "indication": "CDH6-expressing cancers (ovarian and kidney cancer)",
-  "notes": "Second of two INDUCER IND filings planned by mid-2027 (captured in H1 at the Q2/Q3 boundary). Cell-line development initiated and IND-enabling studies underway; filings are pending additional funding.",
+  "notes": "Second of two INDUCER IND filings planned by mid-2027 (captured in H1 at the Q2/Q3 boundary). Cell-line development initiated and IND-enabling studies underway; filings are pending additional funding. V20 re-verification (2026-09-23): Howl merged into Ambros (closed); the merger does not prove IND-program cancellation. Recheck trigger: Howl/Ambros investor materials or SEC filings confirming WTX-1011/WTX-2022 IND status.",
   "phase": "preclinical",
   "source_type": "company PR",
   "source_url": "https://www.globenewswire.com/news-release/2025/12/18/3207684/0/en/Werewolf-Therapeutics-Announces-Pipeline-and-Business-Updates.html",
@@ -20900,8 +20708,8 @@
   "source_date": "",
   "record_id": "v16-0676",
   "guidance_detail": "Second of two INDUCER IND filings planned by mid-2027 (captured in H1 at the Q2/Q3 boundary).",
-  "audit_status": "v16_verified",
-  "audit_action": "none"
+  "audit_status": "v20_reverified",
+  "audit_action": "recheck_note"
  },
  {
   "as_of": "2026-09-18",
@@ -20999,7 +20807,7 @@
   "audit_action": "none"
  },
  {
-  "as_of": "2026-09-18",
+  "as_of": "2026-09-23",
   "company": "SeaStar Medical Holding Corporation",
   "competitors": [
    "Prismaflex (Baxter, continuous renal replacement therapy system)",
@@ -21012,7 +20820,7 @@
   "drug": "Selective Cytopheretic Device (SCD)",
   "event_type": "regulatory_other",
   "indication": "Adult acute kidney injury (AKI) requiring continuous kidney replacement therapy (CKRT)",
-  "notes": "PMA submission planned in 2027 contingent on a successful outcome of the NEUTRALIZE-AKI pivotal trial (NCT05758077; enrollment completion targeted for end of 2026; registry primary completion estimated December 2026). SCD holds Breakthrough Device designation for adult AKI. Phase is null (device). [Source verified 2026-09-20: \"We also plan to accelerate enrollment in our NEUTRALIZE-AKI pivotal trial to complete enrollment near the end of 2026. Provided a successful outcome of the trial, we will submit our Premarket Approval application (PMA) ]",
+  "notes": "PMA submission planned in 2027 contingent on a successful outcome of the NEUTRALIZE-AKI pivotal trial (NCT05758077; enrollment completion targeted for end of 2026; registry primary completion estimated December 2026). SCD holds Breakthrough Device designation for adult AKI. Phase is null (device). [Source verified 2026-09-20: \"We also plan to accelerate enrollment in our NEUTRALIZE-AKI pivotal trial to complete enrollment near the end of 2026. Provided a successful outcome of the trial, we will submit our Premarket Approval application (PMA) ] V20 re-verification (2026-09-23): SeaStar's Q2 2026 earnings call refines prior 'PMA in 2027' guidance: NEUTRALIZE-AKI enrollment expected to finish around year-end 2026 or Q1 2027, with a late-2027 target for the final PMA module submission (modular PMA), contingent on a positive trial outcome. Bucket remains 2027; details updated to the newer timing and modular-submission contingency. Source: https://www.globenewswire.com/news-release/2026/01/07/3214506/0/en/SeaStar-Medical-Announces-2026-Milestones.html. Quote: \"late-2027\".",
   "phase": null,
   "source_type": "company PR",
   "source_url": "https://www.globenewswire.com/news-release/2026/01/07/3214506/0/en/SeaStar-Medical-Announces-2026-Milestones.html",
@@ -21027,8 +20835,8 @@
   "source_date": "",
   "record_id": "v16-0680",
   "guidance_detail": "PMA submission planned in 2027 contingent on a successful outcome of the NEUTRALIZE-AKI pivotal trial (NCT05758077; enrollment completion targeted for end of 2026; registry primary completion estimated December 2026).",
-  "audit_status": "v16_verified",
-  "audit_action": "none"
+  "audit_status": "v20_reverified",
+  "audit_action": "guidance_revision"
  },
  {
   "as_of": "2026-09-18",
@@ -21725,8 +21533,8 @@
   "event_type": "readout",
   "phase": "1",
   "date_exact": null,
-  "date_bucket": "2027-Q1",
-  "date_quality": "guidance",
+  "date_bucket": "2027",
+  "date_quality": "inferred",
   "competitors": [
    "Zepbound/tirzepatide (Lilly)",
    "Wegovy/semaglutide (Novo Nordisk)",
@@ -21734,8 +21542,8 @@
   ],
   "source_url": "https://www.globenewswire.com/news-release/2026/03/23/3260282/0/en/Lexicon-Pharmaceuticals-and-Novo-Nordisk-Announce-initiation-of-Phase-1-study-with-oral-obesity-drug-candidate-LX9851.html",
   "source_type": "company PR",
-  "as_of": "2026-09-18",
-  "notes": "Lexicon/Novo Nordisk joint Phase 1 of oral ACSL5 inhibitor LX9851; companies guide study completion Q1 2027;",
+  "as_of": "2026-09-23",
+  "notes": "Lexicon/Novo Nordisk joint Phase 1 of oral ACSL5 inhibitor LX9851; companies guide study completion Q1 2027; V20 re-verification (2026-09-23): LX9851 (NVO/Lexicon): sponsor guides only a trial-completion date (not a public readout) in 2027. No company readout guidance found - downgraded guidance to inferred and bucket broadened to full-year 2027. Source: https://www.novonordisk.com/news-and-media/news-and-ir-materials/news-details.html?id=200006.",
   "nct_id": "",
   "application_type": "",
   "review_class": "",
@@ -21744,8 +21552,8 @@
   "source_date": "",
   "record_id": "v16-0702",
   "guidance_detail": "Lexicon/Novo Nordisk joint Phase 1 of oral ACSL5 inhibitor LX9851; companies guide study completion Q1 2027;.",
-  "audit_status": "v16_verified",
-  "audit_action": "none"
+  "audit_status": "v20_reverified",
+  "audit_action": "guidance_revision"
  },
  {
   "ticker": "NVO",
@@ -24256,8 +24064,8 @@
   ],
   "source_url": "https://clinicaltrials.gov/study/NCT06603246",
   "source_type": "clinicaltrials.gov",
-  "as_of": "2026-09-18",
-  "notes": "Phase Ic inhaled study in patients. inferred from CT.gov primary completion 2027-11-15 (NCT06603246); registry completion does not guarantee data disclosure.",
+  "as_of": "2026-09-23",
+  "notes": "Phase Ic inhaled study in patients. inferred from CT.gov primary completion 2027-11-15 (NCT06603246); registry completion does not guarantee data disclosure. V20 re-verification (2026-09-23): QUARTER-MISMATCH FLAG: inferred bucket 2027-Q3 conflicts with registry primary-completion quarter (PCD 2027-11-15); topline timing may differ from the bucket. Recheck registry before window.",
   "us_tradable": true,
   "nct_id": "NCT06603246",
   "application_type": "",
@@ -24267,8 +24075,8 @@
   "source_date": "",
   "record_id": "v16-0780",
   "guidance_detail": "Phase Ic inhaled study in patients.",
-  "audit_status": "v16_verified",
-  "audit_action": "none"
+  "audit_status": "v20_reverified",
+  "audit_action": "quarter_mismatch_flag"
  },
  {
   "ticker": "RHHBY",
@@ -24478,7 +24286,7 @@
   "source_url": "https://clinicaltrials.gov/study/NCT07271693",
   "source_type": "clinicaltrials.gov",
   "as_of": "2026-09-23",
-  "notes": "SAD/MAD first-in-human; target not disclosed. inferred from CT.gov primary completion 2027-03-01 (NCT07271693); registry completion does not guarantee data disclosure.",
+  "notes": "SAD/MAD first-in-human; target not disclosed. inferred from CT.gov primary completion 2027-03-01 (NCT07271693); registry completion does not guarantee data disclosure. V20 re-verification (2026-09-23): QUARTER-MISMATCH FLAG: inferred bucket 2027-Q1 conflicts with registry primary-completion quarter (PCD 2027-05-11); topline timing may differ from the bucket. Recheck registry before window.",
   "us_tradable": true,
   "nct_id": "NCT07271693",
   "application_type": "",
@@ -24488,8 +24296,8 @@
   "source_date": "",
   "record_id": "v16-0787",
   "guidance_detail": "SAD/MAD first-in-human; target not disclosed.",
-  "audit_status": "v17_reverified",
-  "audit_action": "competitor_normalize"
+  "audit_status": "v20_reverified",
+  "audit_action": "quarter_mismatch_flag"
  },
  {
   "ticker": "RHHBY",
@@ -24541,8 +24349,8 @@
   ],
   "source_url": "https://clinicaltrials.gov/study/NCT03448042",
   "source_type": "clinicaltrials.gov",
-  "as_of": "2026-09-18",
-  "notes": "inferred from CT.gov primary completion 2027-04-30 (NCT03448042); registry completion does not guarantee data disclosure.",
+  "as_of": "2026-09-23",
+  "notes": "inferred from CT.gov primary completion 2027-04-30 (NCT03448042); registry completion does not guarantee data disclosure. V20 re-verification (2026-09-23): QUARTER-MISMATCH FLAG: inferred bucket 2027-Q4 conflicts with registry primary-completion quarter (PCD 2027-04-30); topline timing may differ from the bucket. Recheck registry before window.",
   "us_tradable": true,
   "nct_id": "NCT03448042",
   "application_type": "",
@@ -24552,8 +24360,8 @@
   "source_date": "",
   "record_id": "v16-0789",
   "guidance_detail": "inferred from CT.gov primary completion 2027-04-30 (NCT03448042); registry completion does not guarantee data disclosure.",
-  "audit_status": "v16_verified",
-  "audit_action": "none"
+  "audit_status": "v20_reverified",
+  "audit_action": "quarter_mismatch_flag"
  },
  {
   "ticker": "RLAY",
@@ -25401,7 +25209,7 @@
   "drug": "VX-272",
   "event_type": "readout",
   "indication": "Cystic fibrosis (Phase 1 healthy-volunteer dose-escalation)",
-  "notes": "Registry-inferred: Vertex-sponsored Phase 1 healthy-volunteer study (NCT07437105, recruiting) has PCD 2027-03-23; no company 2027 readout guidance located.",
+  "notes": "Registry-inferred: Vertex-sponsored Phase 1 healthy-volunteer study (NCT07437105, recruiting) has PCD 2027-03-23; no company 2027 readout guidance located. V20 re-verification (2026-09-23): QUARTER-MISMATCH FLAG: inferred bucket 2027-Q1 conflicts with registry primary-completion quarter (PCD 2027-06-26); topline timing may differ from the bucket. Recheck registry before window.",
   "phase": "1",
   "source_type": "clinicaltrials.gov",
   "source_url": "https://clinicaltrials.gov/study/NCT07437105",
@@ -25416,8 +25224,8 @@
   "source_date": "",
   "record_id": "v16-0816",
   "guidance_detail": "Registry-inferred: Vertex-sponsored Phase 1 healthy-volunteer study (NCT07437105, recruiting) has PCD 2027-03-23; no company 2027 readout guidance located.",
-  "audit_status": "v18_reverified",
-  "audit_action": "nct-cleanup"
+  "audit_status": "v20_reverified",
+  "audit_action": "quarter_mismatch_flag"
  },
  {
   "as_of": "2026-09-23",
@@ -26148,7 +25956,7 @@
   "event_type": "readout",
   "phase": "2",
   "date_exact": null,
-  "date_bucket": "2027-Q2",
+  "date_bucket": "2027",
   "date_quality": "guidance",
   "competitors": [
    "Vonvendi (Takeda)",
@@ -26157,8 +25965,8 @@
   ],
   "source_url": "https://www.businesswire.com/news/home/20260730523296/en/Alnylam-Pharmaceuticals-Reports-Second-Quarter-2026-Financial-Results-and-Highlights-Recent-Period-Progress",
   "source_type": "company deck",
-  "as_of": "2026-09-18",
-  "notes": "Phase 2 study NCT07575308; registry primary completion 2027-06-30, status active; topline typically ~3-6 mo later Deep audit 2026-09-20: upgraded inferred->guidance; Alnylam Q2 2026 company release guides H2 2026 expected results from Phase 1 and Phase 2 ALN-6400 trials (healthy volunteers and HHT patients); specific quarter/month timing for the 2027 Phase 3 start remains registry-inferred working proxy.",
+  "as_of": "2026-09-23",
+  "notes": "Phase 2 study NCT07575308; registry primary completion 2027-06-30, status active; topline typically ~3-6 mo later Deep audit 2026-09-20: upgraded inferred->guidance; Alnylam Q2 2026 company release guides H2 2026 expected results from Phase 1 and Phase 2 ALN-6400 trials (healthy volunteers and HHT patients); specific quarter/month timing for the 2027 Phase 3 start remains registry-inferred working proxy. V20 re-verification (2026-09-23): ALNY ALN-6400 Phase 1 MAD 2Q results reported Jul 30, 2026; company guides only \"2027\" for full study results (no half). Calendar's Q2 bucket was over-precise; broadened to 2027. Source: https://www.biospace.com/press-releases/alnylam-reports-positive-phase-1-results-for-aln-6400-a-novel-high-dose-low-volume-thrombin-receptor-agonist-peptide-trap-for-thrombosis. Quote: \"ALN-6400 Phase 1 MAD 2Q results\".",
   "nct_id": "NCT07575308",
   "application_type": "",
   "review_class": "",
@@ -26167,8 +25975,8 @@
   "source_date": "",
   "record_id": "v16-0839",
   "guidance_detail": "Phase 2 study NCT07575308; registry primary completion 2027-06-30, status active; topline typically ~3-6 mo later Deep audit 2026-09-20: upgraded inferred->guidance; Alnylam Q2 2026 company release guides H2 2026 expected results from Phase 1 and Phase 2 ALN-6400 trials (healthy volunteers and HHT patients); specific quarter/month timing for the 2027 Phase 3 start remains registry-inferred working",
-  "audit_status": "v16_verified",
-  "audit_action": "none"
+  "audit_status": "v20_reverified",
+  "audit_action": "guidance_revision"
  },
  {
   "ticker": "ALNY",
@@ -27720,7 +27528,7 @@
   "audit_action": "none"
  },
  {
-  "as_of": "2026-09-18",
+  "as_of": "2026-09-23",
   "company": "GSK plc",
   "competitors": [
    "brensocatib (Insmed, DPP1 inhibitor)"
@@ -27732,7 +27540,7 @@
   "drug": "GSK3862995B",
   "event_type": "readout",
   "indication": "Bronchiectasis",
-  "notes": "Timing inferred from CT.gov NCT07201051: recruiting GSK-sponsored Phase 2 randomized, double-blind, placebo-controlled study, estimated primary completion 2027-05-04.",
+  "notes": "Timing inferred from CT.gov NCT07201051: recruiting GSK-sponsored Phase 2 randomized, double-blind, placebo-controlled study, estimated primary completion 2027-05-04. V20 re-verification (2026-09-23): QUARTER-MISMATCH FLAG: inferred bucket 2027-Q1 conflicts with registry primary-completion quarter (PCD 2027-05-04); topline timing may differ from the bucket. Recheck registry before window.",
   "phase": "2",
   "source_type": "clinicaltrials.gov",
   "source_url": "https://clinicaltrials.gov/study/NCT07201051",
@@ -27747,8 +27555,8 @@
   "source_date": "",
   "record_id": "v16-0889",
   "guidance_detail": "Timing inferred from CT.gov NCT07201051: recruiting GSK-sponsored Phase 2 randomized, double-blind, placebo-controlled study, estimated primary completion 2027-05-04.",
-  "audit_status": "v16_verified",
-  "audit_action": "none"
+  "audit_status": "v20_reverified",
+  "audit_action": "quarter_mismatch_flag"
  },
  {
   "as_of": "2026-09-18",
@@ -28295,7 +28103,7 @@
   "audit_action": "none"
  },
  {
-  "as_of": "2026-09-18",
+  "as_of": "2026-09-23",
   "company": "Kailera Therapeutics, Inc.",
   "competitors": [
    "LLY (retatrutide)",
@@ -28303,13 +28111,13 @@
    "AMGN (maridebart cafraglutide)"
   ],
   "country": "United States",
-  "date_bucket": "2027-H2",
+  "date_bucket": "2027",
   "date_exact": null,
   "date_quality": "guidance",
   "drug": "Ribupatide (KAI-9531) injectable",
   "event_type": "readout",
   "indication": "Obesity (participants without type 2 diabetes)",
-  "notes": "inferred from CT.gov primary completion May 2027; Phase 2b randomized double-blind placebo-controlled study of once-weekly ribupatide. Deep audit 2026-09-20: upgraded inferred->guidance; Kailera Q2 2026 business update (press-release mirror of company release) guides US Phase 2b high-dose obesity data mid-2027; bucket 2027-H2 retained.",
+  "notes": "inferred from CT.gov primary completion May 2027; Phase 2b randomized double-blind placebo-controlled study of once-weekly ribupatide. Deep audit 2026-09-20: upgraded inferred->guidance; Kailera Q2 2026 business update (press-release mirror of company release) guides US Phase 2b high-dose obesity data mid-2027; bucket 2027-H2 retained. V20 re-verification (2026-09-23): KLRA ribupatide (KAI-9531): sponsor guides only 2027 for Phase 2 readout - no half printed. Calendar's H2 bucket was over-precise; broadened to full-year 2027. Source: https://www.globenewswire.com/news-release/2026/08/13/3346142/0/en/Kailera-Therapeutics-Reports-Second-Quarter-2026-Financial-Results.html.",
   "phase": "2",
   "source_type": "company PR",
   "source_url": "https://www.nasdaq.com/press-release/kailera-reports-second-quarter-2026-financial-results-and-provides-business-updates",
@@ -28324,8 +28132,8 @@
   "source_date": "",
   "record_id": "v16-0907",
   "guidance_detail": "inferred from CT.gov primary completion May 2027; Phase 2b randomized double-blind placebo-controlled study of once-weekly ribupatide.",
-  "audit_status": "v16_verified",
-  "audit_action": "none"
+  "audit_status": "v20_reverified",
+  "audit_action": "guidance_revision"
  },
  {
   "as_of": "2026-09-18",
@@ -29441,19 +29249,19 @@
   "audit_action": "none"
  },
  {
-  "as_of": "2026-09-18",
+  "as_of": "2026-09-23",
   "company": "Palvella Therapeutics, Inc.",
   "competitors": [
    "No approved pharmacologic competitors for angiokeratomas; systemic sirolimus used off-label"
   ],
   "country": "United States",
-  "date_bucket": "2027-Q3",
+  "date_bucket": "2027-H2",
   "date_exact": null,
   "date_quality": "guidance",
   "drug": "PTX-022 (topical sirolimus gel 3.9%)",
   "event_type": "readout",
   "indication": "angiokeratomas — Phase 2 study",
-  "notes": "Inferred from CT.gov primary completion (estimated) August 2027 for NCT07552077 (Phase 2, recruiting). Deep audit 2026-09-20: upgraded inferred->guidance; Palvella May 2026 company release: CEO guides Phase 2 LOTU topline in H2 2027 (QTORIN rapamycin = topical sirolimus 3.9% gel); bucket 2027-Q3 sits inside H2 2027.",
+  "notes": "Inferred from CT.gov primary completion (estimated) August 2027 for NCT07552077 (Phase 2, recruiting). Deep audit 2026-09-20: upgraded inferred->guidance; Palvella May 2026 company release: CEO guides Phase 2 LOTU topline in H2 2027 (QTORIN rapamycin = topical sirolimus 3.9% gel); bucket 2027-Q3 sits inside H2 2027. V20 re-verification (2026-09-23): PVLA LOTU: sponsor Q2 2026 PR guides Phase 2b LOTUS readout \"in the second half of 2027\". Calendar's Q3 bucket was over-precise; rebucketed to H2 2027. Source: https://www.globenewswire.com/news-release/2026/08/13/3346142/0/en/. Quote: \"second half of 2027\".",
   "phase": "2",
   "source_type": "company PR",
   "source_url": "https://www.globenewswire.com/news-release/2026/05/04/3286595/0/en/Palvella-Therapeutics-Announces-First-Patients-Dosed-in-Phase-2-LOTU-Trial-of-Fast-Track-Designated-QTORIN-Rapamycin-for-Clinically-Significant-Angiokeratomas.html",
@@ -29468,8 +29276,8 @@
   "source_date": "",
   "record_id": "v16-0942",
   "guidance_detail": "Inferred from CT.gov primary completion (estimated) August 2027 for NCT07552077 (Phase 2, recruiting).",
-  "audit_status": "v16_verified",
-  "audit_action": "none"
+  "audit_status": "v20_reverified",
+  "audit_action": "guidance_revision"
  },
  {
   "as_of": "2026-09-18",
@@ -31144,7 +30952,7 @@
   "audit_action": "nct-cleanup"
  },
  {
-  "as_of": "2026-09-18",
+  "as_of": "2026-09-23",
   "company": "Vertex Pharmaceuticals Incorporated",
   "competitors": [
    "Otsuka Pharmaceutical (tolvaptan/Jynarque, ADPKD standard of care)",
@@ -31157,7 +30965,7 @@
   "drug": "VX-407",
   "event_type": "readout",
   "indication": "Autosomal dominant polycystic kidney disease (AGLOW Phase 2a)",
-  "notes": "Registry-inferred: Vertex-sponsored Phase 2 AGLOW study (NCT07161037, active not recruiting) has PCD 2027-07-22; company guides enrollment/dosing ongoing, no 2027 data window stated. Deep audit 2026-09-20: date moved Jul->Dec 2027 per registry-derived listing; live CT.gov fetch blocked, re-check at monthly refresh.",
+  "notes": "Registry-inferred: Vertex-sponsored Phase 2 AGLOW study (NCT07161037, active not recruiting) has PCD 2027-07-22; company guides enrollment/dosing ongoing, no 2027 data window stated. Deep audit 2026-09-20: date moved Jul->Dec 2027 per registry-derived listing; live CT.gov fetch blocked, re-check at monthly refresh. V20 re-verification (2026-09-23): QUARTER-MISMATCH FLAG: inferred bucket 2027-Q4 conflicts with registry primary-completion quarter (PCD 2027-07-22); topline timing may differ from the bucket. Recheck registry before window.",
   "phase": "2",
   "source_type": "clinicaltrials.gov",
   "source_url": "https://clinicaltrials.gov/study/NCT07161037",
@@ -31172,8 +30980,8 @@
   "source_date": "",
   "record_id": "v16-0996",
   "guidance_detail": "Registry-inferred: Vertex-sponsored Phase 2 AGLOW study (NCT07161037, active not recruiting) has PCD 2027-07-22; company guides enrollment/dosing ongoing, no 2027 data window stated.",
-  "audit_status": "v16_verified",
-  "audit_action": "none"
+  "audit_status": "v20_reverified",
+  "audit_action": "quarter_mismatch_flag"
  },
  {
   "as_of": "2026-09-23",
@@ -31643,27 +31451,27 @@
   "event_type": "regulatory_other",
   "phase": null,
   "date_exact": null,
-  "date_bucket": "2027-H2",
-  "date_quality": "inferred",
+  "date_bucket": "2027",
+  "date_quality": "guidance",
   "competitors": [
    "sparsentan (Filspari, TVTX)",
    "iptacopan (Fabhalta, NVS)",
    "budesonide (Tarpeyo, Calliditas)"
   ],
   "source_url": "https://ir.veratx.com/news-releases/news-release-details/vera-therapeutics-announces-trutaknatm-atacicept-vymj-stabilized",
-  "source_type": "company PR",
-  "as_of": "2026-09-18",
-  "notes": "Accelerated approval July 7, 2026; Q4 2026 sBLA guided for full approval; FDA decision expected 2027; timing inferred from standard review, re-verify at monthly refresh.",
+  "source_type": "company IR",
+  "as_of": "2026-09-23",
+  "notes": "Accelerated approval July 7, 2026; Q4 2026 sBLA guided for full approval; FDA decision expected 2027; timing inferred from standard review, re-verify at monthly refresh. V20 re-verification (2026-09-23): sponsor CEO (Sep 15 2026 release): \"We plan to submit the supplemental BLA in the fourth quarter of this year. We look forward to the potential full approval of TRUTAKNA in 2027.\" Half-year precision not sponsor-stated; window broadened from inferred 2027-H2 to guidance 2027.",
   "nct_id": "",
   "application_type": "",
   "review_class": "",
   "adcom_planned": "unknown",
   "trial_status": "",
-  "source_date": "",
+  "source_date": "2026-09-15",
   "record_id": "v16-1011",
   "guidance_detail": "Accelerated approval July 7, 2026; Q4 2026 sBLA guided for full approval; FDA decision expected 2027; timing inferred from standard review, re-verify at monthly refresh.",
-  "audit_status": "v16_verified",
-  "audit_action": "none"
+  "audit_status": "v20_reverified",
+  "audit_action": "inferred_to_guidance"
  },
  {
   "ticker": "BLTE",
@@ -32642,8 +32450,8 @@
   "audit_action": "none"
  },
  {
-  "as_of": "2026-09-20",
-  "company": "Sangamo Therapeutics, Inc.",
+  "as_of": "2026-09-23",
+  "company": "Sangamo Therapeutics, Inc. (acquired by PTC Therapeutics; acquisition closed 2026-09-21)",
   "competitors": [],
   "country": "United States",
   "date_bucket": "2027",
@@ -32652,7 +32460,7 @@
   "drug": "isaralgagene civaparvovec (ST-920)",
   "event_type": "regulatory_other",
   "indication": "Fabry disease",
-  "notes": "Deep audit 2026-09-20: coverage expansion: Issuer press release (2025-12-18): rolling BLA submission initiated under accelerated approval for one-time gene therapy ST-920 in Fabry disease; BLA completion guided Q2 2026. No PDUFA or FDA acceptance date located - FDA decision timing in 2027 inferred from review timelines; regulatory_other watch item, not a PDUFA, per the acceptance gate.",
+  "notes": "Deep audit 2026-09-20: coverage expansion: Issuer press release (2025-12-18): rolling BLA submission initiated under accelerated approval for one-time gene therapy ST-920 in Fabry disease; BLA completion guided Q2 2026. No PDUFA or FDA acceptance date located - FDA decision timing in 2027 inferred from review timelines; regulatory_other watch item, not a PDUFA, per the acceptance gate. V20 re-verification (2026-09-23): Sangamo acquisition by PTC Therapeutics closed 2026-09-21; ST-920 program now PTC-owned. BLA timing to be re-verified under the new owner.",
   "phase": "1",
   "source_type": "company PR",
   "source_url": "https://www.globenewswire.com/news-release/2025/12/18/3207689/33816/en/Sangamo-Therapeutics-Initiates-Rolling-Submission-of-BLA-to-U-S-FDA-for-ST-920-in-Fabry-Disease.html",
@@ -32667,8 +32475,8 @@
   "source_date": "",
   "record_id": "v16-1049",
   "guidance_detail": "Deep audit 2026-09-20: coverage expansion: Issuer press release (2025-12-18): rolling BLA submission initiated under accelerated approval for one-time gene therapy ST-920 in Fabry disease; BLA completion guided Q2 2026.",
-  "audit_status": "v16_verified",
-  "audit_action": "none"
+  "audit_status": "v20_reverified",
+  "audit_action": "metadata_update"
  },
  {
   "as_of": "2026-09-20",
@@ -32727,35 +32535,6 @@
   "guidance_detail": "Deep audit 2026-09-20: coverage expansion: Same issuer press release (2026-09-02): preclinical data for the two in vivo TCR-T solid-tumor candidates expected in Q1 2027.",
   "audit_status": "v16_verified",
   "audit_action": "none"
- },
- {
-  "as_of": "2026-09-23",
-  "company": "Femasys Inc.",
-  "competitors": [],
-  "country": "United States",
-  "date_bucket": "2027-H1",
-  "date_exact": null,
-  "date_quality": "inferred",
-  "drug": "FemBloc",
-  "event_type": "readout",
-  "indication": "permanent birth control (non-surgical)",
-  "notes": "Femasys FemBloc FINALE pivotal trial (NCT05977751), RECRUITING, CT.gov PCD 2029-12 (est, full 5-yr follow-up), updated 2026-09-14. 10-K (FY2025, current) plans interim analysis once 300 women complete 1 year of use (primary endpoint: pregnancy rate after 401 women x 1 yr). Final-phase IDE approved Nov 2025; enrollment initiated Mar 2026 -> earliest interim 2027 (derived, inferred). No company-printed calendar window; Q2 2026 update (14 Aug 2026) gives no interim date.\n[2026-09-23 primary-source upgrade] Direct SEC 10-K (FY2025, filed 2026-03-31): 'An interim analysis of clinical data endpoints is planned once 300 women have relied on FemBloc.' Supports the FemBloc interim-analysis readout watch item. PHASE CORRECTION (2026-09-23): device pivotal IDE trial (CT.gov NCT05977751 phases=['NA']), not drug Phase 3; schema has no device phase value, so phase cleared.",
-  "phase": "",
-  "source_type": "SEC filing",
-  "source_url": "https://www.sec.gov/Archives/edgar/data/1339005/000114036126012375/femy-20251231.htm",
-  "ticker": "FEMY",
-  "us_listed": true,
-  "us_tradable": true,
-  "nct_id": "NCT05977751",
-  "application_type": "",
-  "review_class": "",
-  "adcom_planned": "unknown",
-  "trial_status": "",
-  "source_date": "",
-  "record_id": "v16-1052",
-  "guidance_detail": "Femasys FemBloc FINALE pivotal trial (NCT05977751), RECRUITING, CT.gov PCD 2029-12 (est, full 5-yr follow-up), updated 2026-09-14.",
-  "audit_status": "v18_reverified",
-  "audit_action": "improved"
  },
  {
   "ticker": "AZN",
@@ -32889,7 +32668,7 @@
   "drug": "Enspryng (satralizumab)",
   "indication": "myelin oligodendrocyte glycoprotein antibody-associated disease (MOGAD) (EU)",
   "phase": null,
-  "event_type": "chmp_opinion",
+  "event_type": "regulatory_other",
   "date_exact": null,
   "date_bucket": "2027-Q3",
   "date_quality": "guidance",
@@ -32903,10 +32682,10 @@
   "source_url": "https://www.roche.com/investors/updates/inv-update-2026-09-10",
   "source_date": "2026-09-10",
   "as_of": "2026-09-23",
-  "notes": "Roche 10 Sep 2026: 'the European Medicines Agency (EMA) has validated the application for Enspryng for MOGAD in Europe. The decision by the European Commission is expected in the third quarter of 2027.' Type II extension-of-indication to the existing EU MA (NMOSD, authorised 24 Jun 2021); filing rests on Phase 3 METEOROID (68% relapse-risk reduction vs placebo, p=0.0025). Distinct from the US PDUFA row (book date 2027-01-10 per Roche Business Wire; CheckRare lists 20 Jan 2027).",
+  "notes": "Roche 10 Sep 2026: 'the European Medicines Agency (EMA) has validated the application for Enspryng for MOGAD in Europe. The decision by the European Commission is expected in the third quarter of 2027.' Type II extension-of-indication to the existing EU MA (NMOSD, authorised 24 Jun 2021); filing rests on Phase 3 METEOROID (68% relapse-risk reduction vs placebo, p=0.0025). Distinct from the US PDUFA row (book date 2027-01-10 per Roche Business Wire; CheckRare lists 20 Jan 2027). V20 re-verification (2026-09-23): RECLASSIFIED chmp_opinion -> regulatory_other: Roche (10 Sep 2026) describes the EUROPEAN COMMISSION decision expected in Q3 2027 (Type II extension-of-indication to the existing EU MA for NMOSD), not a CHMP opinion date. No duplicate row created.",
   "guidance_detail": "Roche 10 Sep 2026: 'the European Medicines Agency (EMA) has validated the application for Enspryng for MOGAD in Europe.",
-  "audit_status": "v17_reverified",
-  "audit_action": "add"
+  "audit_status": "v20_reverified",
+  "audit_action": "reclassify"
  },
  {
   "record_id": "v17-0006",
@@ -33613,35 +33392,6 @@
   "audit_action": "added"
  },
  {
-  "record_id": "v17-0030",
-  "ticker": "AZN",
-  "company": "AstraZeneca PLC",
-  "us_listed": true,
-  "us_tradable": true,
-  "country": "United Kingdom",
-  "drug": "cliramitug (ALXN2220)",
-  "indication": "transthyretin amyloid cardiomyopathy (DepleTTR-CM)",
-  "phase": "3",
-  "event_type": "readout",
-  "date_exact": null,
-  "date_bucket": "2027",
-  "date_quality": "guidance",
-  "nct_id": "NCT06183931",
-  "application_type": "",
-  "review_class": "",
-  "adcom_planned": "unknown",
-  "trial_status": "ACTIVE_NOT_RECRUITING",
-  "competitors": [],
-  "source_type": "company deck",
-  "source_url": "https://author-astrazeneca-digital-prod65.adobecqms.net/content/dam/az/Investor_Relations/annual-report-2025/pdf/AstraZeneca_Development_Pipeline_2025.pdf",
-  "source_date": "",
-  "as_of": "2026-09-23",
-  "notes": "Company-guided 2027 (year-level only): AZ Development Pipeline 2025 (as at 10 Feb 2026) lists cliramitug (transthyretin depleter, DepleTTR-CM, Phase 3) with 'Data readout/submission status: 2027'. No tighter window given. CT.gov context only: NCT06183931 (Alexion, ALXN2220), ACTIVE_NOT_RECRUITING, estimated PCD 2027-12-06 — not used to tighten the bucket.",
-  "guidance_detail": "AstraZeneca Development Pipeline 2025 (as at 10 Feb 2026), Phase III table, Data readout/submission status column: 'cliramitug | transthyretin depleter | PP | transthyretin amyloid cardiomyopathy | DepleTTR-CM | 2027'.",
-  "audit_status": "v17_reverified",
-  "audit_action": "added"
- },
- {
   "record_id": "v17-0031",
   "ticker": "AZN",
   "company": "AstraZeneca PLC",
@@ -34147,7 +33897,7 @@
   "event_type": "pdufa",
   "date_exact": "2027-03-11",
   "date_bucket": "2027-Q1",
-  "date_quality": "guidance",
+  "date_quality": "hard",
   "nct_id": "NCT04717414",
   "application_type": "sBLA",
   "review_class": "",
@@ -34158,10 +33908,10 @@
   "source_url": "https://investors.bms.com/iframes/press-releases/press-release-details/2026/Bristol-Myers-Squibb-Reports-Second-Quarter-Financial-Results-for-2026/default.aspx",
   "source_date": "2026-07-30",
   "as_of": "2026-09-23",
-  "notes": "Phase 3 INDEPENDENCE (NCT04717414, luspatercept vs placebo in transfusion-dependent MF-associated anemia on concomitant JAKi) verified on ClinicalTrials.gov. INDEPENDENCE missed its primary endpoint (p=0.0674); filing relies on secondary outcomes. VERIFIED 2026-09-23: FDA ACCEPTANCE disclosed verbatim in the BMS Q2 2026 earnings press release (Exhibit 99.1 to 8-K, 2026-07-30): 'The U.S. Food and Drug Administration (FDA) accepted the supplemental Biologics License Application for Reblozyl with concomitant janus kinase inhibitor therapy in adult patients with myelofibrosis-associated anemia receiving red blood cell transfusions. The acceptance was supported by results from the Phase 3 INDEPENDENCE study. The FDA granted a Prescription Drug User Fee Act (PDUFA) date of March 11, 2027.' date_exact=2027-03-11; date_bucket=2027-Q1 set for schema compatibility (exact day preserved only in date_exact). Acceptance confirmed via company PR quoting FDA acceptance; the acceptance letter text itself was not viewed. Canonical SEC EDGAR accession for the 8-K was not locatable via search in this pass; investors.bms.com PR URL retained.",
+  "notes": "Phase 3 INDEPENDENCE (NCT04717414, luspatercept vs placebo in transfusion-dependent MF-associated anemia on concomitant JAKi) verified on ClinicalTrials.gov. INDEPENDENCE missed its primary endpoint (p=0.0674); filing relies on secondary outcomes. VERIFIED 2026-09-23: FDA ACCEPTANCE disclosed verbatim in the BMS Q2 2026 earnings press release (Exhibit 99.1 to 8-K, 2026-07-30): 'The U.S. Food and Drug Administration (FDA) accepted the supplemental Biologics License Application for Reblozyl with concomitant janus kinase inhibitor therapy in adult patients with myelofibrosis-associated anemia receiving red blood cell transfusions. The acceptance was supported by results from the Phase 3 INDEPENDENCE study. The FDA granted a Prescription Drug User Fee Act (PDUFA) date of March 11, 2027.' date_exact=2027-03-11; date_bucket=2027-Q1 set for schema compatibility (exact day preserved only in date_exact). Acceptance confirmed via company PR quoting FDA acceptance; the acceptance letter text itself was not viewed. Canonical SEC EDGAR accession for the 8-K was not locatable via search in this pass; investors.bms.com PR URL retained. V20 re-verification (2026-09-23): FDA acceptance disclosed verbatim in BMS Q2 2026 earnings press release (Exhibit 99.1 to 8-K, 2026-07-30); PDUFA target action date March 11, 2027 confirmed - upgraded guidance to hard. Quarter unchanged (Q1).",
   "guidance_detail": "The U.S. Food and Drug Administration (FDA) accepted the supplemental Biologics License Application for Reblozyl with concomitant janus kinase inhibitor therapy in adult patients with myelofibrosis-associated anemia receiving red blood cell transfusions. The acceptance was supported by results from the Phase 3 INDEPENDENCE study. The FDA granted a Prescription Drug User Fee Act (PDUFA) date of Mar",
-  "audit_status": "v17_reverified",
-  "audit_action": "added"
+  "audit_status": "v20_reverified",
+  "audit_action": "guidance_to_hard"
  },
  {
   "record_id": "v18-0005",
@@ -34890,35 +34640,6 @@
  },
  {
   "as_of": "2026-09-23",
-  "company": "X4 Pharmaceuticals, Inc.",
-  "competitors": [],
-  "country": "United States",
-  "date_bucket": "2027-H1",
-  "date_exact": null,
-  "date_quality": "guidance",
-  "drug": "mavorixafor",
-  "event_type": "hta_decision",
-  "indication": "WHIM syndrome",
-  "notes": "G-BA benefit assessment (Beschlussfassung) for mavorixafor in WHIM syndrome expected mid-Feb 2027; orphan-drug procedure. G-BA decision windows are guidance, not fixed days.",
-  "phase": "",
-  "source_type": "agency",
-  "source_url": "https://www.g-ba.de",
-  "ticker": "XFOR",
-  "us_listed": true,
-  "us_tradable": true,
-  "nct_id": "",
-  "application_type": "",
-  "review_class": "",
-  "adcom_planned": "unknown",
-  "trial_status": "",
-  "source_date": "",
-  "record_id": "v19-0021",
-  "guidance_detail": "G-BA benefit assessment expected mid-Feb 2027 (Beschlussfassung window).",
-  "audit_status": "v19_admitted",
-  "audit_action": "add"
- },
- {
-  "as_of": "2026-09-23",
   "company": "Pfizer Inc.",
   "competitors": [],
   "country": "United States",
@@ -34928,7 +34649,7 @@
   "drug": "encorafenib (Braftovi)",
   "event_type": "hta_decision",
   "indication": "Colorectal cancer, first line",
-  "notes": "G-BA benefit assessment decision for encorafenib (Braftovi) in first-line CRC expected early Jan 2027. G-BA decision windows are guidance, not fixed days.",
+  "notes": "G-BA benefit assessment decision for encorafenib (Braftovi) in first-line CRC expected early Jan 2027. G-BA decision windows are guidance, not fixed days. V20 re-verification (2026-09-23): G-BA Verfahren page (2026-07-07): encorafenib (Braftovi) in combination with cetuximab + FOLFOX6 as first-line therapy for metastatic colorectal cancer - benefit assessment procedure active; decision timing inferred from procedure start, bucket kept 2027-Q1. Note: EC approved Braftovi+Erbitux+mFOLFOX6 for 1L mCRC on June 22, 2026. Source: https://www.g-ba.de/bewertungsverfahren/nutzenbewertung/1233/. Quote: \"Encorafenib in Kombination mit Cetuximab und Fluorouracil, Folinsaure und Oxaliplatin, Behandlung des metastasierten kolorektalen Karzinoms bei erwachsenen Patienten... zur Erstlinientherapie\".",
   "phase": "",
   "source_type": "agency",
   "source_url": "https://www.g-ba.de",
@@ -34943,8 +34664,8 @@
   "source_date": "",
   "record_id": "v19-0022",
   "guidance_detail": "G-BA benefit assessment expected early Jan 2027.",
-  "audit_status": "v19_admitted",
-  "audit_action": "add"
+  "audit_status": "v20_reverified",
+  "audit_action": "guidance_revision"
  },
  {
   "as_of": "2026-09-23",
@@ -34957,7 +34678,7 @@
   "drug": "enfortumab vedotin + pembrolizumab",
   "event_type": "hta_decision",
   "indication": "Muscle-invasive bladder cancer",
-  "notes": "G-BA benefit assessment decision for enfortumab vedotin with pembrolizumab in MIBC expected mid-Jan 2027. G-BA decision windows are guidance, not fixed days. Distinct from the NICE appraisal of the perioperative-bladder combination (separate agency decision).",
+  "notes": "G-BA benefit assessment decision for enfortumab vedotin with pembrolizumab in MIBC expected mid-Jan 2027. G-BA decision windows are guidance, not fixed days. Distinct from the NICE appraisal of the perioperative-bladder combination (separate agency decision). V20 re-verification (2026-09-23): G-BA Verfahren for enfortumab vedotin + pembrolizumab in MIBC: press release (2026-08-11) confirms the G-BA opened the benefit assessment on August 6, 2026; decision timing inferred from procedure start, bucket kept 2027-Q1. Distinct from the NICE appraisal of the perioperative-bladder indication. Source: https://www.g-ba.de/bewertungsverfahren/nutzenbewertung/1281/. Quote: \"Der Gemeinsame Bundesausschuss (G-BA) hat am 6. August 2026 das Verfahren zur Nutzenbewertung von Enfortumab-Vedotin in Kombination mit Pembrolizumab in der Erstlinienbehandlung des metastasierten Urothelkarzinoms eingeleitet\".",
   "phase": "",
   "source_type": "agency",
   "source_url": "https://www.g-ba.de",
@@ -34972,8 +34693,8 @@
   "source_date": "",
   "record_id": "v19-0023",
   "guidance_detail": "G-BA benefit assessment expected mid-Jan 2027.",
-  "audit_status": "v19_admitted",
-  "audit_action": "add"
+  "audit_status": "v20_reverified",
+  "audit_action": "guidance_revision"
  },
  {
   "as_of": "2026-09-23",
@@ -35000,35 +34721,6 @@
   "trial_status": "",
   "source_date": "",
   "record_id": "v19-0024",
-  "guidance_detail": "G-BA benefit assessment expected late Jan 2027.",
-  "audit_status": "v19_admitted",
-  "audit_action": "add"
- },
- {
-  "as_of": "2026-09-23",
-  "company": "Shanghai Henlius Biotech, Inc.",
-  "competitors": [],
-  "country": "China",
-  "date_bucket": "2027-Q1",
-  "date_exact": null,
-  "date_quality": "guidance",
-  "drug": "serplulimab",
-  "event_type": "hta_decision",
-  "indication": "Oesophageal cancer",
-  "notes": "G-BA benefit assessment decision for serplulimab in oesophageal cancer expected late Jan 2027. G-BA decision windows are guidance, not fixed days. Sponsor is ex-US (Shanghai Henlius).",
-  "phase": "",
-  "source_type": "agency",
-  "source_url": "https://www.g-ba.de",
-  "ticker": "",
-  "us_listed": false,
-  "us_tradable": false,
-  "nct_id": "",
-  "application_type": "",
-  "review_class": "",
-  "adcom_planned": "unknown",
-  "trial_status": "",
-  "source_date": "",
-  "record_id": "v19-0025",
   "guidance_detail": "G-BA benefit assessment expected late Jan 2027.",
   "audit_status": "v19_admitted",
   "audit_action": "add"
@@ -35102,7 +34794,7 @@
   "drug": "WiSE leadless pacing system",
   "event_type": "hta_decision",
   "indication": "Leadless cardiac pacing",
-  "notes": "CMS National Coverage Determination for EBR Systems' WiSE leadless pacing system (ASX:EBR). EBR's June 4, 2026 ASX announcement quotes the CMS NCD tracking sheet: 'Final NCD expected: March 3, 2027' (formal request accepted June 3, 2026; proposed decision memo due Dec 3, 2026). CMS-projected date, contingent on the Dec 3, 2026 proposed memo staying on schedule — guidance, not a confirmed final NCD. High binary for the small cap.",
+  "notes": "CMS National Coverage Determination for EBR Systems' WiSE leadless pacing system (ASX:EBR). EBR's June 4, 2026 ASX announcement quotes the CMS NCD tracking sheet: 'Final NCD expected: March 3, 2027' (formal request accepted June 3, 2026; proposed decision memo due Dec 3, 2026). CMS-projected date, contingent on the Dec 3, 2026 proposed memo staying on schedule — guidance, not a confirmed final NCD. High binary for the small cap. V20 re-verification (2026-09-23): CORROBORATED 2026-09-23: EBR Systems ASX announcement (September 2026) quotes the CMS NCD tracking sheet again: \"Final NCD expected: March 3, 2027\" (formal request accepted June 3, 2026; proposed memo expected Dec 3, 2026). Same schedule as EBR's June 4, 2026 ASX announcement. CMS-expected dates can shift; final NCD contingent on the December 2026 proposed memo. Row kept at guidance with exact date 2027-03-03. Source: https://announcements.asx.com.au/asxpdf/2026/06/04/pdf/06lx8z7w2jq5l3.pdf. Quote: \"Final NCD expected: March 3, 2027\".",
   "phase": "",
   "source_type": "agency",
   "source_url": "https://www.businesswire.com/news/home/20260609744651/en/EBR-Systems-Secures-National-Coverage-Analysis-Under-TCET-Pathway-from-CMS-for-the-WiSE-System",
@@ -35117,8 +34809,8 @@
   "source_date": "",
   "record_id": "v19-0028",
   "guidance_detail": "CMS NCD expected per CMS coverage documents.",
-  "audit_status": "v19_admitted",
-  "audit_action": "add"
+  "audit_status": "v20_reverified",
+  "audit_action": "guidance_revision"
  },
  {
   "as_of": "2026-09-23",
@@ -35299,13 +34991,13 @@
   "company": "BioNTech SE",
   "competitors": [],
   "country": "Germany",
-  "date_bucket": "2027-Q3",
+  "date_bucket": "2027",
   "date_exact": null,
   "date_quality": "guidance",
   "drug": "mRNA-vaccine patent dispute (GSK v. Pfizer/BioNTech)",
   "event_type": "litigation_milestone",
   "indication": "Patent infringement, mRNA vaccines",
-  "notes": "GSK v. Pfizer/BioNTech mRNA-vaccine patent infringement — five-day jury trial, summer 2027 (D. Del. 1:24-cv-00512-GBW; Judge Gregory B. Williams entered a scheduling order on April 4, 2025). \"Summer 2027\" is season precision from a court scheduling order — kept at guidance with bucket 2027-Q3 per the no-invented-precision rule; no day exists in the order.",
+  "notes": "GSK v. Pfizer/BioNTech mRNA-vaccine patent infringement — five-day jury trial, summer 2027 (D. Del. 1:24-cv-00512-GBW; Judge Gregory B. Williams entered a scheduling order on April 4, 2025). \"Summer 2027\" is season precision from a court scheduling order — kept at guidance with bucket 2027-Q3 per the no-invented-precision rule; no day exists in the order. V20 re-verification (2026-09-23): Goodwin's write-up of the court scheduling order confirms a five-day jury trial in \"summer 2027\" for GSK v. Pfizer/BioNTech mRNA-vaccine patent infringement (D. Del. 1:24-cv-00512-GBW). Summer spans late Q2 and Q3, so the row's 2027-Q3 bucket was over-precise; rebucketed to 2027. Source: http://www.goodwinlaw.com/en/insights/blogs/2025/04/gsk-and-pfizer-stipulate-to-dismissal-of-rsv-vaccines-lawsuit. Quote: \"summer 2027\".",
   "phase": "",
   "source_type": "trade press",
   "source_url": "http://www.goodwinlaw.com/en/insights/blogs/2025/04/gsk-and-pfizer-stipulate-to-dismissal-of-rsv-vaccines-lawsuit",
@@ -35320,37 +35012,8 @@
   "source_date": "",
   "record_id": "v19-0035",
   "guidance_detail": "Court scheduling order sets five-day jury trial for summer 2027.",
-  "audit_status": "v19_admitted",
-  "audit_action": "add"
- },
- {
-  "as_of": "2026-09-23",
-  "company": "Arbutus Biopharma Corporation",
-  "competitors": [],
-  "country": "Canada",
-  "date_bucket": "2027-Q1",
-  "date_exact": null,
-  "date_quality": "guidance",
-  "drug": "LNP patent EP 4 241 767 (Arbutus/Genevant)",
-  "event_type": "litigation_milestone",
-  "indication": "EPO opposition proceedings",
-  "notes": "EPO opposition hearing on Arbutus/Genevant LNP patent EP 4 241 767, due to be heard in January 2027 per JUVE Patent (trade press; not verified against the official EPO register). Opposition filers per the article: Moderna, Merck Sharp & Dohme, Arrowhouse GmbH (strawman), Keltie; Moderna's status as an active opponent post-March-2026 $2.25B global settlement is unconfirmed.",
-  "phase": "",
-  "source_type": "trade press",
-  "source_url": "https://www.juve-patent.com/cases/the-mrna-wars-are-escalating-with-new-claims-from-arbutus/",
-  "ticker": "ABUS",
-  "us_listed": true,
-  "us_tradable": true,
-  "nct_id": "",
-  "application_type": "",
-  "review_class": "",
-  "adcom_planned": "unknown",
-  "trial_status": "",
-  "source_date": "",
-  "record_id": "v19-0036",
-  "guidance_detail": "EPO opposition due to be heard January 2027 (trade press; register check pending).",
-  "audit_status": "v19_admitted",
-  "audit_action": "add"
+  "audit_status": "v20_reverified",
+  "audit_action": "guidance_revision"
  },
  {
   "as_of": "2026-09-23",
@@ -35525,5 +35188,92 @@
   "review_class": "",
   "adcom_planned": "",
   "trial_status": ""
+ },
+ {
+  "record_id": "v20-0001",
+  "ticker": "NUVB",
+  "company": "Nuvation Bio Inc.",
+  "us_listed": true,
+  "us_tradable": true,
+  "country": "United States",
+  "drug": "IBTROZI (taletrectinib)",
+  "indication": "Updated efficacy information in TKI-naive and TKI-pretreated advanced ROS1-positive non-small cell lung cancer (NSCLC); submission fulfills an FDA post-marketing commitment.",
+  "phase": null,
+  "event_type": "pdufa",
+  "date_exact": "2027-01-04",
+  "date_bucket": "2027-Q1",
+  "date_quality": "hard",
+  "nct_id": "",
+  "application_type": "sNDA",
+  "review_class": "",
+  "adcom_planned": "unknown",
+  "trial_status": "",
+  "competitors": [],
+  "source_type": "company PR",
+  "source_url": "https://www.prnewswire.com/news-releases/nuvation-bio-announces-fda-acceptance-of-supplemental-new-drug-application-for-ibtrozi-taletrectinib-with-updated-duration-of-response-in-advanced-ros1-positive-non-small-cell-lung-cancer-302763329.html",
+  "source_date": "2026-05",
+  "as_of": "2026-09-23",
+  "notes": "FDA accepted the sNDA for IBTROZI (taletrectinib) with updated duration-of-response data in TKI-naive and TKI-pretreated advanced ROS1+ NSCLC; target action date January 4, 2027. Quote: \"announced today that the U.S. Food and Drug Administration (FDA) has accepted a supplemental New Drug Application (sNDA) with updated data for IBTROZI (taletrectinib) in both TKI-naive and TKI-pretreated advanced ROS1-positive (ROS1+) non-small cell lung cancer (NSCLC) with a target action date of January 4, 2027.\" Nuvation Bio is NYSE: NUVB. Review class not disclosed in the acceptance release; do not assume Priority vs Standard. Verified directly against the sponsor-issued PRNewswire release 2026-09-23.",
+  "guidance_detail": "Sponsor-issued acceptance release; review class undisclosed.",
+  "audit_status": "v20_reverified",
+  "audit_action": "add"
+ },
+ {
+  "record_id": "v20-0002",
+  "ticker": "SVRA",
+  "company": "Savara Inc.",
+  "us_listed": true,
+  "us_tradable": true,
+  "country": "United States",
+  "drug": "MOLBREEVI (molgramostim)",
+  "indication": "autoimmune pulmonary alveolar proteinosis (aPAP) (EU)",
+  "phase": null,
+  "event_type": "chmp_opinion",
+  "date_exact": null,
+  "date_bucket": "2027-Q1",
+  "date_quality": "guidance",
+  "nct_id": "",
+  "application_type": "",
+  "review_class": "",
+  "adcom_planned": "unknown",
+  "trial_status": "",
+  "competitors": [],
+  "source_type": "company IR",
+  "source_url": "https://investors.savarapharma.com/news/news-details/2026/Savara-Announces-European-Medicines-Agency-EMA-Validation-of-Marketing-Authorization-Application-MAA-for-MOLBREEVI-in-Autoimmune-Pulmonary-Alveolar-Proteinosis-Autoimmune-PAP/default.aspx",
+  "source_date": "",
+  "as_of": "2026-09-23",
+  "notes": "Savara (Nasdaq: SVRA) announced EMA validation of the Marketing Authorization Application for MOLBREEVI in autoimmune pulmonary alveolar proteinosis; review proceeds through CHMP; company expects a decision in Q1 2027. New ticker entry. Verified directly against the Savara IR announcement 2026-09-23.",
+  "guidance_detail": "Company expects CHMP decision in Q1 2027.",
+  "audit_status": "v20_reverified",
+  "audit_action": "add"
+ },
+ {
+  "record_id": "v20-0003",
+  "ticker": "PHVS",
+  "company": "Pharvaris N.V.",
+  "us_listed": true,
+  "us_tradable": true,
+  "country": "Netherlands",
+  "drug": "deucrictibant immediate-release (IR)",
+  "indication": "on-demand treatment of hereditary angioedema (HAE) attacks (EU)",
+  "phase": null,
+  "event_type": "chmp_opinion",
+  "date_exact": null,
+  "date_bucket": "2027-H1",
+  "date_quality": "inferred",
+  "nct_id": "",
+  "application_type": "",
+  "review_class": "",
+  "adcom_planned": "unknown",
+  "trial_status": "",
+  "competitors": [],
+  "source_type": "company PR",
+  "source_url": "https://www.globenewswire.com/news-release/2026/08/12/3343484/0/en/pharvaris-reports-second-quarter-2026-financial-results-and-provides-business-update.html",
+  "source_date": "2026-08-12",
+  "as_of": "2026-09-23",
+  "notes": "Deucrictibant IR CHMP opinion in H1 2027 inferred from centralized-procedure clock derivation, not sponsor/agency guidance - quality stays inferred. No EU/EMA rows previously in book for deucrictibant IR. Distinct from the US deucrictibant IR PDUFA row (2027-04-23, hard), the deucrictibant XR nda_filing (2027-Q2), and the readout (2027-Q1).",
+  "guidance_detail": "Centralized-procedure clock derivation; no sponsor/agency timing guidance.",
+  "audit_status": "v20_reverified",
+  "audit_action": "add"
  }
 ]
