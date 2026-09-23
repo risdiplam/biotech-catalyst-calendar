@@ -859,7 +859,7 @@
   "phase": "3",
   "date_exact": null,
   "date_bucket": "2027-H1",
-  "date_quality": "guidance",
+  "date_quality": "inferred",
   "competitors": [
    "Verzenio (Eli Lilly)",
    "Kisqali (Novartis)"
@@ -867,7 +867,7 @@
   "source_url": "https://www.biospace.com/drug-development/astrazenecas-newly-approved-cancer-pill-fails-late-stage-study-blocking-path-to-bigger-market",
   "source_type": "trade press",
   "as_of": "2026-09-23",
-  "notes": "Phase 3; registry primary completion 2027-04-20; 2027 topline reported by secondary sources. Deep audit 2026-09-20: upgraded inferred->guidance; CAMBRIA-1 readout expected H1 2027 per Leerink via BioSpace and Morningstar (analyst-derived, not company guidance); bucket 2027-H1.",
+  "notes": "Phase 3; registry primary completion 2027-04-20; 2027 topline reported by secondary sources. Deep audit 2026-09-20: upgraded inferred->guidance; CAMBRIA-1 readout expected H1 2027 per Leerink via BioSpace and Morningstar (analyst-derived, not company guidance); bucket 2027-H1. QUALITY DOWNGRADE (2026-09-23): date_quality guidance->inferred. The 2026-09-20 upgrade rested on Leerink via BioSpace/Morningstar (analyst-derived, not company guidance). Per brief \u00a71, guidance requires a company-guided window.",
   "us_tradable": true,
   "nct_id": "NCT05774951",
   "application_type": "",
@@ -877,8 +877,8 @@
   "source_date": "",
   "record_id": "v16-0027",
   "guidance_detail": "Phase 3; registry primary completion 2027-04-20; 2027 topline reported by secondary sources.",
-  "audit_status": "v17_reverified",
-  "audit_action": "corrected"
+  "audit_status": "v18_reverified",
+  "audit_action": "improved"
  },
  {
   "ticker": "AZN",
@@ -954,7 +954,7 @@
   "phase": "3",
   "date_exact": null,
   "date_bucket": "2027-H1",
-  "date_quality": "guidance",
+  "date_quality": "inferred",
   "competitors": [
    "Praluent (Regeneron/Sanofi)",
    "Repatha (Amgen)"
@@ -962,7 +962,7 @@
   "source_url": "https://www.tradingview.com/news/gurufocus:9db2a0668094b:0-astrazeneca-shares-rise-as-j-p-morgan-stays-overweight/",
   "source_type": "trade press",
   "as_of": "2026-09-23",
-  "notes": "Phase 3 study NCT07000123; registry primary completion Jan 2027. Phase 3 (two studies NCT07000123/NCT07000136); registry primary completions Jan 2027. Deep audit 2026-09-20: upgraded inferred->guidance; J.P. Morgan note (Sep 2026) places laroprovstat (AZD0780 INN) Phase 3 readout in Q1 2027 (analyst-derived); bucket 2027-Q1.",
+  "notes": "Phase 3 study NCT07000123; registry primary completion Jan 2027. Phase 3 (two studies NCT07000123/NCT07000136); registry primary completions Jan 2027. Deep audit 2026-09-20: upgraded inferred->guidance; J.P. Morgan note (Sep 2026) places laroprovstat (AZD0780 INN) Phase 3 readout in Q1 2027 (analyst-derived); bucket 2027-H1. QUALITY DOWNGRADE (2026-09-23): date_quality guidance->inferred. The 2026-09-20 upgrade to guidance rested on a J.P. Morgan analyst note (via press) placing laroprovstat Phase 3 readout in Q1 2027 - analyst-derived, not company guidance. Per brief \u00a71 date-quality table, guidance requires a company-guided window; insufficient basis corrected.",
   "us_tradable": true,
   "nct_id": "NCT07000123",
   "application_type": "",
@@ -972,8 +972,8 @@
   "source_date": "",
   "record_id": "v16-0030",
   "guidance_detail": "Phase 3 study NCT07000123; registry primary completion Jan 2027.",
-  "audit_status": "v17_reverified",
-  "audit_action": "competitor_normalize"
+  "audit_status": "v18_reverified",
+  "audit_action": "improved"
  },
  {
   "ticker": "AZN",
@@ -2214,7 +2214,7 @@
   "drug": "zolacel (Breakfree-SLE)",
   "indication": "systemic lupus erythematosus",
   "event_type": "readout",
-  "phase": "3",
+  "phase": "2",
   "date_exact": null,
   "date_bucket": "2027",
   "date_quality": "guidance",
@@ -2225,7 +2225,7 @@
   "source_url": "https://bms.com/assets/bms/us/en-us/pdf/investor-info/doc_presentations/2026/BMY-2026-Q2-Results-Investor-Presentation-with-Appendix.pdf",
   "source_type": "company deck",
   "as_of": "2026-09-23",
-  "notes": "Pivotal Breakfree-SLE readout guided 2027 per Q2 2026 investor deck.",
+  "notes": "Pivotal Breakfree-SLE readout guided 2027 per Q2 2026 investor deck. PHASE CORRECTION (2026-09-23): CT.gov NCT07015983 phases=['PHASE2'] - protocol outranks marketing language; BMS Q2 2026 deck describes Breakfree-SLE as pivotal/registrational (noted here, does not change phase tag).",
   "us_tradable": true,
   "nct_id": "NCT07015983",
   "application_type": "",
@@ -2235,8 +2235,8 @@
   "source_date": "",
   "record_id": "v16-0070",
   "guidance_detail": "Pivotal Breakfree-SLE readout guided 2027 per Q2 2026 investor deck.",
-  "audit_status": "v17_reverified",
-  "audit_action": "nct_backfill"
+  "audit_status": "v18_reverified",
+  "audit_action": "improved"
  },
  {
   "ticker": "BMY",
@@ -5693,7 +5693,7 @@
   "country": "Switzerland",
   "us_listed": true,
   "drug": "sonelokimab",
-  "indication": "psoriatic arthritis (Ph3, 4-arm)",
+  "indication": "psoriatic arthritis (IZAR-2, 4-arm with risankizumab reference)",
   "event_type": "readout",
   "phase": "3",
   "date_exact": null,
@@ -5706,8 +5706,8 @@
   ],
   "source_url": "https://clinicaltrials.gov/api/v2/studies/NCT06641089",
   "source_type": "clinicaltrials.gov",
-  "as_of": "2026-09-18",
-  "notes": "Inferred from registry PCD 2027-01-15 (NCT06641089); relationship to IZAR-1 program unclear.",
+  "as_of": "2026-09-23",
+  "notes": "Inferred from registry PCD 2027-01-15 (NCT06641089). Trial identified as IZAR-2: CT.gov NCT06641089 official title = 4-arm Phase 3 with risankizumab reference arm in anti-TNFa inadequate response (per MoonLake PR). MoonLake Aug 10 2026 guidance: IZAR-2 completes enrollment Q3 2026. Prior 'relationship to IZAR-1 unclear' note resolved.",
   "us_tradable": true,
   "nct_id": "NCT06641089",
   "application_type": "",
@@ -5716,9 +5716,9 @@
   "trial_status": "",
   "source_date": "",
   "record_id": "v16-0177",
-  "guidance_detail": "Inferred from registry PCD 2027-01-15 (NCT06641089); relationship to IZAR-1 program unclear.",
-  "audit_status": "v16_verified",
-  "audit_action": "none"
+  "guidance_detail": "Inferred from registry PCD 2027-01-15 (NCT06641089). Trial identified as IZAR-2: CT.gov NCT06641089 official title = 4-arm Phase 3 with risankizumab reference arm in anti-TNFa inadequate response (per MoonLake PR). MoonLake Aug 10 2026 guidance: IZAR-2 completes enrollment Q3 2026. Prior 'relationship to IZAR-1 unclear' note resolved.",
+  "audit_status": "v18_reverified",
+  "audit_action": "improved"
  },
  {
   "ticker": "MLTX",
@@ -5726,12 +5726,12 @@
   "country": "Switzerland",
   "us_listed": true,
   "drug": "sonelokimab",
-  "indication": "psoriatic arthritis (Ph3, 3-arm)",
+  "indication": "psoriatic arthritis (IZAR-1, full Week-52 readout)",
   "event_type": "readout",
   "phase": "3",
   "date_exact": null,
-  "date_bucket": "2027-Q1",
-  "date_quality": "inferred",
+  "date_bucket": "2027-H1",
+  "date_quality": "guidance",
   "competitors": [
    "NVS (Cosentyx)",
    "UCB (Bimzelx)",
@@ -5739,8 +5739,8 @@
   ],
   "source_url": "https://clinicaltrials.gov/api/v2/studies/NCT06641076",
   "source_type": "clinicaltrials.gov",
-  "as_of": "2026-09-18",
-  "notes": "Inferred from registry PCD 2027-02-04 (NCT06641076); relationship to IZAR-1 program unclear.",
+  "as_of": "2026-09-23",
+  "notes": "Company-guided retarget 2026-09-23 (MoonLake Q2 2026 PR, 2026-08-10): IZAR-1 (NCT06641076, 3-arm Phase 3) met all endpoints at Week 16 (ACR50 42.1%); 'The IZAR-1 trial remains blinded and will continue until Week 52 with MoonLake expecting the full readout in H1 2027'. Week-16-style readout already occurred Aug 2026; this row now tracks the Week-52 full readout.",
   "us_tradable": true,
   "nct_id": "NCT06641076",
   "application_type": "",
@@ -5749,9 +5749,9 @@
   "trial_status": "",
   "source_date": "",
   "record_id": "v16-0178",
-  "guidance_detail": "Inferred from registry PCD 2027-02-04 (NCT06641076); relationship to IZAR-1 program unclear.",
-  "audit_status": "v16_verified",
-  "audit_action": "none"
+  "guidance_detail": "Company-guided retarget 2026-09-23 (MoonLake Q2 2026 PR, 2026-08-10): IZAR-1 (NCT06641076, 3-arm Phase 3) met all endpoints at Week 16 (ACR50 42.1%); 'The IZAR-1 trial remains blinded and will continue until Week 52 with MoonLake expecting the full readout in H1 2027'. Week-16-style readout already occurred Aug 2026; this row now tracks the Week-52 full readout.",
+  "audit_status": "v18_reverified",
+  "audit_action": "improved"
  },
  {
   "ticker": "MGTX",
@@ -6905,14 +6905,14 @@
   "drug": "nalbuphine ER (Haduvio)",
   "event_type": "readout",
   "indication": "chronic cough in idiopathic pulmonary fibrosis (OCEAN-2)",
-  "notes": "Phase 3 OCEAN-2 topline readout guided to H2 2027 per Q1 2026 business update.",
+  "notes": "Phase 3 OCEAN-2 topline readout guided to H2 2027 per Q1 2026 business update. TIMING TENSION (2026-09-23): CT.gov NCT07671911 (Trevi Phase 3 nalbuphine ER in IPF-related chronic cough, RECRUITING, updated 2026-09-14) carries registry PCD 2028-06 vs company-guided H2 2027 topline; guidance outranks, disagreement noted.",
   "phase": "3",
   "source_type": "company PR",
   "source_url": "https://www.globenewswire.com/news-release/2026/05/05/3288254/0/en/Trevi-Therapeutics-Reports-First-Quarter-2026-Financial-Results-and-Provides-Business-Updates.html",
   "ticker": "TRVI",
   "us_listed": true,
   "us_tradable": true,
-  "nct_id": "",
+  "nct_id": "NCT07671911",
   "application_type": "",
   "review_class": "",
   "adcom_planned": "unknown",
@@ -6920,8 +6920,8 @@
   "source_date": "",
   "record_id": "v16-0214",
   "guidance_detail": "Phase 3 OCEAN-2 topline readout guided to H2 2027 per Q1 2026 business update.",
-  "audit_status": "v17_reverified",
-  "audit_action": "nct_backfill_not_found"
+  "audit_status": "v18_reverified",
+  "audit_action": "nct_backfill"
  },
  {
   "as_of": "2026-09-23",
@@ -18906,7 +18906,7 @@
   ],
   "country": "United Kingdom",
   "date_bucket": "2027-Q4",
-  "date_exact": "2027-10-01",
+  "date_exact": null,
   "date_quality": "inferred",
   "drug": "AZD0120 (DURGA-1)",
   "event_type": "readout",
@@ -18926,8 +18926,8 @@
   "source_date": "",
   "record_id": "v16-0615",
   "guidance_detail": "Phase 1/2 readout inferred from CT.gov PCD 2027-10-01.",
-  "audit_status": "v17_reverified",
-  "audit_action": "competitor_normalize"
+  "audit_status": "v18_reverified",
+  "audit_action": "nct-cleanup"
  },
  {
   "as_of": "2026-09-23",
@@ -18939,7 +18939,7 @@
   ],
   "country": "United Kingdom",
   "date_bucket": "2027-Q3",
-  "date_exact": "2027-08-16",
+  "date_exact": null,
   "date_quality": "inferred",
   "drug": "AZD0305",
   "event_type": "readout",
@@ -18959,8 +18959,8 @@
   "source_date": "",
   "record_id": "v16-0616",
   "guidance_detail": "Phase 1/2 readout inferred from CT.gov PCD 2027-08-16.",
-  "audit_status": "v17_reverified",
-  "audit_action": "competitor_normalize"
+  "audit_status": "v18_reverified",
+  "audit_action": "nct-cleanup"
  },
  {
   "as_of": "2026-09-23",
@@ -18970,7 +18970,7 @@
   ],
   "country": "United Kingdom",
   "date_bucket": "2027-Q4",
-  "date_exact": "2027-11-22",
+  "date_exact": null,
   "date_quality": "inferred",
   "drug": "AZD4063",
   "event_type": "readout",
@@ -18990,8 +18990,8 @@
   "source_date": "",
   "record_id": "v16-0617",
   "guidance_detail": "Phase 1 readout inferred from CT.gov PCD 2027-11-22.",
-  "audit_status": "v17_reverified",
-  "audit_action": "competitor_normalize"
+  "audit_status": "v18_reverified",
+  "audit_action": "nct-cleanup"
  },
  {
   "as_of": "2026-09-23",
@@ -19002,7 +19002,7 @@
   ],
   "country": "United Kingdom",
   "date_bucket": "2027-Q1",
-  "date_exact": "2027-03-31",
+  "date_exact": null,
   "date_quality": "inferred",
   "drug": "AZD4360",
   "event_type": "readout",
@@ -19022,8 +19022,8 @@
   "source_date": "",
   "record_id": "v16-0618",
   "guidance_detail": "Phase 1/2 readout inferred from CT.gov PCD 2027-03-31.",
-  "audit_status": "v17_reverified",
-  "audit_action": "competitor_normalize"
+  "audit_status": "v18_reverified",
+  "audit_action": "nct-cleanup"
  },
  {
   "as_of": "2026-09-23",
@@ -19035,7 +19035,7 @@
   ],
   "country": "United Kingdom",
   "date_bucket": "2027-Q4",
-  "date_exact": "2027-12-13",
+  "date_exact": null,
   "date_quality": "inferred",
   "drug": "AZD5851 (GPC3)",
   "event_type": "readout",
@@ -19055,8 +19055,8 @@
   "source_date": "",
   "record_id": "v16-0619",
   "guidance_detail": "Phase 1/2 readout inferred from CT.gov PCD 2027-12-13.",
-  "audit_status": "v17_reverified",
-  "audit_action": "competitor_normalize"
+  "audit_status": "v18_reverified",
+  "audit_action": "nct-cleanup"
  },
  {
   "as_of": "2026-09-23",
@@ -19067,7 +19067,7 @@
   ],
   "country": "United Kingdom",
   "date_bucket": "2027-Q3",
-  "date_exact": "2027-07-16",
+  "date_exact": null,
   "date_quality": "inferred",
   "drug": "AZD5863",
   "event_type": "readout",
@@ -19087,8 +19087,8 @@
   "source_date": "",
   "record_id": "v16-0620",
   "guidance_detail": "Phase 1/2 readout inferred from CT.gov PCD 2027-07-16.",
-  "audit_status": "v17_reverified",
-  "audit_action": "competitor_normalize"
+  "audit_status": "v18_reverified",
+  "audit_action": "nct-cleanup"
  },
  {
   "as_of": "2026-09-23",
@@ -19100,7 +19100,7 @@
   ],
   "country": "United Kingdom",
   "date_bucket": "2027-Q3",
-  "date_exact": "2027-09-29",
+  "date_exact": null,
   "date_quality": "inferred",
   "drug": "AZD8205",
   "event_type": "readout",
@@ -19120,8 +19120,8 @@
   "source_date": "",
   "record_id": "v16-0621",
   "guidance_detail": "Phase 1/2 readout inferred from CT.gov PCD 2027-09-29.",
-  "audit_status": "v17_reverified",
-  "audit_action": "competitor_normalize"
+  "audit_status": "v18_reverified",
+  "audit_action": "nct-cleanup"
  },
  {
   "as_of": "2026-09-23",
@@ -19133,7 +19133,7 @@
   ],
   "country": "United Kingdom",
   "date_bucket": "2027-Q4",
-  "date_exact": "2027-11-17",
+  "date_exact": null,
   "date_quality": "inferred",
   "drug": "AZD8359 (STEAP2 TCE)",
   "event_type": "readout",
@@ -19153,8 +19153,8 @@
   "source_date": "",
   "record_id": "v16-0622",
   "guidance_detail": "Phase 1/2 readout inferred from CT.gov PCD 2027-11-17.",
-  "audit_status": "v17_reverified",
-  "audit_action": "competitor_normalize"
+  "audit_status": "v18_reverified",
+  "audit_action": "nct-cleanup"
  },
  {
   "as_of": "2026-09-23",
@@ -19165,7 +19165,7 @@
   ],
   "country": "United Kingdom",
   "date_bucket": "2027-Q3",
-  "date_exact": "2027-08-04",
+  "date_exact": null,
   "date_quality": "inferred",
   "drug": "AZD8421",
   "event_type": "readout",
@@ -19185,8 +19185,8 @@
   "source_date": "",
   "record_id": "v16-0623",
   "guidance_detail": "Phase 1/2 readout inferred from CT.gov PCD 2027-08-04.",
-  "audit_status": "v17_reverified",
-  "audit_action": "competitor_normalize"
+  "audit_status": "v18_reverified",
+  "audit_action": "nct-cleanup"
  },
  {
   "as_of": "2026-09-23",
@@ -19196,7 +19196,7 @@
   ],
   "country": "United Kingdom",
   "date_bucket": "2027-Q3",
-  "date_exact": "2027-08-30",
+  "date_exact": null,
   "date_quality": "inferred",
   "drug": "KRAS TCR-T cell therapy",
   "event_type": "readout",
@@ -19216,8 +19216,8 @@
   "source_date": "",
   "record_id": "v16-0624",
   "guidance_detail": "Phase 1 readout inferred from CT.gov PCD 2027-08-30.",
-  "audit_status": "v17_reverified",
-  "audit_action": "competitor_normalize"
+  "audit_status": "v18_reverified",
+  "audit_action": "nct-cleanup"
  },
  {
   "as_of": "2026-09-23",
@@ -19228,7 +19228,7 @@
   ],
   "country": "Germany",
   "date_bucket": "2027-Q2",
-  "date_exact": "2027-04-30",
+  "date_exact": null,
   "date_quality": "inferred",
   "drug": "BAY3375968 (anti-CCR8)",
   "event_type": "readout",
@@ -19248,8 +19248,8 @@
   "source_date": "",
   "record_id": "v16-0625",
   "guidance_detail": "Phase 1 readout inferred from CT.gov PCD 2027-04-30.",
-  "audit_status": "v17_reverified",
-  "audit_action": "competitor_normalize"
+  "audit_status": "v18_reverified",
+  "audit_action": "nct-cleanup"
  },
  {
   "as_of": "2026-09-23",
@@ -19260,7 +19260,7 @@
   ],
   "country": "Germany",
   "date_bucket": "2027-Q2",
-  "date_exact": "2027-04-26",
+  "date_exact": null,
   "date_quality": "inferred",
   "drug": "BAY3498264 + sotorasib",
   "event_type": "readout",
@@ -19280,8 +19280,8 @@
   "source_date": "",
   "record_id": "v16-0626",
   "guidance_detail": "Phase 1 readout inferred from CT.gov PCD 2027-04-26.",
-  "audit_status": "v17_reverified",
-  "audit_action": "competitor_normalize"
+  "audit_status": "v18_reverified",
+  "audit_action": "nct-cleanup"
  },
  {
   "as_of": "2026-09-23",
@@ -19292,7 +19292,7 @@
   ],
   "country": "Germany",
   "date_bucket": "2027-Q2",
-  "date_exact": "2027-06-08",
+  "date_exact": null,
   "date_quality": "inferred",
   "drug": "BAY3546828 (Ac-225-macropa-pelgifatamab)",
   "event_type": "readout",
@@ -19312,8 +19312,8 @@
   "source_date": "",
   "record_id": "v16-0627",
   "guidance_detail": "Phase 1 radiopharmaceutical readout inferred from CT.gov PCD 2027-06-08.",
-  "audit_status": "v17_reverified",
-  "audit_action": "competitor_normalize"
+  "audit_status": "v18_reverified",
+  "audit_action": "nct-cleanup"
  },
  {
   "as_of": "2026-09-23",
@@ -19324,7 +19324,7 @@
   ],
   "country": "United States",
   "date_bucket": "2027-Q4",
-  "date_exact": "2027-12-30",
+  "date_exact": null,
   "date_quality": "inferred",
   "drug": "BEAM-301",
   "event_type": "readout",
@@ -19344,8 +19344,8 @@
   "source_date": "",
   "record_id": "v16-0628",
   "guidance_detail": "Phase 1/2 readout inferred from CT.gov PCD 2027-12-30.",
-  "audit_status": "v17_reverified",
-  "audit_action": "competitor_normalize"
+  "audit_status": "v18_reverified",
+  "audit_action": "nct-cleanup"
  },
  {
   "as_of": "2026-09-23",
@@ -19550,7 +19550,7 @@
   ],
   "country": "United States",
   "date_bucket": "2027-Q2",
-  "date_exact": "2027-04-14",
+  "date_exact": null,
   "date_quality": "inferred",
   "drug": "BMN 351",
   "event_type": "readout",
@@ -19570,8 +19570,8 @@
   "source_date": "",
   "record_id": "v16-0635",
   "guidance_detail": "Phase 1/2 readout inferred from CT.gov PCD 2027-04-14.",
-  "audit_status": "v17_reverified",
-  "audit_action": "competitor_normalize"
+  "audit_status": "v18_reverified",
+  "audit_action": "nct-cleanup"
  },
  {
   "as_of": "2026-09-23",
@@ -19583,7 +19583,7 @@
   ],
   "country": "United States",
   "date_bucket": "2027-Q2",
-  "date_exact": "2027-06-28",
+  "date_exact": null,
   "date_quality": "inferred",
   "drug": "BMS-986454",
   "event_type": "readout",
@@ -19603,8 +19603,8 @@
   "source_date": "",
   "record_id": "v16-0636",
   "guidance_detail": "Phase 1 readout inferred from CT.gov PCD 2027-06-28.",
-  "audit_status": "v17_reverified",
-  "audit_action": "competitor_normalize"
+  "audit_status": "v18_reverified",
+  "audit_action": "nct-cleanup"
  },
  {
   "as_of": "2026-09-23",
@@ -19616,7 +19616,7 @@
   ],
   "country": "United States",
   "date_bucket": "2027-Q4",
-  "date_exact": "2027-10-28",
+  "date_exact": null,
   "date_quality": "inferred",
   "drug": "BMS-986458",
   "event_type": "readout",
@@ -19636,8 +19636,8 @@
   "source_date": "",
   "record_id": "v16-0637",
   "guidance_detail": "Phase 1/2 readout inferred from CT.gov PCD 2027-10-28.",
-  "audit_status": "v17_reverified",
-  "audit_action": "competitor_normalize"
+  "audit_status": "v18_reverified",
+  "audit_action": "nct-cleanup"
  },
  {
   "as_of": "2026-09-23",
@@ -19648,7 +19648,7 @@
   ],
   "country": "United States",
   "date_bucket": "2027-Q1",
-  "date_exact": "2027-01-06",
+  "date_exact": null,
   "date_quality": "inferred",
   "drug": "BMS-986470",
   "event_type": "readout",
@@ -19668,8 +19668,8 @@
   "source_date": "",
   "record_id": "v16-0638",
   "guidance_detail": "Phase 1/2 readout inferred from CT.gov PCD 2027-01-06.",
-  "audit_status": "v17_reverified",
-  "audit_action": "competitor_normalize"
+  "audit_status": "v18_reverified",
+  "audit_action": "nct-cleanup"
  },
  {
   "as_of": "2026-09-23",
@@ -19680,7 +19680,7 @@
   ],
   "country": "United States",
   "date_bucket": "2027-Q4",
-  "date_exact": "2027-10-14",
+  "date_exact": null,
   "date_quality": "inferred",
   "drug": "BMS-986484",
   "event_type": "readout",
@@ -19700,8 +19700,8 @@
   "source_date": "",
   "record_id": "v16-0639",
   "guidance_detail": "Phase 1 readout inferred from CT.gov PCD 2027-10-14.",
-  "audit_status": "v17_reverified",
-  "audit_action": "competitor_normalize"
+  "audit_status": "v18_reverified",
+  "audit_action": "nct-cleanup"
  },
  {
   "as_of": "2026-09-23",
@@ -19713,7 +19713,7 @@
   ],
   "country": "United States",
   "date_bucket": "2027-Q4",
-  "date_exact": "2027-10-15",
+  "date_exact": null,
   "date_quality": "inferred",
   "drug": "BMS-986488",
   "event_type": "readout",
@@ -19733,8 +19733,8 @@
   "source_date": "",
   "record_id": "v16-0640",
   "guidance_detail": "Phase 1 readout inferred from CT.gov PCD 2027-10-15.",
-  "audit_status": "v17_reverified",
-  "audit_action": "competitor_normalize"
+  "audit_status": "v18_reverified",
+  "audit_action": "nct-cleanup"
  },
  {
   "as_of": "2026-09-23",
@@ -19745,7 +19745,7 @@
   ],
   "country": "United States",
   "date_bucket": "2027-Q2",
-  "date_exact": "2027-05-26",
+  "date_exact": null,
   "date_quality": "inferred",
   "drug": "BMS-986489",
   "event_type": "readout",
@@ -19765,8 +19765,8 @@
   "source_date": "",
   "record_id": "v16-0641",
   "guidance_detail": "Phase 1 readout inferred from CT.gov PCD 2027-05-26.",
-  "audit_status": "v17_reverified",
-  "audit_action": "competitor_normalize"
+  "audit_status": "v18_reverified",
+  "audit_action": "nct-cleanup"
  },
  {
   "as_of": "2026-09-23",
@@ -19777,7 +19777,7 @@
   ],
   "country": "United States",
   "date_bucket": "2027-Q3",
-  "date_exact": "2027-07-15",
+  "date_exact": null,
   "date_quality": "inferred",
   "drug": "CC-97540 (BMS-986353)",
   "event_type": "readout",
@@ -19797,8 +19797,8 @@
   "source_date": "",
   "record_id": "v16-0642",
   "guidance_detail": "Phase 1 readout inferred from CT.gov PCD 2027-07-15; lead sponsor Juno Therapeutics (BMS).",
-  "audit_status": "v17_reverified",
-  "audit_action": "competitor_normalize"
+  "audit_status": "v18_reverified",
+  "audit_action": "nct-cleanup"
  },
  {
   "as_of": "2026-09-23",
@@ -19809,7 +19809,7 @@
   ],
   "country": "United States",
   "date_bucket": "2027-Q4",
-  "date_exact": "2027-12-10",
+  "date_exact": null,
   "date_quality": "inferred",
   "drug": "MRTX1719",
   "event_type": "readout",
@@ -19829,8 +19829,8 @@
   "source_date": "",
   "record_id": "v16-0643",
   "guidance_detail": "Phase 1 readout inferred from CT.gov PCD 2027-12-10.",
-  "audit_status": "v17_reverified",
-  "audit_action": "competitor_normalize"
+  "audit_status": "v18_reverified",
+  "audit_action": "nct-cleanup"
  },
  {
   "as_of": "2026-09-23",
@@ -19840,7 +19840,7 @@
   ],
   "country": "United States",
   "date_bucket": "2027-Q1",
-  "date_exact": "2027-01-30",
+  "date_exact": null,
   "date_quality": "inferred",
   "drug": "golcadomide (BMS-986369, GOLSEEK-3)",
   "event_type": "readout",
@@ -19860,8 +19860,8 @@
   "source_date": "",
   "record_id": "v16-0644",
   "guidance_detail": "Phase 1/2 readout inferred from CT.gov PCD 2027-01-30; distinct from deduped GOLSEEK-1.",
-  "audit_status": "v17_reverified",
-  "audit_action": "competitor_normalize"
+  "audit_status": "v18_reverified",
+  "audit_action": "nct-cleanup"
  },
  {
   "as_of": "2026-09-23",
@@ -19872,7 +19872,7 @@
   ],
   "country": "United States",
   "date_bucket": "2027-Q1",
-  "date_exact": "2027-01-19",
+  "date_exact": null,
   "date_quality": "inferred",
   "drug": "navlimetostat (BMS-986504)",
   "event_type": "readout",
@@ -19892,8 +19892,8 @@
   "source_date": "",
   "record_id": "v16-0645",
   "guidance_detail": "Phase 1 readout inferred from CT.gov PCD 2027-01-19.",
-  "audit_status": "v17_reverified",
-  "audit_action": "competitor_normalize"
+  "audit_status": "v18_reverified",
+  "audit_action": "nct-cleanup"
  },
  {
   "as_of": "2026-09-23",
@@ -20034,7 +20034,7 @@
   ],
   "country": "United States",
   "date_bucket": "2027-Q3",
-  "date_exact": "2027-07-31",
+  "date_exact": null,
   "date_quality": "inferred",
   "drug": "BXCL501 (sublingual dexmedetomidine)",
   "event_type": "readout",
@@ -20054,8 +20054,8 @@
   "source_date": "",
   "record_id": "v16-0650",
   "guidance_detail": "Phase 1 readout inferred from CT.gov PCD 2027-07-31.",
-  "audit_status": "v17_reverified",
-  "audit_action": "competitor_normalize"
+  "audit_status": "v18_reverified",
+  "audit_action": "nct-cleanup"
  },
  {
   "as_of": "2026-09-18",
@@ -25036,7 +25036,7 @@
   "audit_action": "none"
  },
  {
-  "as_of": "2026-09-18",
+  "as_of": "2026-09-23",
   "company": "Sanofi",
   "competitors": [
    "Eylea HD/aflibercept (Regeneron)",
@@ -25045,7 +25045,7 @@
   ],
   "country": "France",
   "date_bucket": "2027-Q2",
-  "date_exact": "2027-05-18",
+  "date_exact": null,
   "date_quality": "inferred",
   "drug": "SAR402663",
   "event_type": "readout",
@@ -25065,11 +25065,11 @@
   "source_date": "",
   "record_id": "v16-0805",
   "guidance_detail": "Phase 1/2 safety/efficacy of one-time sFLT01 AAV gene therapy; active, not recruiting; PCD May 18 2027.",
-  "audit_status": "v16_verified",
-  "audit_action": "none"
+  "audit_status": "v18_reverified",
+  "audit_action": "nct-cleanup"
  },
  {
-  "as_of": "2026-09-18",
+  "as_of": "2026-09-23",
   "company": "Sanofi",
   "competitors": [
    "Anktiva/nogapendekin alfa (ImmunityBio)",
@@ -25077,7 +25077,7 @@
   ],
   "country": "France",
   "date_bucket": "2027-Q1",
-  "date_exact": "2027-01-19",
+  "date_exact": null,
   "date_quality": "inferred",
   "drug": "SAR445877",
   "event_type": "readout",
@@ -25097,11 +25097,11 @@
   "source_date": "",
   "record_id": "v16-0806",
   "guidance_detail": "First-in-human Phase 1/2 dose-escalation/expansion of PD-1xIL-15 fusion protein (+/- cetuximab, bevacizumab, nivolumab, ipilimumab); PCD Jan 19 2027, recruiting.",
-  "audit_status": "v16_verified",
-  "audit_action": "none"
+  "audit_status": "v18_reverified",
+  "audit_action": "nct-cleanup"
  },
  {
-  "as_of": "2026-09-18",
+  "as_of": "2026-09-23",
   "company": "Sanofi",
   "competitors": [
    "Syfovre/pegcetacoplan (Apellis)",
@@ -25109,7 +25109,7 @@
   ],
   "country": "France",
   "date_bucket": "2027-Q4",
-  "date_exact": "2027-10-13",
+  "date_exact": null,
   "date_quality": "inferred",
   "drug": "SAR446597",
   "event_type": "readout",
@@ -25129,11 +25129,11 @@
   "source_date": "",
   "record_id": "v16-0807",
   "guidance_detail": "Phase 1/2 of one-time intravitreal AAV encoding C1s and factor-Bb inhibitors vs sham; recruiting; PCD Oct 13 2027.",
-  "audit_status": "v16_verified",
-  "audit_action": "none"
+  "audit_status": "v18_reverified",
+  "audit_action": "nct-cleanup"
  },
  {
-  "as_of": "2026-09-18",
+  "as_of": "2026-09-23",
   "company": "Sanofi",
   "competitors": [
    "Arexvy (GSK)",
@@ -25142,7 +25142,7 @@
   ],
   "country": "France",
   "date_bucket": "2027-Q2",
-  "date_exact": "2027-04-04",
+  "date_exact": null,
   "date_quality": "inferred",
   "drug": "investigational mRNA vaccine (RSV/H5)",
   "event_type": "readout",
@@ -25162,11 +25162,11 @@
   "source_date": "",
   "record_id": "v16-0808",
   "guidance_detail": "Phase 1 dose-ranging of different RSV monovalent and H5 flu mRNA formulations; recruiting; PCD Apr 4 2027.",
-  "audit_status": "v16_verified",
-  "audit_action": "none"
+  "audit_status": "v18_reverified",
+  "audit_action": "nct-cleanup"
  },
  {
-  "as_of": "2026-09-18",
+  "as_of": "2026-09-23",
   "company": "Sanofi",
   "competitors": [
    "Arexvy (GSK)",
@@ -25174,7 +25174,7 @@
   ],
   "country": "France",
   "date_bucket": "2027-Q1",
-  "date_exact": "2027-01-18",
+  "date_exact": null,
   "date_quality": "inferred",
   "drug": "investigational mRNA vaccine (hMPV/RSV)",
   "event_type": "readout",
@@ -25194,11 +25194,11 @@
   "source_date": "",
   "record_id": "v16-0809",
   "guidance_detail": "Phase 1/2 safety/immunogenicity of mRNA hMPV, RSV and hMPV+RSV combos vs licensed RSV vaccine/placebo; active, not recruiting; PCD Jan 18 2027.",
-  "audit_status": "v16_verified",
-  "audit_action": "none"
+  "audit_status": "v18_reverified",
+  "audit_action": "nct-cleanup"
  },
  {
-  "as_of": "2026-09-18",
+  "as_of": "2026-09-23",
   "company": "Sanofi",
   "competitors": [
    "Penbraya (Pfizer)",
@@ -25207,7 +25207,7 @@
   ],
   "country": "France",
   "date_bucket": "2027-Q2",
-  "date_exact": "2027-05-17",
+  "date_exact": null,
   "date_quality": "inferred",
   "drug": "pentavalent meningococcal ABCYW vaccine",
   "event_type": "readout",
@@ -25227,11 +25227,11 @@
   "source_date": "",
   "record_id": "v16-0810",
   "guidance_detail": "Phase 1/2 safety/immunogenicity vs MenACYW + MenB vaccines; active, not recruiting; PCD May 17 2027.",
-  "audit_status": "v16_verified",
-  "audit_action": "none"
+  "audit_status": "v18_reverified",
+  "audit_action": "nct-cleanup"
  },
  {
-  "as_of": "2026-09-18",
+  "as_of": "2026-09-23",
   "company": "Sarepta Therapeutics, Inc.",
   "competitors": [
    "Tominersen (Roche)",
@@ -25239,7 +25239,7 @@
   ],
   "country": "United States",
   "date_bucket": "2027-Q4",
-  "date_exact": "2027-11-30",
+  "date_exact": null,
   "date_quality": "inferred",
   "drug": "SRP-1005",
   "event_type": "readout",
@@ -25259,8 +25259,8 @@
   "source_date": "",
   "record_id": "v16-0811",
   "guidance_detail": "First-in-human Phase 1 of subcutaneous HTT-targeting siRNA with monovalent TfR1-targeted Fab CNS delivery vs placebo; recruiting; PCD Nov 30 2027.",
-  "audit_status": "v16_verified",
-  "audit_action": "none"
+  "audit_status": "v18_reverified",
+  "audit_action": "nct-cleanup"
  },
  {
   "as_of": "2026-09-18",
@@ -25387,7 +25387,7 @@
   "audit_action": "none"
  },
  {
-  "as_of": "2026-09-18",
+  "as_of": "2026-09-23",
   "company": "Vertex Pharmaceuticals Incorporated",
   "competitors": [
    "Sionna Therapeutics (SION-451/SION-719, CFTR NBD1 stabilizers)",
@@ -25396,7 +25396,7 @@
   ],
   "country": "United States",
   "date_bucket": "2027-Q1",
-  "date_exact": "2027-03-23",
+  "date_exact": null,
   "date_quality": "inferred",
   "drug": "VX-272",
   "event_type": "readout",
@@ -25416,11 +25416,11 @@
   "source_date": "",
   "record_id": "v16-0816",
   "guidance_detail": "Registry-inferred: Vertex-sponsored Phase 1 healthy-volunteer study (NCT07437105, recruiting) has PCD 2027-03-23; no company 2027 readout guidance located.",
-  "audit_status": "v16_verified",
-  "audit_action": "none"
+  "audit_status": "v18_reverified",
+  "audit_action": "nct-cleanup"
  },
  {
-  "as_of": "2026-09-18",
+  "as_of": "2026-09-23",
   "company": "Vertex Pharmaceuticals Incorporated",
   "competitors": [
    "Alkermes (ALKS 2680, orexin 2 receptor agonist)",
@@ -25429,7 +25429,7 @@
   ],
   "country": "United States",
   "date_bucket": "2027-Q1",
-  "date_exact": "2027-03-05",
+  "date_exact": null,
   "date_quality": "inferred",
   "drug": "VX-433",
   "event_type": "readout",
@@ -25449,8 +25449,8 @@
   "source_date": "",
   "record_id": "v16-0817",
   "guidance_detail": "Registry-inferred: Vertex-sponsored Phase 1 first-in-human study (NCT07584434, recruiting) has PCD 2027-03-05; no company 2027 readout guidance located.",
-  "audit_status": "v16_verified",
-  "audit_action": "none"
+  "audit_status": "v18_reverified",
+  "audit_action": "nct-cleanup"
  },
  {
   "as_of": "2026-09-18",
@@ -26607,7 +26607,7 @@
   ],
   "country": "United Kingdom",
   "date_bucket": "2027-Q3",
-  "date_exact": "2027-07-02",
+  "date_exact": null,
   "date_quality": "inferred",
   "drug": "ALXN1920",
   "event_type": "readout",
@@ -26627,8 +26627,8 @@
   "source_date": "",
   "record_id": "v16-0853",
   "guidance_detail": "Phase 2 readout inferred from CT.gov PCD 2027-07-02.",
-  "audit_status": "v17_reverified",
-  "audit_action": "competitor_normalize"
+  "audit_status": "v18_reverified",
+  "audit_action": "nct-cleanup"
  },
  {
   "as_of": "2026-09-23",
@@ -26639,7 +26639,7 @@
   ],
   "country": "United Kingdom",
   "date_bucket": "2027-Q4",
-  "date_exact": "2027-12-09",
+  "date_exact": null,
   "date_quality": "inferred",
   "drug": "AZD0292",
   "event_type": "readout",
@@ -26659,8 +26659,8 @@
   "source_date": "",
   "record_id": "v16-0854",
   "guidance_detail": "Phase 2 readout inferred from CT.gov PCD 2027-12-09.",
-  "audit_status": "v17_reverified",
-  "audit_action": "competitor_normalize"
+  "audit_status": "v18_reverified",
+  "audit_action": "nct-cleanup"
  },
  {
   "as_of": "2026-09-23",
@@ -26672,7 +26672,7 @@
   ],
   "country": "United Kingdom",
   "date_bucket": "2027-Q4",
-  "date_exact": "2027-11-12",
+  "date_exact": null,
   "date_quality": "inferred",
   "drug": "AZD1163",
   "event_type": "readout",
@@ -26692,8 +26692,8 @@
   "source_date": "",
   "record_id": "v16-0855",
   "guidance_detail": "Phase 2 readout inferred from CT.gov PCD 2027-11-12.",
-  "audit_status": "v17_reverified",
-  "audit_action": "competitor_normalize"
+  "audit_status": "v18_reverified",
+  "audit_action": "nct-cleanup"
  },
  {
   "as_of": "2026-09-23",
@@ -26704,7 +26704,7 @@
   ],
   "country": "United Kingdom",
   "date_bucket": "2027-Q3",
-  "date_exact": "2027-07-07",
+  "date_exact": null,
   "date_quality": "inferred",
   "drug": "AZD2389",
   "event_type": "readout",
@@ -26724,8 +26724,8 @@
   "source_date": "",
   "record_id": "v16-0856",
   "guidance_detail": "Phase 2 readout inferred from CT.gov PCD 2027-07-07.",
-  "audit_status": "v17_reverified",
-  "audit_action": "competitor_normalize"
+  "audit_status": "v18_reverified",
+  "audit_action": "nct-cleanup"
  },
  {
   "as_of": "2026-09-23",
@@ -26736,7 +26736,7 @@
   ],
   "country": "United Kingdom",
   "date_bucket": "2027-Q2",
-  "date_exact": "2027-04-20",
+  "date_exact": null,
   "date_quality": "inferred",
   "drug": "AZD5148 (monoclonal antibody)",
   "event_type": "readout",
@@ -26756,8 +26756,8 @@
   "source_date": "",
   "record_id": "v16-0857",
   "guidance_detail": "Phase 2 readout inferred from CT.gov PCD 2027-04-20.",
-  "audit_status": "v17_reverified",
-  "audit_action": "competitor_normalize"
+  "audit_status": "v18_reverified",
+  "audit_action": "nct-cleanup"
  },
  {
   "as_of": "2026-09-23",
@@ -26769,7 +26769,7 @@
   ],
   "country": "United Kingdom",
   "date_bucket": "2027-Q4",
-  "date_exact": "2027-11-05",
+  "date_exact": null,
   "date_quality": "inferred",
   "drug": "AZD6793",
   "event_type": "readout",
@@ -26789,8 +26789,8 @@
   "source_date": "",
   "record_id": "v16-0858",
   "guidance_detail": "Phase 2 readout inferred from CT.gov PCD 2027-11-05.",
-  "audit_status": "v17_reverified",
-  "audit_action": "competitor_normalize"
+  "audit_status": "v18_reverified",
+  "audit_action": "nct-cleanup"
  },
  {
   "as_of": "2026-09-23",
@@ -26800,7 +26800,7 @@
   ],
   "country": "Germany",
   "date_bucket": "2027-Q4",
-  "date_exact": "2027-11-29",
+  "date_exact": null,
   "date_quality": "inferred",
   "drug": "BAY 3401016",
   "event_type": "readout",
@@ -26820,8 +26820,8 @@
   "source_date": "",
   "record_id": "v16-0859",
   "guidance_detail": "Phase 2 readout inferred from CT.gov PCD 2027-11-29.",
-  "audit_status": "v17_reverified",
-  "audit_action": "competitor_normalize"
+  "audit_status": "v18_reverified",
+  "audit_action": "nct-cleanup"
  },
  {
   "as_of": "2026-09-23",
@@ -26895,7 +26895,7 @@
   ],
   "country": "Canada",
   "date_bucket": "2027-Q4",
-  "date_exact": "2027-10-18",
+  "date_exact": null,
   "date_quality": "inferred",
   "drug": "plecanatide",
   "event_type": "readout",
@@ -26915,8 +26915,8 @@
   "source_date": "",
   "record_id": "v16-0862",
   "guidance_detail": "Phase 2 readout inferred from CT.gov PCD 2027-10-18.",
-  "audit_status": "v17_reverified",
-  "audit_action": "competitor_normalize"
+  "audit_status": "v18_reverified",
+  "audit_action": "nct-cleanup"
  },
  {
   "as_of": "2026-09-23",
@@ -30527,7 +30527,7 @@
   "audit_action": "none"
  },
  {
-  "as_of": "2026-09-18",
+  "as_of": "2026-09-23",
   "company": "Sanofi",
   "competitors": [
    "Tzield/teplizumab (Sanofi/Provention Bio)",
@@ -30535,7 +30535,7 @@
   ],
   "country": "France",
   "date_bucket": "2027-Q2",
-  "date_exact": "2027-04-28",
+  "date_exact": null,
   "date_quality": "inferred",
   "drug": "Frexalimab",
   "event_type": "readout",
@@ -30555,11 +30555,11 @@
   "source_date": "",
   "record_id": "v16-0977",
   "guidance_detail": "Phase 2 anti-CD40L monoclonal antibody to preserve endogenous insulin secretion vs placebo + insulin; active, not recruiting; PCD Apr 28 2027.",
-  "audit_status": "v16_verified",
-  "audit_action": "none"
+  "audit_status": "v18_reverified",
+  "audit_action": "nct-cleanup"
  },
  {
-  "as_of": "2026-09-18",
+  "as_of": "2026-09-23",
   "company": "Sanofi",
   "competitors": [
    "Darzalex Faspro/daratumumab SC (Johnson & Johnson)",
@@ -30567,7 +30567,7 @@
   ],
   "country": "France",
   "date_bucket": "2027-Q1",
-  "date_exact": "2027-01-08",
+  "date_exact": null,
   "date_quality": "inferred",
   "drug": "Isatuximab SC (on-body delivery system)",
   "event_type": "readout",
@@ -30587,11 +30587,11 @@
   "source_date": "",
   "record_id": "v16-0978",
   "guidance_detail": "Phase 2 of subcutaneous isatuximab in combination with weekly carfilzomib backbone; recruiting; PCD Jan 8 2027.",
-  "audit_status": "v16_verified",
-  "audit_action": "none"
+  "audit_status": "v18_reverified",
+  "audit_action": "nct-cleanup"
  },
  {
-  "as_of": "2026-09-18",
+  "as_of": "2026-09-23",
   "company": "Sanofi",
   "competitors": [
    "Dupixent/dupilumab (Sanofi/Regeneron)",
@@ -30600,7 +30600,7 @@
   ],
   "country": "France",
   "date_bucket": "2027-Q2",
-  "date_exact": "2027-06-21",
+  "date_exact": null,
   "date_quality": "inferred",
   "drug": "Lunsekimig (SAR443765)",
   "event_type": "readout",
@@ -30620,11 +30620,11 @@
   "source_date": "",
   "record_id": "v16-0979",
   "guidance_detail": "Phase 2 IL-13xTSLP Nanobody (VHH) vs placebo in adults with high-risk asthma; active, not recruiting; PCD Jun 21 2027.",
-  "audit_status": "v16_verified",
-  "audit_action": "none"
+  "audit_status": "v18_reverified",
+  "audit_action": "nct-cleanup"
  },
  {
-  "as_of": "2026-09-18",
+  "as_of": "2026-09-23",
   "company": "Sanofi",
   "competitors": [
    "Budesonide/Entocort (generic standard of care)",
@@ -30632,7 +30632,7 @@
   ],
   "country": "France",
   "date_bucket": "2027-Q2",
-  "date_exact": "2027-04-08",
+  "date_exact": null,
   "date_quality": "inferred",
   "drug": "SAR444336",
   "event_type": "readout",
@@ -30652,11 +30652,11 @@
   "source_date": "",
   "record_id": "v16-0980",
   "guidance_detail": "Phase 2 of non-beta IL-2 Synthorin (pegylated IL-2) vs placebo; recruiting; PCD Apr 8 2027.",
-  "audit_status": "v16_verified",
-  "audit_action": "none"
+  "audit_status": "v18_reverified",
+  "audit_action": "nct-cleanup"
  },
  {
-  "as_of": "2026-09-18",
+  "as_of": "2026-09-23",
   "company": "Sanofi",
   "competitors": [
    "Humira/adalimumab (AbbVie)",
@@ -30665,7 +30665,7 @@
   ],
   "country": "France",
   "date_bucket": "2027-Q3",
-  "date_exact": "2027-09-22",
+  "date_exact": null,
   "date_quality": "inferred",
   "drug": "SAR445399",
   "event_type": "readout",
@@ -30685,7 +30685,7 @@
   "source_date": "",
   "record_id": "v16-0981",
   "guidance_detail": "Sanofi SAR445399 (IL-1R3 mAb) Phase 2 in moderate-to-severe hidradenitis suppurativa vs placebo; RECRUITING, PCD 2027-09-22 (est), updated 2026-09-22.",
-  "audit_status": "v16_verified",
+  "audit_status": "v18_reverified",
   "audit_action": "nct-cleanup"
  },
  {
@@ -30721,7 +30721,7 @@
   "audit_action": "none"
  },
  {
-  "as_of": "2026-09-18",
+  "as_of": "2026-09-23",
   "company": "Supernus Pharmaceuticals, Inc.",
   "competitors": [
    "Fintepla/fenfluramine (UCB)",
@@ -30729,7 +30729,7 @@
   ],
   "country": "United States",
   "date_bucket": "2027-Q4",
-  "date_exact": "2027-12-31",
+  "date_exact": null,
   "date_quality": "inferred",
   "drug": "SPN-817",
   "event_type": "readout",
@@ -30749,8 +30749,8 @@
   "source_date": "",
   "record_id": "v16-0983",
   "guidance_detail": "Open-label Phase 2 safety/tolerability study in adults with treatment-resistant epilepsy; recruiting; PCD Dec 31 2027.",
-  "audit_status": "v16_verified",
-  "audit_action": "none"
+  "audit_status": "v18_reverified",
+  "audit_action": "nct-cleanup"
  },
  {
   "as_of": "2026-09-18",
@@ -30787,7 +30787,7 @@
   "audit_action": "none"
  },
  {
-  "as_of": "2026-09-18",
+  "as_of": "2026-09-23",
   "company": "Takeda Pharmaceutical Company Limited",
   "competitors": [
    "Oveporexton/TAK-861 (Takeda)",
@@ -30796,7 +30796,7 @@
   ],
   "country": "Japan",
   "date_bucket": "2027-Q4",
-  "date_exact": "2027-11-28",
+  "date_exact": null,
   "date_quality": "inferred",
   "drug": "TAK-360",
   "event_type": "readout",
@@ -30816,11 +30816,11 @@
   "source_date": "",
   "record_id": "v16-0985",
   "guidance_detail": "Phase 2 oral orexin-2 receptor agonist vs placebo; recruiting; PCD Nov 28 2027; company timeline also cites NT2/IH Phase 2b readouts across FY26/FY27 \u2014 verify indication linkage on refresh.",
-  "audit_status": "v16_verified",
-  "audit_action": "none"
+  "audit_status": "v18_reverified",
+  "audit_action": "nct-cleanup"
  },
  {
-  "as_of": "2026-09-18",
+  "as_of": "2026-09-23",
   "company": "Takeda Pharmaceutical Company Limited",
   "competitors": [
    "Vyvgart Hytrulo/efgartigimod (argenx)",
@@ -30829,7 +30829,7 @@
   ],
   "country": "Japan",
   "date_bucket": "2027-Q4",
-  "date_exact": "2027-12-02",
+  "date_exact": null,
   "date_quality": "inferred",
   "drug": "TAK-411",
   "event_type": "readout",
@@ -30849,11 +30849,11 @@
   "source_date": "",
   "record_id": "v16-0986",
   "guidance_detail": "Open-label Phase 2 of hypersialylated immune globulin G with week-24 functional-improvement endpoint; 36-participant study; recruiting; PCD Dec 2 2027.",
-  "audit_status": "v16_verified",
-  "audit_action": "none"
+  "audit_status": "v18_reverified",
+  "audit_action": "nct-cleanup"
  },
  {
-  "as_of": "2026-09-18",
+  "as_of": "2026-09-23",
   "company": "Takeda Pharmaceutical Company Limited",
   "competitors": [
    "Activase/alteplase (Genentech)",
@@ -30861,7 +30861,7 @@
   ],
   "country": "Japan",
   "date_bucket": "2027-Q4",
-  "date_exact": "2027-12-06",
+  "date_exact": null,
   "date_quality": "inferred",
   "drug": "TAK-755",
   "event_type": "readout",
@@ -30881,8 +30881,8 @@
   "source_date": "",
   "record_id": "v16-0987",
   "guidance_detail": "Phase 2 recombinant ADAMTS13 vs placebo; recruiting; PCD Dec 6 2027; Takeda discontinued TAK-755 in immune TTP for strategic reasons but stroke trial continues per pipeline.",
-  "audit_status": "v16_verified",
-  "audit_action": "none"
+  "audit_status": "v18_reverified",
+  "audit_action": "nct-cleanup"
  },
  {
   "as_of": "2026-09-23",
@@ -30916,7 +30916,7 @@
   "audit_action": "competitor_normalize"
  },
  {
-  "as_of": "2026-09-18",
+  "as_of": "2026-09-23",
   "company": "Teva Pharmaceutical Industries Limited",
   "competitors": [
    "Lu AF82422 (Lundbeck)",
@@ -30924,7 +30924,7 @@
   ],
   "country": "Israel",
   "date_bucket": "2027-Q3",
-  "date_exact": "2027-09-15",
+  "date_exact": null,
   "date_quality": "inferred",
   "drug": "TEV-56286 (emrusolmin)",
   "event_type": "readout",
@@ -30944,11 +30944,11 @@
   "source_date": "",
   "record_id": "v16-0989",
   "guidance_detail": "Phase 2 of oral small molecule targeting early amyloidogenic/alpha-synuclein oligomers to inhibit alpha-synuclein aggregation; FDA Fast Track designation for MSA (Jan 2025); recruiting; PCD Sep 15 2027.",
-  "audit_status": "v16_verified",
-  "audit_action": "none"
+  "audit_status": "v18_reverified",
+  "audit_action": "nct-cleanup"
  },
  {
-  "as_of": "2026-09-18",
+  "as_of": "2026-09-23",
   "company": "Tharimmune, Inc.",
   "competitors": [
    "Livdelzi/seladelpar (Gilead)",
@@ -30957,7 +30957,7 @@
   ],
   "country": "United States",
   "date_bucket": "2027-Q1",
-  "date_exact": "2027-03-01",
+  "date_exact": null,
   "date_quality": "inferred",
   "drug": "TH104 (nalmefene buccal film)",
   "event_type": "readout",
@@ -30977,11 +30977,11 @@
   "source_date": "",
   "record_id": "v16-0990",
   "guidance_detail": "Phase 2 transmucosal buccal film with nalmefene (dual mu/kappa opioid receptor mechanism), designed to avoid first-pass metabolism; not yet recruiting; PCD Mar 1 2027.",
-  "audit_status": "v16_verified",
-  "audit_action": "none"
+  "audit_status": "v18_reverified",
+  "audit_action": "nct-cleanup"
  },
  {
-  "as_of": "2026-09-18",
+  "as_of": "2026-09-23",
   "company": "Tiziana Life Sciences LTD",
   "competitors": [
    "Alterity Therapeutics (ATH434, MSA)",
@@ -30989,7 +30989,7 @@
   ],
   "country": "United Kingdom",
   "date_bucket": "2027-Q2",
-  "date_exact": "2027-04-01",
+  "date_exact": null,
   "date_quality": "inferred",
   "drug": "Foralumab (intranasal anti-CD3)",
   "event_type": "readout",
@@ -31009,8 +31009,8 @@
   "source_date": "",
   "record_id": "v16-0991",
   "guidance_detail": "Registry-inferred: Tiziana-sponsored Phase 2a study (NCT06868628, recruiting) has PCD 2027-04-01; no company 2027 readout guidance located.",
-  "audit_status": "v16_verified",
-  "audit_action": "none"
+  "audit_status": "v18_reverified",
+  "audit_action": "nct-cleanup"
  },
  {
   "as_of": "2026-09-18",
@@ -31046,7 +31046,7 @@
   "audit_action": "none"
  },
  {
-  "as_of": "2026-09-18",
+  "as_of": "2026-09-23",
   "company": "Taysha Gene Therapies, Inc.",
   "competitors": [
    "Passage Bio (PBGM01, GM2 gangliosidosis gene therapy)",
@@ -31054,7 +31054,7 @@
   ],
   "country": "United States",
   "date_bucket": "2027-Q1",
-  "date_exact": "2027-03-12",
+  "date_exact": null,
   "date_quality": "inferred",
   "drug": "TSHA-101",
   "event_type": "readout",
@@ -31074,11 +31074,11 @@
   "source_date": "",
   "record_id": "v16-0993",
   "guidance_detail": "Registry-inferred: first-in-human Phase 1/2 study (NCT04798235, investigator-sponsored, Taysha collaborator, active not recruiting) has PCD 2027-03-12; Taysha's company guidance focuses on TSHA-102 Rett program instead.",
-  "audit_status": "v16_verified",
-  "audit_action": "none"
+  "audit_status": "v18_reverified",
+  "audit_action": "nct-cleanup"
  },
  {
-  "as_of": "2026-09-18",
+  "as_of": "2026-09-23",
   "company": "Travere Therapeutics, Inc.",
   "competitors": [
    "Novartis (atrasentan/Vanrafia, endothelin receptor antagonist)",
@@ -31087,7 +31087,7 @@
   ],
   "country": "United States",
   "date_bucket": "2027-Q1",
-  "date_exact": "2027-03-12",
+  "date_exact": null,
   "date_quality": "inferred",
   "drug": "Sparsentan",
   "event_type": "readout",
@@ -31107,11 +31107,11 @@
   "source_date": "",
   "record_id": "v16-0994",
   "guidance_detail": "Registry-inferred: Travere-sponsored Phase 2 pediatric study (NCT05003986, recruiting) has PCD 2027-03-12; no company 2027 readout guidance located.",
-  "audit_status": "v16_verified",
-  "audit_action": "none"
+  "audit_status": "v18_reverified",
+  "audit_action": "nct-cleanup"
  },
  {
-  "as_of": "2026-09-18",
+  "as_of": "2026-09-23",
   "company": "United Therapeutics Corporation",
   "competitors": [
    "Liquidia (Yutrepia, inhaled treprostinil)",
@@ -31120,7 +31120,7 @@
   ],
   "country": "United States",
   "date_bucket": "2027-Q3",
-  "date_exact": "2027-07-01",
+  "date_exact": null,
   "date_quality": "inferred",
   "drug": "Inhaled treprostinil (Tyvaso nebulizer)",
   "event_type": "readout",
@@ -31140,8 +31140,8 @@
   "source_date": "",
   "record_id": "v16-0995",
   "guidance_detail": "Registry-inferred: investigator-sponsored Phase 2 (NCT07037836, recruiting, United Therapeutics collaborator) has PCD 2027-07-01; no company 2027 readout guidance located.",
-  "audit_status": "v16_verified",
-  "audit_action": "none"
+  "audit_status": "v18_reverified",
+  "audit_action": "nct-cleanup"
  },
  {
   "as_of": "2026-09-18",
@@ -31176,7 +31176,7 @@
   "audit_action": "none"
  },
  {
-  "as_of": "2026-09-18",
+  "as_of": "2026-09-23",
   "company": "Vertex Pharmaceuticals Incorporated",
   "competitors": [
    "Vertex (suzetrigine/Journavx, NaV1.8 inhibitor, internal)",
@@ -31185,7 +31185,7 @@
   ],
   "country": "United States",
   "date_bucket": "2027-Q1",
-  "date_exact": "2027-03-25",
+  "date_exact": null,
   "date_quality": "inferred",
   "drug": "VX-993",
   "event_type": "readout",
@@ -31205,8 +31205,8 @@
   "source_date": "",
   "record_id": "v16-0997",
   "guidance_detail": "Registry-inferred: Vertex-sponsored Phase 2 study (NCT06619860, recruiting) has PCD 2027-03-25; Jan 2026 company update confirmed trial ongoing, no 2027 readout window stated.",
-  "audit_status": "v16_verified",
-  "audit_action": "none"
+  "audit_status": "v18_reverified",
+  "audit_action": "nct-cleanup"
  },
  {
   "as_of": "2026-09-18",
@@ -32584,7 +32584,7 @@
   "audit_action": "nct_backfill"
  },
  {
-  "as_of": "2026-09-20",
+  "as_of": "2026-09-23",
   "company": "Opus Genetics, Inc.",
   "competitors": [],
   "country": "United States",
@@ -32594,14 +32594,14 @@
   "drug": "OPGx-LCA5",
   "event_type": "readout",
   "indication": "Leber congenital amaurosis (LCA5)",
-  "notes": "Deep audit 2026-09-20: coverage expansion: Issuer press release (2026-08-03): enrollment complete in registrational Phase 1/2/3 trial of one-time subretinal AAV8 gene therapy OPGx-LCA5; dosing to begin Q4 2026; topline expected by end of 2027. Program holds FDA Rare Pediatric Disease, Orphan Drug, and RMAT designations.",
+  "notes": "Deep audit 2026-09-20: coverage expansion: Issuer press release (2026-08-03): enrollment complete in registrational Phase 1/2/3 trial of one-time subretinal AAV8 gene therapy OPGx-LCA5; dosing to begin Q4 2026; topline expected by end of 2027. Program holds FDA Rare Pediatric Disease, Orphan Drug, and RMAT designations. NCT + STALENESS CAVEAT (2026-09-23): trial identified as CT.gov NCT05616793 (Opus Genetics, AAV8.hLCA5, LCA5-IRD); registry record last updated 2026-02-19 (stale) vs Opus Aug 2026 PR: registrational Phase 1/2/3 enrollment complete, topline end 2027.",
   "phase": "3",
   "source_type": "company PR",
   "source_url": "https://www.globenewswire.com/news-release/2026/08/03/3337367/0/en/Opus-Genetics-Completes-Patient-Enrollment-in-Registrational-Phase-3-Trial-of-OPGx-LCA5-for-LCA5-Associated-Inherited-Retinal-Disease.html",
   "ticker": "IRD",
   "us_listed": true,
   "us_tradable": true,
-  "nct_id": "",
+  "nct_id": "NCT05616793",
   "application_type": "",
   "review_class": "",
   "adcom_planned": "unknown",
@@ -32609,8 +32609,8 @@
   "source_date": "",
   "record_id": "v16-1047",
   "guidance_detail": "Deep audit 2026-09-20: coverage expansion: Issuer press release (2026-08-03): enrollment complete in registrational Phase 1/2/3 trial of one-time subretinal AAV8 gene therapy OPGx-LCA5; dosing to begin Q4 2026; topline expected by end of 2027.",
-  "audit_status": "v16_verified",
-  "audit_action": "nct_backfill_not_found"
+  "audit_status": "v18_reverified",
+  "audit_action": "nct_backfill"
  },
  {
   "as_of": "2026-09-20",
@@ -32729,7 +32729,7 @@
   "audit_action": "none"
  },
  {
-  "as_of": "2026-09-20",
+  "as_of": "2026-09-23",
   "company": "Femasys Inc.",
   "competitors": [],
   "country": "United States",
@@ -32739,8 +32739,8 @@
   "drug": "FemBloc",
   "event_type": "readout",
   "indication": "permanent birth control (non-surgical)",
-  "notes": "Femasys FemBloc FINALE pivotal trial (NCT05977751), RECRUITING, CT.gov PCD 2029-12 (est, full 5-yr follow-up), updated 2026-09-14. 10-K (FY2025, current) plans interim analysis once 300 women complete 1 year of use (primary endpoint: pregnancy rate after 401 women x 1 yr). Final-phase IDE approved Nov 2025; enrollment initiated Mar 2026 -> earliest interim 2027 (derived, inferred). No company-printed calendar window; Q2 2026 update (14 Aug 2026) gives no interim date.\n[2026-09-23 primary-source upgrade] Direct SEC 10-K (FY2025, filed 2026-03-31): 'An interim analysis of clinical data endpoints is planned once 300 women have relied on FemBloc.' Supports the FemBloc interim-analysis readout watch item.",
-  "phase": "3",
+  "notes": "Femasys FemBloc FINALE pivotal trial (NCT05977751), RECRUITING, CT.gov PCD 2029-12 (est, full 5-yr follow-up), updated 2026-09-14. 10-K (FY2025, current) plans interim analysis once 300 women complete 1 year of use (primary endpoint: pregnancy rate after 401 women x 1 yr). Final-phase IDE approved Nov 2025; enrollment initiated Mar 2026 -> earliest interim 2027 (derived, inferred). No company-printed calendar window; Q2 2026 update (14 Aug 2026) gives no interim date.\n[2026-09-23 primary-source upgrade] Direct SEC 10-K (FY2025, filed 2026-03-31): 'An interim analysis of clinical data endpoints is planned once 300 women have relied on FemBloc.' Supports the FemBloc interim-analysis readout watch item. PHASE CORRECTION (2026-09-23): device pivotal IDE trial (CT.gov NCT05977751 phases=['NA']), not drug Phase 3; schema has no device phase value, so phase cleared.",
+  "phase": "",
   "source_type": "SEC filing",
   "source_url": "https://www.sec.gov/Archives/edgar/data/1339005/000114036126012375/femy-20251231.htm",
   "ticker": "FEMY",
@@ -32754,8 +32754,8 @@
   "source_date": "",
   "record_id": "v16-1052",
   "guidance_detail": "Femasys FemBloc FINALE pivotal trial (NCT05977751), RECRUITING, CT.gov PCD 2029-12 (est, full 5-yr follow-up), updated 2026-09-14.",
-  "audit_status": "v17_reverified",
-  "audit_action": "note-rewrite"
+  "audit_status": "v18_reverified",
+  "audit_action": "improved"
  },
  {
   "ticker": "AZN",
@@ -34129,10 +34129,10 @@
   "source_url": "https://clinicaltrials.regeneron.com/clinical-trials/a0MPr0000009ckPMAQ/nct06246916",
   "source_date": "",
   "as_of": "2026-09-23",
-  "notes": "Phase 3 fixed-dose fianlimab + cemiplimab vs relatlimab + nivolumab (Opdualag) in unresectable/metastatic melanoma verified on ClinicalTrials.gov and on Regeneron's own trial registry page (status Enrolling, 560 participants). Q1 2027 bucket inferred from registry PCD; derivation: CT.gov estimated primary completion 2027-03-22 as observed 2026-09-23; Regeneron registry page states trial date September 9, 2024 - March 22, 2027. GAP: Inferred, not company-guided. Exact readout day not stated anywhere; quarter bucket only. No company readout guidance located.",
+  "notes": "Phase 3 fixed-dose fianlimab + cemiplimab vs relatlimab + nivolumab (Opdualag) in unresectable/metastatic melanoma verified on ClinicalTrials.gov and on Regeneron's own trial registry page (status Enrolling, 560 participants). Q1 2027 bucket inferred from registry PCD; derivation: CT.gov estimated primary completion 2027-03-22 as observed 2026-09-23; Regeneron registry page states trial date September 9, 2024 - March 22, 2027. GAP: Inferred, not company-guided. Exact readout day not stated anywhere; quarter bucket only. No company readout guidance located. CONTEXT (2026-09-23): separate Phase 3 of fianlimab+cemiplimab vs pembrolizumab in 1L melanoma missed PFS (HR 0.845, p=0.0627) per Regeneron GlobeNewswire 2026-05-15; Harmony Head-to-Head vs Opdualag (this row) remains ongoing.",
   "guidance_detail": "Trial date: September 9, 2024 - March 22, 2027 ... What is the trial testing? cemiplimab, fianlimab, relatlimab+nivolumab",
-  "audit_status": "v17_reverified",
-  "audit_action": "added"
+  "audit_status": "v18_reverified",
+  "audit_action": "improved"
  },
  {
   "record_id": "v17-0048",
@@ -34161,6 +34161,151 @@
   "notes": "Phase 3 INDEPENDENCE (NCT04717414, luspatercept vs placebo in transfusion-dependent MF-associated anemia on concomitant JAKi) verified on ClinicalTrials.gov. INDEPENDENCE missed its primary endpoint (p=0.0674); filing relies on secondary outcomes. VERIFIED 2026-09-23: FDA ACCEPTANCE disclosed verbatim in the BMS Q2 2026 earnings press release (Exhibit 99.1 to 8-K, 2026-07-30): 'The U.S. Food and Drug Administration (FDA) accepted the supplemental Biologics License Application for Reblozyl with concomitant janus kinase inhibitor therapy in adult patients with myelofibrosis-associated anemia receiving red blood cell transfusions. The acceptance was supported by results from the Phase 3 INDEPENDENCE study. The FDA granted a Prescription Drug User Fee Act (PDUFA) date of March 11, 2027.' date_exact=2027-03-11; date_bucket=2027-Q1 set for schema compatibility (exact day preserved only in date_exact). Acceptance confirmed via company PR quoting FDA acceptance; the acceptance letter text itself was not viewed. Canonical SEC EDGAR accession for the 8-K was not locatable via search in this pass; investors.bms.com PR URL retained.",
   "guidance_detail": "The U.S. Food and Drug Administration (FDA) accepted the supplemental Biologics License Application for Reblozyl with concomitant janus kinase inhibitor therapy in adult patients with myelofibrosis-associated anemia receiving red blood cell transfusions. The acceptance was supported by results from the Phase 3 INDEPENDENCE study. The FDA granted a Prescription Drug User Fee Act (PDUFA) date of Mar",
   "audit_status": "v17_reverified",
+  "audit_action": "added"
+ },
+ {
+  "record_id": "v18-0005",
+  "ticker": "AKTS",
+  "company": "Aktis Oncology, Inc.",
+  "us_listed": true,
+  "us_tradable": true,
+  "country": "United States",
+  "drug": "AKY-2519 (B7-H3 miniprotein radioconjugate)",
+  "indication": "mCRPC and B7-H3-expressing solid tumors (Phase 1b preliminary)",
+  "phase": "1",
+  "event_type": "readout",
+  "date_exact": null,
+  "date_bucket": "2027",
+  "date_quality": "guidance",
+  "nct_id": "",
+  "application_type": "",
+  "review_class": "",
+  "adcom_planned": "unknown",
+  "trial_status": "",
+  "competitors": [],
+  "source_type": "company PR",
+  "source_url": "https://www.globenewswire.com/news-release/2026/05/11/3292282/0/en/Aktis-Oncology-Reports-Financial-Results-and-Business-Highlights-for-First-Quarter-2026.html",
+  "source_date": "2026-05-11",
+  "as_of": "2026-09-23",
+  "notes": "Company-guided (Aktis Q1 2026 PR, 2026-05-11): 'Expect preliminary data from the Phase 1b mCRPC clinical trial in 2027.' Second Phase 1b basket trial in lung/colorectal/other B7-H3 solid tumors to initiate H2 2026. Phase 1b preliminary-data readout - admitted with honest phase=1 tagging.",
+  "guidance_detail": "Expect preliminary data from the Phase 1b mCRPC clinical trial in 2027.",
+  "audit_status": "v18_reverified",
+  "audit_action": "added"
+ },
+ {
+  "record_id": "v18-0001",
+  "ticker": "KARD",
+  "company": "Kardigan, Inc.",
+  "us_listed": true,
+  "us_tradable": true,
+  "country": "United States",
+  "drug": "danicamtiv",
+  "indication": "genetic dilated cardiomyopathy (KINSHIP-DCM Phase 2b/3, Cohort 1)",
+  "phase": "2",
+  "event_type": "readout",
+  "date_exact": null,
+  "date_bucket": "2027-H1",
+  "date_quality": "guidance",
+  "nct_id": "",
+  "application_type": "",
+  "review_class": "",
+  "adcom_planned": "unknown",
+  "trial_status": "",
+  "competitors": [],
+  "source_type": "company PR",
+  "source_url": "https://www.businesswire.com/news/home/20260811514909/en/Kardigan-Reports-Second-Quarter-2026-Financial-Results-and-Recent-Business-Updates",
+  "source_date": "2026-08-11",
+  "as_of": "2026-09-23",
+  "notes": "Company-guided (Kardigan Q2 2026 PR, 2026-08-11): 'The Company expects to share Phase 2b topline data in the first half of 2027.' KINSHIP-DCM is an adaptive Phase 2b/3 trial; Cohort 1 (MYH7/TTN) enrollment completed July 2026, Phase 3 portion now underway. Kardigan (Nasdaq: KARD) IPO June 2026; South San Francisco + Princeton.",
+  "guidance_detail": "The Company expects to share Phase 2b topline data in the first half of 2027.",
+  "audit_status": "v18_reverified",
+  "audit_action": "added"
+ },
+ {
+  "record_id": "v18-0002",
+  "ticker": "KARD",
+  "company": "Kardigan, Inc.",
+  "us_listed": true,
+  "us_tradable": true,
+  "country": "United States",
+  "drug": "ataciguat",
+  "indication": "moderate calcific aortic valve stenosis (KATALYST-AV Phase 2b interim 24-week analysis)",
+  "phase": "2",
+  "event_type": "readout",
+  "date_exact": null,
+  "date_bucket": "2027-H1",
+  "date_quality": "guidance",
+  "nct_id": "",
+  "application_type": "",
+  "review_class": "",
+  "adcom_planned": "unknown",
+  "trial_status": "",
+  "competitors": [],
+  "source_type": "company PR",
+  "source_url": "https://www.businesswire.com/news/home/20260811514909/en/Kardigan-Reports-Second-Quarter-2026-Financial-Results-and-Recent-Business-Updates",
+  "source_date": "2026-08-11",
+  "as_of": "2026-09-23",
+  "notes": "Company-guided (Kardigan Q2 2026 PR, 2026-08-11): 'The Company expects to share Phase 2b topline data from the interim 24-week analysis in the first half of 2027.' sGC activator in CAVS patients with moderate disease (KATALYST-AV).",
+  "guidance_detail": "The Company expects to share Phase 2b topline data from the interim 24-week analysis in the first half of 2027.",
+  "audit_status": "v18_reverified",
+  "audit_action": "added"
+ },
+ {
+  "record_id": "v18-0003",
+  "ticker": "KARD",
+  "company": "Kardigan, Inc.",
+  "us_listed": true,
+  "us_tradable": true,
+  "country": "United States",
+  "drug": "tonlamarsen",
+  "indication": "post-hospitalization acute severe hypertension (KARDINAL-ASH Phase 2)",
+  "phase": "2",
+  "event_type": "readout",
+  "date_exact": null,
+  "date_bucket": "2027-H1",
+  "date_quality": "guidance",
+  "nct_id": "",
+  "application_type": "",
+  "review_class": "",
+  "adcom_planned": "unknown",
+  "trial_status": "",
+  "competitors": [],
+  "source_type": "company PR",
+  "source_url": "https://www.businesswire.com/news/home/20260811514909/en/Kardigan-Reports-Second-Quarter-2026-Financial-Results-and-Recent-Business-Updates",
+  "source_date": "2026-08-11",
+  "as_of": "2026-09-23",
+  "notes": "Company-guided (Kardigan Q2 2026 PR, 2026-08-11): 'expects to share Phase 2 topline data in the first half of 2027.' Angiotensinogen-targeted ASO (KARDINAL-ASH); first patient randomized Q2 2026.",
+  "guidance_detail": "expects to share Phase 2 topline data in the first half of 2027.",
+  "audit_status": "v18_reverified",
+  "audit_action": "added"
+ },
+ {
+  "record_id": "v18-0004",
+  "ticker": "AKTS",
+  "company": "Aktis Oncology, Inc.",
+  "us_listed": true,
+  "us_tradable": true,
+  "country": "United States",
+  "drug": "AKY-1189 (Nectin-4 miniprotein radioconjugate)",
+  "indication": "locally advanced/metastatic urothelial cancer and other Nectin-4 expressing solid tumors (Phase 1b Part 1 preliminary)",
+  "phase": "1",
+  "event_type": "readout",
+  "date_exact": null,
+  "date_bucket": "2027-Q1",
+  "date_quality": "guidance",
+  "nct_id": "NCT07020117",
+  "application_type": "",
+  "review_class": "",
+  "adcom_planned": "unknown",
+  "trial_status": "",
+  "competitors": [],
+  "source_type": "company PR",
+  "source_url": "https://www.globenewswire.com/news-release/2026/02/24/3243465/0/en/Aktis-Oncology-Receives-U-S-FDA-Fast-Track-Designation-for-AKY-1189-a-Nectin-4-Miniprotein-Radioconjugate.html",
+  "source_date": "2026-02-24",
+  "as_of": "2026-09-23",
+  "notes": "Company-guided (Aktis PR, 2026-02-24; reaffirmed Q1 2026 PR 2026-05-11): 'Aktis expects to present preliminary results from Part 1 of the trial in the first quarter of 2027.' Multi-site Phase 1b (NCT07020117) in mUC, breast, NSCLC, colorectal, cervical, head and neck. FDA Fast Track designated for mUC. Aktis (Nasdaq: AKTS) IPO Jan 2026; Boston, MA. Phase 1b preliminary-data readout - admitted with honest phase=1 tagging.",
+  "guidance_detail": "Aktis expects to present preliminary results from Part 1 of the trial in the first quarter of 2027.",
+  "audit_status": "v18_reverified",
   "audit_action": "added"
  }
 ]
