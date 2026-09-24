@@ -1,5 +1,5 @@
-/* v4.0 service worker: offline dataset cache. No push notifications. */
-const CACHE = 'bcc-2027-v4-0';
+/* v4.0 (filter cleanup) service worker: offline dataset cache. No push notifications. */
+const CACHE = 'bcc-2027-v4-0-1';
 const CORE = ['./', './index.html', './manifest.webmanifest', './data/catalysts.json'];
 self.addEventListener('install', e => {
   e.waitUntil(caches.open(CACHE).then(c => c.addAll(CORE)).then(() => self.skipWaiting()));
