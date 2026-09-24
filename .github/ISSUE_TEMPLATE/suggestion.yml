@@ -1,0 +1,47 @@
+name: Suggest a missing catalyst
+description: Suggest a 2027 catalyst that should be on the calendar
+title: "[suggestion] "
+labels: ["user-submission"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Suggest a catalyst for the 2027 calendar. It needs a disclosed 2027 timeline from a primary source — company guidance, an FDA acceptance with a goal date, or a conference organizer's published dates. "Might happen in 2027" isn't enough.
+  - type: input
+    id: ticker
+    attributes:
+      label: Ticker
+      placeholder: ABCD
+    validations:
+      required: true
+  - type: input
+    id: drug_program
+    attributes:
+      label: Drug / program
+      placeholder: e.g. XYZ-123
+    validations:
+      required: true
+  - type: input
+    id: event
+    attributes:
+      label: Event
+      description: e.g. Phase 3 readout, PDUFA, CHMP opinion
+      placeholder: Phase 3 readout
+    validations:
+      required: true
+  - type: input
+    id: timing
+    attributes:
+      label: Timing as disclosed
+      description: Use the source's own precision — exact day, quarter, half-year, or full year.
+      placeholder: H2 2027
+    validations:
+      required: true
+  - type: input
+    id: source_url
+    attributes:
+      label: Source URL (required)
+      description: Company press release, SEC filing, FDA page, ClinicalTrials.gov, or organizer page.
+      placeholder: https://
+    validations:
+      required: true

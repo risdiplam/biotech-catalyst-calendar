@@ -634,5 +634,61 @@
   "kind": "investor_day_watch",
   "detail": "No 2027-dated investor day published as of 2026-09-23. Admit as investor_day only when a 2027 date is announced.",
   "source": "investor-day sweep 2026-09-23"
+ },
+ {
+  "category": "watch_candidate",
+  "ticker": "",
+  "kind": "abstract_deadline",
+  "item": "EASL Congress 2027 \u2014 late-breaker abstract submission closes 20 April 2027",
+  "detail": "Organizer (easlcongress.eu) key dates for EASL Congress 2027 (London, 16\u201319 Jun 2027): late-breaker submission opens 7 April 2027 and CLOSES 20 APRIL 2027. Regular abstract deadline was 19 January 2027. Late-breaker window is when hepatology data (MASH, HBV/HDV readouts) can still land on the program. Added 2026-09-24.",
+  "source": "v4.0 coverage sweep (easlcongress.eu key dates)"
+ },
+ {
+  "category": "watch_candidate",
+  "ticker": "",
+  "kind": "abstract_deadline",
+  "item": "SGO 2027 Annual Meeting \u2014 late-breaking abstract final details due 5 Jan 2027",
+  "detail": "Per SGO organizer FAQ for the 2027 Annual Meeting on Women's Cancer: final late-breaking abstract (LBA) submission details due TUESDAY, JANUARY 5, 2027. Regular abstract deadline was September 18, 2026. SGO is an in-book conference; LBA deadline is the last point at which new gynecologic-oncology data can enter the 2027 program. Added 2026-09-24.",
+  "source": "v4.0 coverage sweep (SGO organizer FAQ)"
+ },
+ {
+  "category": "watch_candidate",
+  "ticker": "XLO",
+  "kind": "opt_in_watch",
+  "item": "Watch for Gilead opt-in decision on efarindodekin alfa (XTX301) after H1 2027 data package",
+  "detail": "Xilio guides delivery of the Phase 1/2 option data package to Gilead in H1 2027 (already in book as v16-0576). Gilead then decides whether to exercise its option (option fee $75M) and take over development/commercialization of efarindodekin alfa. The decision timing itself is NOT company-guided \u2014 watch for the announcement after the H1 2027 data delivery. Material to XLO (micro-cap; cash runway into Q2 2027 per company). Added 2026-09-24.",
+  "source": "v4.0 coverage sweep"
+ },
+ {
+  "category": "watch_candidate",
+  "ticker": "",
+  "kind": "conference_date_unconfirmed",
+  "item": "ESMO TAT 2027 \u2014 organizer dates unconfirmed",
+  "detail": "Dates Feb 22-23, 2027 (Bordeaux) appear in ESMO's own industry-guidelines PDF on dam.esmo.org, but the PDF could not be fetched for verification. Admit as a conference row only after confirming the organizer-printed dates. Added 2026-09-24.",
+  "source": "v4.0 coverage sweep"
+ },
+ {
+  "category": "watch_candidate",
+  "ticker": "",
+  "kind": "conference_date_unconfirmed",
+  "item": "ELCC 2027 \u2014 organizer dates unconfirmed",
+  "detail": "Dates Mar 17-20, 2027 appear in ESMO's own industry-guidelines PDF on dam.esmo.org, but the PDF could not be fetched for verification. Admit as a conference row only after confirming the organizer-printed dates. Added 2026-09-24.",
+  "source": "v4.0 coverage sweep"
+ },
+ {
+  "category": "watch_candidate",
+  "ticker": "",
+  "kind": "conference_parked",
+  "item": "J.P. Morgan Healthcare Conference 2027 \u2014 organizer prints no future dates",
+  "detail": "JPM's official page does not publish future dates (invitation-only event). Third parties agree Jan 11-14, 2027, San Francisco, matching the in-book BIO Partnering @ JPM Week row. Parked per the unpublished-conference rule; re-check monthly. Added 2026-09-24.",
+  "source": "v4.0 coverage sweep"
+ },
+ {
+  "category": "watch_candidate",
+  "ticker": "HOWL",
+  "kind": "program_parked",
+  "item": "HOWL WTX-1011 / WTX-2022 INDUCER IND programs \u2014 status unconfirmed after merger + platform sale",
+  "detail": "Rows v16-0675/v16-0676 moved to watchlist 2026-09-24: Werewolf sold its preclinical INDUCER platform to EMD Serono (Sept 2026) and the definitive Werewolf\u2013Ambros merger (expected close Q1 2027, combined co AMBX) had not closed \u2014 the rows' notes incorrectly stated the merger closed. Park until the WTX-2022 IND program's status is confirmed in company/SEC materials.",
+  "source": "v4.0 sweep B"
  }
 ]

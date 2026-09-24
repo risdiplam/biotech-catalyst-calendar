@@ -1,0 +1,2303 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Biotech Catalyst Calendar//2027//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:2027 Biotech Catalyst Calendar
+X-WR-CALDESC:Key 2027 biotech catalysts with confirmed calendar dates. Full calendar: https://risdiplam.github.io/biotech-catalyst-calendar/
+BEGIN:VEVENT
+UID:v16-0021@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270228
+SUMMARY:APMD — AD109 (aroxybutynin + atomoxetine) PDUFA decision
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Indication: Obstructive sleep apnea\nThe FDA's decision date on AD109 (aroxybutynin + atomoxetine) for Obstructive sleep apnea falls on 2027-02-28 — the agency's yes-or-no moment for Apnimed\, Inc.'s application.\nNote: FDA accepted NDA for AD109 (aroxybutynin + atomoxetine) in obstructive sleep apnea (Phase 3 SynAIRgy and LunAIRo)\; PDUFA date February 28\, 2027. Apnimed completed an upsized IPO and began trading on the Nasdaq Global Select Market as APMD on 2026-07-31.\nDate quality: hard (2027-02-28)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0021\nSource: https://www.prnewswire.com/news-releases/apnimed-announces-fda-acceptance-of-new-drug-application-for-ad109-an-investigational-oral-pill-to-treat-adults-with-obstructive-sleep-apnea-osa-302825008.html
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0023@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270501
+SUMMARY:AXSM — AXS-12 (reboxetine) PDUFA decision
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Indication: cataplexy in narcolepsy\nNote: FDA accepted NDA\; PDUFA May 1\, 2027\; no AdCom planned. [Source verified 2026-09-20: 'The FDA has set a Prescription Drug User Fee Act (PDUFA) target action date of May 1\, 2027. The FDA also indicated that it does not currently plan to hold an advisory committee meeting to discuss the application.' (July]\nDate quality: hard (2027-05-01)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0023\nSource: https://www.globenewswire.com/news-release/2026/07/15/3327580/33090/en/axsome-therapeutics-announces-fda-acceptance-of-new-drug-application-for-axs-12-for-the-treatment-of-cataplexy-in-narcolepsy.html
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0046@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270508
+SUMMARY:BBIO — encaleret PDUFA decision
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Indication: autosomal dominant hypocalcemia type 1 (ADH1)\nNote: FDA accepted NDA\; PDUFA May 8\, 2027\; no AdCom planned\; no approved or advanced competitor in ADH1.\nDate quality: hard (2027-05-08)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0046\nSource: https://investor.bridgebio.com/news/news-details/2026/BridgeBio-Announces-FDA-Acceptance-of-NDA-for-Encaleret-for-ADH1/default.aspx
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0062@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270513
+SUMMARY:BMY — mezigdomide PDUFA decision
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Indication: relapsed/refractory multiple myeloma\nNote: FDA accepted NDA for mezigdomide (MeziKd: oral mezigdomide + carfilzomib + dexamethasone) in relapsed/refractory multiple myeloma\, based on Phase 3 SUCCESSOR-2 (NCT05552976\; PFS 18.0 vs 8.3 months\, HR 0.48\, p<0.0001). BMS PR 2026-07-13: 'The FDA has granted a Prescription Drug User Fee Act (PDUFA) date of May 13\, 2027 for this indication.' GAP: acceptance letter text not viewed\; acceptance confirm\nDate quality: hard (2027-05-13)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0062\nSource: https://www.businesswire.com/news/home/20260713597234/en/U.S.-Food-and-Drug-Administration-Accepts-Bristol-Myers-Squibbs-New-Drug-Application-for-Mezigdomide-in-Patients-with-Relapsed-or-Refractory-Multiple-Myeloma
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0073@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270121
+SUMMARY:DYN — zeleciment rostudirsen (z-rostudirsen\, DYNE-251) PDUFA decision
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Indication: Duchenne muscular dystrophy amenable to exon 51 skipping\nPhase 3 data for z-rostudirsen (DYNE-251) in Duchenne muscular dystrophy amenable to exon 51 skipping is expected on 2027-01-21 — the pivotal readout that determines whether Dyne Therapeutics\, Inc. can file for approval.\nNote: FDA accepted BLA and granted Priority Review\; exact PDUFA date disclosed in company PR.\nDate quality: hard (2027-01-21)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0073\nSource: https://www.globenewswire.com/news-release/2026/07/20/3329635/0/en/Dyne-Therapeutics-Announces-U-S-FDA-Acceptance-of-Biologics-License-Application-BLA-for-Z-Rostudirsen-in-Exon-51-Duchenne-Muscular-Dystrophy-DMD.html
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0076@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270629
+SUMMARY:COGT — bezuclastinib PDUFA decision
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Indication: advanced systemic mastocytosis (AdvSM)\nThe FDA's decision date on bezuclastinib for advanced systemic mastocytosis (AdvSM) falls on 2027-06-29 — the agency's yes-or-no moment for Cogent Biosciences\, Inc.'s application.\nNote: FDA accepted NDA and set PDUFA target action date 2027-06-29\; no AdCom planned at this time. NonAdvSM (2026-12-30) and GIST (2026-11-30) PDUFAs fall in 2026. [Source verified 2026-09-20: FDA has accepted its New Drug Application (NDA) for bezuclastinib in patients with Advanced Systemic Mastocytosis (AdvSM) and assigned a Prescription Drug User Fee Act (PDUFA) target action date of June 29\, 2027. \nDate quality: hard (2027-06-29)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0076\nSource: https://www.globenewswire.com/news-release/2026/09/15/3361988/0/en/cogent-biosciences-announces-fda-acceptance-of-new-drug-application-nda-for-bezuclastinib-in-patients-with-advanced-systemic-mastocytosis-advsm.html
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0080@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270227
+SUMMARY:CGEM — zipalertinib PDUFA decision
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Indication: locally advanced or metastatic NSCLC with EGFR exon 20 insertion mutations after platinum-based chemotherapy\nThe FDA's decision date on zipalertinib for locally advanced or metastatic NSCLC with EGFR exon 20 insertion mutations after platinum-based chemotherapy falls on 2027-02-27 — the agency's yes-or-no moment for Cullinan Therapeutics\, Inc.'s application.\nNote: FDA accepted NDA (post-platinum\, with or without prior amivantamab) with PDUFA 2027-02-27 per Cullinan/Taiho\; REZILIENT3 first-line Ph3 read out 2026\, not a 2027 event.\nDate quality: hard (2027-02-27)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0080\nSource: https://www.taihooncology.com/us/news/us-food-and-drug-administration-accepts-new-drug-application-for-zipalertinib-for-the-treatment-of-locally-advanced-or-metastatic-non-small-cell-lung-cancer-with-egfr-exon-20-insertion-mutations/
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0086@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270303
+SUMMARY:EXEL — zanzalintinib (XL092) + atezolizumab (Tecentriq) PDUFA decision
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Indication: previously treated metastatic colorectal cancer\nNote: FDA extended the original 2026-12-03 target action date to 2027-03-03 after updated safety and efficacy data submitted in response to an FDA information request were classified as a major amendment. Disclosed by the company via Form 8-K (Item 8.01) filed 2026-09-11\; no standalone company PR exists — sourced via Reuters' direct quote of the filing.\nDate quality: hard (2027-03-03)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0086\nSource: https://www.sec.gov/cgi-bin/browse-edgar?CIK=EXEL&owner=exclude&action=getcompany&Find=Search
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0094@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270202
+SUMMARY:GILD — Yeztugo (lenacapavir\, oral once-weekly) PDUFA decision
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Indication: HIV pre-exposure prophylaxis\nNote: FDA accepted the NDA for the once-weekly oral formulation\, potentially the first long-acting pill for HIV prevention\; standard-review action date 2027-02-02.\nDate quality: hard (2027-02-02)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0094\nSource: https://www.gilead.com/news/news-details/2026/u-s--fda-accepts-gileads-application-for-investigational-once-weekly-oral-yeztugo-potentially-the-first-long-acting-pill-for-hiv-prevention
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0101@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270401
+SUMMARY:HRMY — pitolisant GR (gastro-resistant tablets) PDUFA decision
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Indication: narcolepsy\nNote: Pitolisant GR = gastro-resistant tablets (not granules)\, pediatric narcolepsy formulation\; NDA accepted by FDA July 2026\; target PDUFA date 2027-04-01 per Q2 2026 company update.\nDate quality: hard (2027-04-01)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0101\nSource: https://www.globenewswire.com/news-release/2026/08/04/3338190/0/en/Harmony-Biosciences-Announces-Record-Q2-2026-Revenue-and-Shares-Initial-Clinical-Data-for-Its-Orexin-2-Agonist-BP-205-Reinforcing-Potential-Best-in-Class-Profile.html
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0108@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270428
+SUMMARY:IMNM — varegacestat (AL102) PDUFA decision
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Indication: desmoid tumors\nThe FDA's decision date on varegacestat (AL102) for desmoid tumors falls on 2027-04-28 — the agency's yes-or-no moment for Immunome\, Inc.'s application.\nNote: FDA accepted the NDA for the gamma-secretase inhibitor in adults with desmoid tumors\; action date 2027-04-28.\nDate quality: hard (2027-04-28)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0108\nSource: https://investors.immunome.com/immunome-announces-u-s-fda-acceptance-of-new-drug-application-for-varegacestat-for-the-treatment-of-adults-with-desmoid-tumors/
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0116@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270414
+SUMMARY:INBX — ozekibart (INBRX-109) PDUFA decision
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Indication: unresectable or metastatic conventional chondrosarcoma\nThe FDA's decision date on ozekibart (INBRX-109) for unresectable or metastatic conventional chondrosarcoma falls on 2027-04-14 — the agency's yes-or-no moment for Inhibrx Biosciences\, Inc.'s application.\nNote: FDA accepted BLA (no filing review issues)\; PDUFA goal April 14\, 2027. Would be first FDA-approved therapy for chondrosarcoma.\nDate quality: hard (2027-04-14)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0116\nSource: https://www.prnewswire.com/news-releases/inhibrx-announces-us-fda-acceptance-of-bla-for-ozekibart-in-patients-with-conventional-chondrosarcoma-302800101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0127@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270128
+SUMMARY:INSM — ARIKAYCE (amikacin liposome inhalation suspension) PDUFA decision
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Indication: MAC lung disease (newly diagnosed) — ENCORE (Phase 3b)\nNote: FDA accepted the sNDA for ARIKAYCE (amikacin liposome inhalation suspension) in MAC lung disease and granted Priority Review\; PDUFA target action date January 28\, 2027 (company PR 2026-09-21). Expands to newly diagnosed MAC and converts the 2018 accelerated approval.\nDate quality: hard (2027-01-28)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0127\nSource: https://www.prnewswire.com/news-releases/fda-grants-priority-review-to-insmeds-snda-for-arikayce-amikacin-liposome-inhalation-suspension-for-treatment-of-mac-lung-disease-with-pdufa-target-action-date-set-for-january-28-2027-302884017.html
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0185@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270310
+SUMMARY:NTLA — lonvoguran ziclumeran (lonvo-z) PDUFA decision
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Indication: hereditary angioedema\nThe FDA's decision date on lonvoguran ziclumeran (lonvo-z) for hereditary angioedema falls on 2027-03-10 — the agency's yes-or-no moment for Intellia Therapeutics\, Inc.'s application.\nNote: BLA accepted with priority review\; PDUFA 2027-03-10\; FDA currently does not plan an AdCom. [Source verified 2026-09-20: Official Intellia GlobeNewswire release (opened and confirmed 2026-09-20): "today announced the U.S. Food and Drug Administration (FDA) has accepted the Biologics License Application (BLA) for lonvo-z and granted the BLA]\nDate quality: hard (2027-03-10)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0185\nSource: https://www.globenewswire.com/news-release/2026/09/08/3357599/0/en/intellia-therapeutics-announces-fda-acceptance-of-biologics-license-application-with-priority-review-for-lonvoguran-ziclumeran-lonvo-z-for-hereditary-angioedema-hae.html
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0188@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270423
+SUMMARY:PHVS — Deucrictibant immediate-release PDUFA decision
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Indication: On-demand treatment of hereditary angioedema attacks (age 12+)\nThe FDA's decision date on deucrictibant immediate-release for on-demand treatment of hereditary angioedema attacks (age 12+) falls on 2027-04-23 — the agency's yes-or-no moment for Pharvaris N.V.'s application.\nNote: FDA accepted the NDA for deucrictibant IR for on-demand HAE attacks\; PDUFA target action date is April 23\, 2027 per company announcement.\nDate quality: hard (2027-04-23)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0188\nSource: https://www.biospace.com/press-releases/pharvaris-announces-fda-acceptance-of-new-drug-application-for-deucrictibant-ir-for-on-demand-treatment-of-hereditary-angioedema-attacks
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0191@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270424
+SUMMARY:ORGO — ReNu PDUFA decision
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Indication: Management of symptomatic knee osteoarthritis pain\nThe FDA's decision date on ReNu for Management of symptomatic knee osteoarthritis pain falls on 2027-04-24 — the agency's yes-or-no moment for Organogenesis Holdings Inc.'s application.\nNote: FDA accepted the BLA for ReNu for symptomatic knee OA\; PDUFA target action date is April 24\, 2027 per company announcement.\nDate quality: hard (2027-04-24)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0191\nSource: https://www.biospace.com/press-releases/organogenesis-announces-fda-acceptance-of-biologics-license-application-for-renu-for-the-management-of-symptomatic-knee-osteoarthritis
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0192@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270129
+SUMMARY:PRAX — Ulixacaltamide HCl PDUFA decision
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Indication: Essential tremor in adults\nThe FDA's decision date on Ulixacaltamide HCl for Essential tremor in adults falls on 2027-01-29 — the agency's yes-or-no moment for Praxis Precision Medicines\, Inc.'s application.\nNote: FDA accepted the NDA for ulixacaltamide in essential tremor with PDUFA date January 29\, 2027\; FDA indicated it does not currently plan an Advisory Committee meeting.\nDate quality: hard (2027-01-29)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0192\nSource: https://www.globenewswire.com/news-release/2026/04/14/3273225/0/en/Praxis-Precision-Medicines-Announces-FDA-Acceptance-of-New-Drug-Application-for-Ulixacaltamide-HCl-in-Patients-with-Essential-Tremor.html
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0200@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270110
+SUMMARY:RHHBY — satralizumab (Enspryng) PDUFA decision
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Indication: Myelin oligodendrocyte glycoprotein antibody-associated disease (MOGAD)\nNote: FDA granted Priority Review of the sBLA for Enspryng in MOGAD with a target action date of January 10\, 2027. Source disagreement documented: CheckRare lists January 20\, 2027\; Roche's own disclosure (primary source) states January 10\, 2027 and is kept.\nDate quality: hard (2027-01-10)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0200\nSource: https://www.businesswire.com/news/home/20260909654496/en/U.S.-FDA-Grants-Priority-Review-for-Genentechs-Enspryng-for-MOGAD-an-Autoimmune-Disease-With-No-Approved-Treatments
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0202@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270228
+SUMMARY:SRPT — casimersen (AMONDYS 45) PDUFA decision
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Indication: Duchenne muscular dystrophy amenable to exon 45 skipping\nNote: FDA accepted the sNDA seeking traditional approval of AMONDYS 45 and assigned a PDUFA date of February 28\, 2027.\nDate quality: hard (2027-02-28)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0202\nSource: https://www.businesswire.com/news/home/20260630779541/en/Sarepta-Announces-FDA-Acceptance-of-sNDAs-for-AMONDYS-45-and-VYONDYS-53
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0203@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270228
+SUMMARY:SRPT — golodirsen (VYONDYS 53) PDUFA decision
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Indication: Duchenne muscular dystrophy amenable to exon 53 skipping\nNote: FDA accepted the sNDA seeking traditional approval of VYONDYS 53 and assigned a PDUFA date of February 28\, 2027.\nDate quality: hard (2027-02-28)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0203\nSource: https://www.businesswire.com/news/home/20260630779541/en/Sarepta-Announces-FDA-Acceptance-of-sNDAs-for-AMONDYS-45-and-VYONDYS-53
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0216@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270624
+SUMMARY:UTHR — oral ralinepag PDUFA decision
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Indication: pulmonary arterial hypertension (PAH)\nNote: PDUFA date 2027-06-24 for oral ralinepag in PAH per company PR 8/24/2026.\nDate quality: hard (2027-06-24)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0216\nSource: https://ir.unither.com/press-releases/2026/08-24-2026-120021913
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0233@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270121
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: ASCO Gastrointestinal Cancers Symposium\, January 21–23\, 2027\, San Francisco\, CA. ASCO multidisciplinary GI oncology symposium.\nDate quality: hard (2027-01-21)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0233\nSource: https://www.asco.org/gi/dates-know
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0234@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270210
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: International Stroke Conference 2027\, February 10–12\, 2027\, George R. Brown Convention Center\, Houston\, Texas. AHA annual stroke science meeting (pre-cons February 9).\nDate quality: hard (2027-02-10)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0234\nSource: https://professional.heart.org/en/meetings
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0235@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270211
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: February 11-13\, 2027 (ASCO save-the-date page\, organizer-owned). Venue: San Francisco\, CA per 2027 edition listings (third party\; ASCO page excerpt does not name the city)\; prior editions held at Moscone Center\, San Francisco.\nDate quality: hard (2027-02-11)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0235\nSource: https://www.asco.org/gu
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0236@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270228
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: AACR Immuno-Oncology 2027\, February 28–March 3\, 2027\, JW Marriott Los Angeles L.A. Live\, Los Angeles\, California. Immuno-oncology discovery-to-clinical conference.\nDate quality: hard (2027-02-28)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0236\nSource: https://www.aacr.org/meeting/aacr-io-2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0237@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270402
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: AACR Annual Meeting 2027\, April 2–7\, 2027\, Orange County Convention Center\, Orlando\, Florida.\nDate quality: hard (2027-04-02)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0237\nSource: https://www.aacr.org/meeting/aacr-annual-meeting-2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0238@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270410
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: ACC Annual Scientific Session 2027 (ACC.27-WCC)\, April 10–12\, 2027\, Houston\, Texas. ACC/World Heart Federation flagship cardiology meeting (pre-conference April 9).\nDate quality: hard (2027-04-10)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0238\nSource: https://accscientificsession.acc.org/Registration-and-Hotels
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0239@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270604
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: ASCO Annual Meeting 2027\, June 4–8\, 2027\, McCormick Place\, Chicago\, IL. (Organizer dates-know page verified 2026-09-23.)\nDate quality: hard (2027-06-04)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0239\nSource: https://www.asco.org/annual-meeting/dates-know?intcmp=nw_ascoorg_am_ascovoices_site_amlandingpage_all__glob_092925__qklnk__aware_text_
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0240@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270605
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: ENDO 2027\, June 5–7\, 2027\, Toronto\, Ontario\, Canada. Endocrine Society signature annual meeting.\nDate quality: hard (2027-06-05)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0240\nSource: https://endocrine.org/meetings-and-events/endo-future-meetings
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0241@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270610
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: EHA2027 Congress\, June 10–13\, 2027\, Barcelona\, Spain. European Hematology Association annual congress.\nDate quality: hard (2027-06-10)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0241\nSource: https://ehaweb.org/connect-network/eha2027-congress
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0242@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270718
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: Alzheimer’s Association International Conference 2027\, July 18–21\, 2027\, Chicago\, United States\, and online. World’s largest dementia science meeting.\nDate quality: hard (2027-07-18)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0242\nSource: https://www.alz.org/research/for_researchers/scientific-conferences?lang=en-US&form=FUNSETYDEFK&form=FUNYWTPCJBN
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0243@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270719
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: AHA BCVS Scientific Sessions 2027\, July 19–22\, 2027\, Westin Boston Seaport District\, Boston\, Massachusetts. Basic cardiovascular sciences sessions.\nDate quality: hard (2027-07-19)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0243\nSource: https://professional.heart.org/en/meetings
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0244@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270722
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: AHA Vascular Discovery: From Genes to Medicine Scientific Sessions 2027\, July 22–25\, 2027\, Westin Boston Seaport District\, Boston\, Massachusetts. Vascular biology research meeting.\nDate quality: hard (2027-07-22)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0244\nSource: https://professional.heart.org/en/meetings
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0245@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270827
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: ESC Congress 2027\, August 27–30\, 2027\, Milan\, Italy. World’s foremost cardiology meeting. (Dates + city only\; specific venue not printed\; re-check once the dedicated 2027 congress page publishes.)\nDate quality: hard (2027-08-27)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0245\nSource: https://www.escardio.org/events/congresses/esc-congress/
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0246@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270911
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: 2027 World Conference on Lung Cancer\, September 11–14\, 2027. IASLC annual lung cancer meeting. (City not printed on organizer listing\; third-party calendars list Denver.)\nDate quality: hard (2027-09-11)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0246\nSource: https://www.iaslc.org/search-upcoming-conferences-webinars
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0248@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270921
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: 63rd EASD Annual Meeting\, September 21–24\, 2027\, Budapest\, Hungary. European diabetes research congress.\nDate quality: hard (2027-09-21)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0248\nSource: https://www.easd.org/annual-meeting/
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0249@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270928
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: 32nd World Muscle Society (WMS) Congress\, September 28 - October 2\, 2027\, Helsinki\, Finland. Source: WMS official journal (Neuromuscular Disorders) general information page with Future WMS Meeting Dates (organizer-affiliated\, verified 2026-09-18\; direct curl probes get bot-blocked 403). Source upgraded 2026-09-18: WMS official events page directly exposes Sep 28-Oct 2 2027 Helsinki dates.\nDate quality: hard (2027-09-28)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0249\nSource: https://www.worldmusclesociety.org/m/events
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0250@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20271015
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: ASBMR 2027 Annual Meeting\, October 15–18\, 2027\, Metro Toronto Convention Centre\, Toronto\, Ontario\, Canada. World’s largest bone and mineral research meeting.\n[2026-09-23 conference re-source] Re-sourced from bare homepage to deeper dated organizer page\; date confirmed hard. [2026-09-23 source check] asbmr.org future-meetings page returns HTTP 404 (page removed) — event retained (organizer-confirme\nDate quality: hard (2027-10-15)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0250\nSource: https://www.asbmr.org/meetings/future-asbmr-meetings
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0251@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20271207
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: San Antonio Breast Cancer Symposium (50th)\, December 7–10\, 2027\, San Antonio\, Texas. Breast cancer research symposium.\nDate quality: hard (2027-12-07)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0251\nSource: https://sabcs.org/media/future-symposia/
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0252@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270115
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: Inaugural ESMO Genitourinary Cancers Asia 2027\, January 15-17 2027\, Kerry Hotel\, Hong Kong SAR\, China. GU oncology (prostate\, bladder\, kidney\, testicular). Source: esmo.org meeting calendar (organizer-owned\, verified 2026-09-18\; dates corroborated by ESMO-produced announcement video).\nDate quality: hard (2027-01-15)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0252\nSource: https://www.esmo.org/meeting-calendar/esmo-genitourinary-cancers-asia-2027
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0253@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270120
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: Inaugural Complex Coronary Summit\, January 20-22 2027\, Fontainebleau Miami Beach\, Miami Beach\, FL\; merging CTO Plus and Interventional Complications (CRF).\nDate quality: hard (2027-01-20)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0253\nSource: https://cto2025.crfconferences.com/cto-hotel
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0254@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270222
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: THT 2027\, Technology and Heart Failure Therapeutics\, February 22-24 2027\, Omni Boston Hotel at the Seaport\, Boston\, MA (CRF).\nDate quality: hard (2027-02-22)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0254\nSource: https://fellows2024.crfconferences.com/contact-us
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0255@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270503
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: Philadelphia\, PA and online\; premier gene and cell therapy meeting\nDate quality: hard (2027-05-03)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0255\nSource: https://www.asgct.org/events-meetings/2027-annual-meeting
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0256@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20271103
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: National Harbor\, MD\; Nov 3-7\, 2027\nDate quality: hard (2027-11-03)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0256\nSource: https://www.sitcancer.org/education/annualmeeting
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0257@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270316
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: 21st International Conference on Alzheimer's and Parkinson's Diseases and Related Disorders (AD/PD 2027)\, March 16-20 2027\, Barcelona\, Spain and online (hybrid). Source: official AD/PD 2027 site (Kenes)\, press information page (organizer-verified 2026-09-18).\nDate quality: hard (2027-03-16)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0257\nSource: https://adpd.kenes.com/press-information/
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0258@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270612
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: Gothenburg\, Sweden\; overarching theme 'Transforming Neurology: Embracing Every Brain'\nDate quality: hard (2027-06-12)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0258\nSource: https://www.ean.org/congress2027
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0259@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270409
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: Stockholm\, Sweden\; infectious diseases and clinical microbiology congress\; opening ceremony 10.04.2027\nDate quality: hard (2027-04-09)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0259\nSource: https://www.escmid.org/congress-events/escmid-global/about/general-information/
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0260@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270616
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: EASL Congress 2027\, June 16–19 2027\, ExCeL London\, London\, United Kingdom (+ online). Four-day congress\; abstract submission and registration open 28 Sep 2026\; abstract deadline 19 Jan 2027. (Third-party 18–19 Jun adjudicated against organizer.)\n[2026-09-23 correction] The cited EASL welcome-message page (https://www.easlcongress.eu/2027-welcome-message/) now returns dead on probe (page removed/re\nDate quality: hard (2027-06-16)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0260\nSource: https://www.easlcongress.eu/2027-welcome-message/
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0261@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270712
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: Geneva\, Switzerland and virtual\; dates updated 18 Feb 2026 (was 11-15 July)\nDate quality: hard (2027-07-12)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0261\nSource: https://www.iasociety.org/news-release/ias-2027-top-hiv-science-meeting-comes-global-health-hub-geneva
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0262@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20271024
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: CHEST 2027 Annual Meeting\, October 24-27 2027\, Vancouver\, BC\, Canada\; pulmonary\, critical care and sleep medicine. Source: chestnet.org future annual meeting dates (organizer-owned\, verified 2026-09-18\; dates subject to change per CHEST).\nDate quality: hard (2027-10-24)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0262\nSource: https://www.chestnet.org/learning-and-events/events/chest-annual-meeting
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0263@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270502
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: San Diego\, CA\; premier global eye and vision research meeting\nDate quality: hard (2027-05-02)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0263\nSource: https://www.arvo.org/news/terri-young-2026-2027-arvo-president
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0264@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20271112
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: Las Vegas\, NV (Venetian Expo & Hotel)\; Subspecialty Day Nov 12-13\nDate quality: hard (2027-11-12)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0264\nSource: https://www.aao.org/annual-meeting/past-and-future-meetings
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0265@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270319
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: San Francisco\, CA (Moscone Center)\; 85th edition\nDate quality: hard (2027-03-19)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0265\nSource: https://assets.ctfassets.net/1ny4yoiyrqia/6q27HOlexxkUKnBkBzrknt/b7d680e0f4ce0c13c240268d9a02e87b/am27-exhibitor-prospectus.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0266@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270513
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: Heart Rhythm Society annual meeting\; organizer homepage states Heart Rhythm 2027 will be held May 13-16\, 2027 in San Francisco\, CA.\n[2026-09-23 conference re-source] Re-sourced from bare homepage to dated organizer events page\; date confirmed hard.\nDate quality: hard (2027-05-13)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0266\nSource: http://hrsonline.org/events/
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0267@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270924
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: Charlotte\, NC\; heart failure science\, research\, management and late-breaking clinical research\nDate quality: hard (2027-09-24)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0267\nSource: https://hfsa.org/hfsa-annual-scientific-meeting-2027
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0268@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270518
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: Paris\, France (Palais des Congrès)\; world-leading interventional cardiology course\, 50 years of coronary interventions\nDate quality: hard (2027-05-18)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0268\nSource: https://www.pcronline.com/Courses/EuroPCR/about
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0269@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270605
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: Seattle\, WA\; joint annual meeting of AST and ASTS\; scientific sessions begin June 5 Distinct conference from ENDO 2027 (separate event\, separate organizer)\; shares only the start date 2027-06-05 — not a duplicate.\nDate quality: hard (2027-06-05)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0269\nSource: https://www.asts.org/events-meetings/events-landing/2027/06/05/default-calendar/american-transplant-congress-(atc)-2027
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0270@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270219
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: New Orleans\, LA\; leading allergy/immunology annual meeting\nDate quality: hard (2027-02-19)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0270\nSource: https://annualmeeting.aaaai.org/attendee/future-dates-locations
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0271@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270413
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: Minneapolis\, MN (Minneapolis Convention Center)\; medical genetics/genomics meeting\n[2026-09-23 conference re-source] Re-sourced to deeper dated organizer-hosted document\; date confirmed hard.\nDate quality: hard (2027-04-13)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0271\nSource: https://cdn.asp.events/CLIENT_ACMG_A41B0E50_05F7_BDBC_57979A443F6299C5/sites/ACGM-2026/media/libraries/PDF-Documents/2027-ACMG-Industry-Satellite-Symposia-Guidelines-and-Terms.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0272@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270131
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: San Diego\, CA (Manchester Grand Hyatt)\; largest international lysosomal/rare disease research meeting\; 2\,000+ attendees from 50+ countries\nDate quality: hard (2027-01-31)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0272\nSource: https://worldsymposia.org/worldsymposium-attendees/
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0273@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270217
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: Orlando\, FL (Orlando World Center Marriott)\; pre-conference Feb 16\; hematopoietic cell transplantation\, cellular and gene therapy\nDate quality: hard (2027-02-17)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0273\nSource: https://cibmtr.org/CIBMTR/Meetings/Tandem-Meetings
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0274@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270831
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: Dublin\, Ireland (Dublin Convention Centre)\; inherited metabolic disorders\; theme: Complexity - Diversity - Inclusion\nDate quality: hard (2027-08-31)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0274\nSource: https://www.ssiem.org/index.php?option=com_content&view=article&id=110&catid=24
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0275@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270521
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: Los Angeles\, CA\; ob-gyn clinical and scientific meeting\nDate quality: hard (2027-05-21)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0275\nSource: https://www.acog.org/en/education-and-events/meetings/acog-annual-clinical-and-scientific-meeting
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0276@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270430
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: Minneapolis\, MN (98th meeting)\; premier pediatric research meeting (AAP/APA/APS/SPR)\nDate quality: hard (2027-04-30)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0276\nSource: https://www.pas-meeting.org/2027-key-dates/
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0277@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270219
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: San Francisco\, CA (Moscone West Convention Center) Distinct conference from AAAAI 2027 Annual Meeting (American Academy of Allergy\, Asthma & Immunology) (separate event\, separate organizer)\; shares only the start date 2027-02-19 — not a duplicate.\nDate quality: hard (2027-02-19)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0277\nSource: https://www.ors.org/futureannualmeetings/
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0278@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270603
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: 64th ERA Congress (European Renal Association)\, June 3-6 2027\, Rotterdam\, Netherlands (live + virtual). Source: ERA Glasgow 2026 event page (era-online.org)\, Road to Rotterdam 2027 section\, organizer-confirmed 2026-09-18.\nDate quality: hard (2027-06-03)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0278\nSource: https://www.era-online.org/events/glasgow-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0279@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270303
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: AAOS 2027 Annual Meeting\, March 3-6 2027 (Wednesday-Saturday)\, The Venetian Convention & Expo Center\, Las Vegas\, Nevada. Source: AAOS Future Meetings page on aaos.org (organizer-owned\, verified 2026-09-18). [2026-09-23 re-source] AAOS CDN bot-blocks direct curl (RemoteDisconnected)\; organizer content verified via search-index crawl (~14h): 'AAOS 2027 will take place March 3-6\, 2027 (Wednesday to S\nDate quality: hard (2027-03-03)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0279\nSource: https://www.aaos.org/annual/attend/future-meetings/
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0280@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270303
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: Copenhagen\, Denmark\; leading IBD congress Distinct conference from AAOS 2027 Annual Meeting (American Academy of Orthopaedic Surgeons) (separate event\, separate organizer)\; shares only the start date 2027-03-03 — not a duplicate.\nDate quality: hard (2027-03-03)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0280\nSource: https://ecco-ibd.eu/congress-events/event-calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0281@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270331
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: Orlando\, FL\; obesity medicine clinical conference\nDate quality: hard (2027-03-31)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0281\nSource: https://obesitymedicine.org/education/annual-conference/
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0282@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270321
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: MDA Clinical & Scientific Conference 2027\, March 21-24 2027\, Rosen Shingle Creek\, Orlando\, Florida. Source: MDA press release (organizer-owned\, verified 2026-09-18).\nDate quality: hard (2027-03-21)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0282\nSource: https://www.mda.org/press-releases/registration-open-for-2027-mda-clinical-scientific-conference-showcasing-rapid-advances-in
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0283@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270904
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: Maastricht\, Netherlands (MECC)\; pathology/diagnostics relevant to oncology biomarkers\nDate quality: hard (2027-09-04)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0283\nSource: https://www.espcongress.org/future-congresses/
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0284@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270321
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: San Diego\, CA\; HIV/hepatitis/SARS-CoV-2 research\; organizer notes dates preliminary and subject to change Distinct conference from MDA Clinical & Scientific Conference 2027 (Muscular Dystrophy Association) (separate event\, separate organizer)\; shares only the start date 2027-03-21 — not a duplicate.\nDate quality: hard (2027-03-21)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0284\nSource: https://www.croiconference.org/about/croi-2027-preliminary-important-dates-and-deadlines/
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0285@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270121
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: New Orleans\, LA\; IBD research and care Distinct conference from ASCO Gastrointestinal Cancers Symposium (separate event\, separate organizer)\; shares only the start date 2027-01-21 — not a duplicate.\nDate quality: hard (2027-01-21)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0285\nSource: https://gastro.org/news/registration-is-open-for-the-2027-crohns-colitis-congress/
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0286@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270318
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: Estoril\, Portugal (also online)\; ERS basic-science meeting\; flagship ERS International Congress 2027 dates not yet announced\nDate quality: hard (2027-03-18)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0286\nSource: https://www.ersnet.org/news-and-features/congress-category/
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0287@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270611
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: Helsinki\, Finland\; world's largest allergy/clinical immunology congress\; immunotherapy\, biologics\, food allergy\nDate quality: hard (2027-06-11)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0287\nSource: https://www.eaaci.org/eaaci-events/eaaci-congresses/upcoming-congress.html
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0288@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270311
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: EAACI Skin Allergy Meeting (SAM) 2027\, March 11-13 2027\, Paris\, France. Focused meeting on skin allergy (urticaria\, angioedema\, atopic/contact dermatitis\, drug hypersensitivity)\, organized with ESCD and ISAD. Source: dedicated SAM 2027 page on eaaci.org (organizer-owned\, verified 2026-09-18).\nDate quality: hard (2027-03-11)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0288\nSource: https://eaaci.org/events_meetings/sam-2027-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0289@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270401
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: APASL Annual Meeting 2027 (36th)\, April 1-4 2027\, Sydney\, Australia. Source: official APASL 2027 congress site (cited by APASL).\n[2026-09-23 correction] A prior note claimed a re-source to a deeper dated organizer page\, but the source URL was never actually changed and the APASL future-meetings page now returns 404 (removed). Event retained: dates browser-verified 2026-09-18 and re-verified 2026-0\nDate quality: hard (2027-04-01)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0289\nSource: http://apasl.info/conf/future-meetings/
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0290@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270110
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: San Francisco\, CA\; derm industry/business-development forum for innovators and investors\nDate quality: hard (2027-01-10)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0290\nSource: https://advancing-derm.org/platform/conferences/dermatology-summit-2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0291@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270225
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: 28th European Congress on Gynaecological Oncology (ESGO 2027)\, February 25-27 2027\, London\, United Kingdom\, Excel London. Theme: Bridging Science and Care. Source: official ESGO Congress welcome letter (congress.esgo.org)\, organizer-confirmed 2026-09-18.\nDate quality: hard (2027-02-25)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0291\nSource: https://congress.esgo.org/about/welcome-letter/
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0292@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270306
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: Washington\, DC\; interventional cardiology with innovation/medtech sessions\nDate quality: hard (2027-03-06)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0292\nSource: https://crtmeeting.org/attend-crt/about-crt/
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0293@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20271114
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: McCormick Place\, Chicago\; world's largest radiology/imaging meeting\; imaging diagnostics and AI\nDate quality: hard (2027-11-14)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0293\nSource: https://www.rsna.org/-/media/files/rsna/annual-meeting/preparing-to-attend/travel/int901-international-visa-letter-updates-for-2027_interactive.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0294@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270309
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: Miami\, FL\; Jefferies flagship biotech investor conference (presentations & meetings)\nDate quality: hard (2027-03-09)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0294\nSource: https://jefferies.com/wp-content/uploads/sites/4/2026/08/8_21_26_Jefferies_2026_Conference_Summit_Calendar.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0295@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270501
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: Washington\, DC (and online)\; AAN 79th Annual Meeting\nDate quality: hard (2027-05-01)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0295\nSource: https://www.aan.com/events/upcoming-events
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0296@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270520
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: Stockholm\, Sweden (Waterfront Congress Centre)\; psoriasis-focused\nDate quality: hard (2027-05-20)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0296\nSource: https://www.ifpa-pso.com/ifpa-conference-2027
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0297@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20271206
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: Dublin\, Ireland\; host: Irish MND Association\nDate quality: hard (2027-12-06)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0297\nSource: https://symposium.mndassociation.org/about-the-event/future-dates/
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0298@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270409
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: San Diego\, CA\; American Association of Neurological Surgeons\; theme 'Navigating the Impossible' Distinct conference from ESCMID Global 2027 (37th Congress of ESCMID) (separate event\, separate organizer)\; shares only the start date 2027-04-09 — not a duplicate.\nDate quality: hard (2027-04-09)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0298\nSource: https://www.aans.org/annual-meeting/meeting-dates/
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0299@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270312
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: Eighth Annual Global Summit on Immunotherapies for Hematologic Malignancies\, March 12-13 2027 (Fri-Sat)\, JW Marriott Brickell\, Miami\, FL\; Miami Cancer Institute / Baptist Health South Florida CME event (leukemia\, lymphoma\, multiple myeloma\, CAR-T\, transplant). Source: 2027 Summit exhibitor prospectus PDF on cmeonline.baptisthealth.net (organizer-issued\, verified 2026-09-18).\nDate quality: hard (2027-03-12)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0299\nSource: https://cmeonline.baptisthealth.net/sites/default/files/2027%20Immunotherapy%20Summit%20Prospectus.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0301@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270224
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: Toronto\, ON\, Canada (Sheraton Centre Toronto Hotel)\; interventional oncology\nDate quality: hard (2027-02-24)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0301\nSource: https://www.sio-central.org/Events
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0302@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270115
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: Transplant AI Symposium 2027\, January 15-16 2027\, Arizona Biltmore\, Scottsdale\, AZ. Mayo Clinic CME course (in-person and livestream). Source: ce.mayo.edu course page (search-engine-verified 2026-09-18\; direct curl probes get bot-blocked 403). Distinct conference from ESMO Genitourinary Cancers Asia 2027 (separate event\, separate organizer)\; shares only the start date 2027-01-15 — not a duplicate.\nDate quality: hard (2027-01-15)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0302\nSource: https://ce.mayo.edu/transplant-medicine/content/transplant-ai-symposium-2027
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0303@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270926
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: Prague\, Czech Republic\; International Transplant Congress\, theme 'Mens et Machina'\nDate quality: hard (2027-09-26)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0303\nSource: https://esot.org/esot-events/esot-congress-2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0304@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270301
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: Birmingham\, UK (Birmingham Conference & Events Centre)\; microbiome science and therapeutics\nDate quality: hard (2027-03-01)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0304\nSource: https://www.bsg.org.uk/events/bsg-gut-microbiota-for-health-conference-2027
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0305@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270214
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: 6th ESH Scientific Workshop on Haematological Tumour Microenvironment (#ESHMICRO2027)\, starting Feb 14 2027\, London\, UK. Source: ESH-issued save-the-date campaign archive (Mailchimp\, sent from esh.org).\nDate quality: hard (2027-02-14)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0305\nSource: https://mailchi.mp/esh.org/cmlmpn2027_savethedate-5900234
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0306@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270828
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: Amsterdam\, Netherlands (RAI Amsterdam)\; ILAE/IBE Source upgraded 2026-09-18 to ILAE official congress page directly exposing dates and venue (Amsterdam\, Aug 28-Sep 1 2027).\nDate quality: hard (2027-08-28)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0306\nSource: https://www.ilae.org/congresses/37th-international-epilepsy-congress/section/sectionid/3
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0307@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270128
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: Tunis\, Tunisia (Radisson Blu Hotel & Convention Center)\; CRF regional structural/interventional cardiology meeting\nDate quality: hard (2027-01-28)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0307\nSource: https://assets.crfconnect.com/meetings/tctafrica2027/resources/TCT_AFRICA_2027_Industry_Brochure.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0308@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270317
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: TCT Plus LATAM Valves 2027 (Structural Heart Summit)\, March 17-19 2027\, WTC Events Center\, Sao Paulo\, Brazil (CRF).\nDate quality: hard (2027-03-17)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0308\nSource: https://fellows2024.crfconferences.com/contact-us
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0309@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270402
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: San Diego\, CA\; anterior segment/cataract-refractive surgery\; ASOA meeting co-located Distinct conference from AACR Annual Meeting 2027 (separate event\, separate organizer)\; shares only the start date 2027-04-02 — not a duplicate.\nDate quality: hard (2027-04-02)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0309\nSource: https://annualmeeting.ascrs.org/for-speakers/important-dates
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0310@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270515
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: Washington\, DC (and online)\; AGA/ASGE/AASLD/SSAT\; exhibit hall May 16-18\nDate quality: hard (2027-05-15)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0310\nSource: https://news.ddw.org/news/save-the-date-for-ddw-2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0311@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270522
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: ASCRS Annual Scientific Meeting\, May 22-25 2027\, New Orleans\, LA (Ernest N. Morial Convention Center\; HQ hotel Hilton New Orleans Riverside)\; tripartite meeting. Source: ASCRS Future Annual Meetings page (organizer-owned\, verified 2026-09-18).\nDate quality: hard (2027-05-22)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0311\nSource: https://fascrs.org/Web/Web/My-ASCRS/Meetings-Events/Future-Annual-Meetings.aspx
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0312@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270609
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: Berlin\, Germany (Messe Berlin)\; 80th anniversary congress of rheumatology\nDate quality: hard (2027-06-09)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0312\nSource: http://congress.eular.org/about
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0313@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270626
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: Vancouver\, Canada (Vancouver Convention Centre)\; thrombosis\, hemostasis and vascular biology\nDate quality: hard (2027-06-26)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0313\nSource: https://www.isth.org/page/ISTHCongresses
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0314@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270622
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: Chicago\, IL\; 3-meeting structure: Applied & Environmental Microbiology\, Health\, Mechanism Discovery\nDate quality: hard (2027-06-22)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0314\nSource: http://asm.org/events/asm-microbe/home
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0315@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270514
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: San Diego\, CA (Marriott Marquis San Diego Marina)\; abstracts due Dec 1\, 2026\nDate quality: hard (2027-05-14)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0315\nSource: https://pro.aace.com/education-and-event/product/aace-annual-meeting-2027
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0316@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270618
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: ADA Scientific Sessions 2027\, June 18-21 2027 (Friday June 18 10:30 a.m. ET start\, Monday June 21 4:15 p.m. ET close)\, Walter E. Washington Convention Center\, Washington DC. Source: ADA official Scientific Sessions FAQ page (organizer-owned\, verified 2026-09-18).\nDate quality: hard (2027-06-18)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0316\nSource: https://professional.diabetes.org/scientific-sessions/frequently-asked-questions
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0317@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270514
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: New Orleans\, LA\; May 14-15 pre-conference\, May 16-19 main conference Distinct conference from AACE Annual Meeting 2027 (American Association of Clinical Endocrinology) (separate event\, separate organizer)\; shares only the start date 2027-05-14 — not a duplicate.\nDate quality: hard (2027-05-14)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0317\nSource: http://site.thoracic.org/conference/attendees/future-conferences
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0318@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20271111
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: ACAAI 2027 Annual Scientific Meeting\, November 11-15 2027\, Nashville\, Tennessee. Source: ACAAI annual-meeting future-dates page (browser-verified 2026-09-18\; curl probe failed to connect). [2026-09-23 source check] Source unreachable from this network (TLS handshake timeout on both passes — not confirmed dead)\; organizer content seen live in search-index crawls within the last 14 days. Flagged for\nDate quality: hard (2027-11-11)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0318\nSource: https://annualmeeting.acaai.org/future_meeting_dates.cfm
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0319@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270222
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: Paris\, France (Palais des Congres)\; early-phase drug development congress Distinct conference from THT 2027 (Technology and Heart Failure Therapeutics) (separate event\, separate organizer)\; shares only the start date 2027-02-22 — not a duplicate.\nDate quality: hard (2027-02-22)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0319\nSource: https://dam.esmo.org/image/upload/v1785409882/ESMO-TAT-2027-Industry-Guidelines_wbmntv.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0320@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270317
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: European Lung Cancer Congress 2027\, March 17-20 2027\, Munich\, Germany (Messe München) and online\; ESMO/IASLC joint thoracic oncology congress. Source: ELCC 2027 Industry Guidelines PDF on dam.esmo.org (organizer-issued\, verified 2026-09-18). Distinct conference from TCT Plus LATAM Valves 2027 — Structural Heart Summit (CRF) (separate event\, separate organizer)\; shares only the start date 2027-03-1\nDate quality: hard (2027-03-17)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0320\nSource: https://dam.esmo.org/image/upload/v1784884466/ELCC-2027-Industry-Guidelines_o6kgid.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0321@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270624
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: Rotterdam\, Netherlands\; in-person only\; supportive care in cancer\nDate quality: hard (2027-06-24)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0321\nSource: https://mascc.org/annualmeeting2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0322@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270503
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: Orlando\, FL\; medical publications professionals Distinct conference from ASGCT 30th Annual Meeting 2027 (separate event\, separate organizer)\; shares only the start date 2027-05-03 — not a duplicate.\nDate quality: hard (2027-05-03)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0322\nSource: http://www.ismpp.org/annual-meeting
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0323@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270523
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: Denver\, CO (Colorado Convention Center)\, May 23-26 2027\; health economics and outcomes research. Source updated 2026-09-18: ISPOR official calendar on ispor.org directly exposes 23-26 May 2027 Denver dates (registration page lacks dates).\nDate quality: hard (2027-05-23)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0323\nSource: https://www.ispor.org/conferences-education/calendar/event
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0324@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270430
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: IMMUNOLOGY2027 (AAI 110th Annual Meeting)\, April 30-May 4 2027\, Los Angeles\, California. Source: AAI future-meetings page (browser-verified 2026-09-18\; curl probe got bot-blocked 403). Distinct conference from PAS 2027 (Pediatric Academic Societies Meeting) (separate event\, separate organizer)\; shares only the start date 2027-04-30 — not a duplicate.\nDate quality: hard (2027-04-30)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0324\nSource: http://www.aai.org/Meetings/Future_Meeting.html
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0325@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270128
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: STS 63rd Annual Meeting\, January 28-31 2027\, San Diego\, CA. Source: STS event page (browser-verified 2026-09-18\; curl probe failed to connect). Distinct conference from TCT Plus Africa 2027 (CRF) (separate event\, separate organizer)\; shares only the start date 2027-01-28 — not a duplicate.\nDate quality: hard (2027-01-28)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0325\nSource: https://www.sts.org/calendar-of-events/63rd-sts-annual-meeting
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0326@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270121
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: Steamboat Springs\, CO\; per 2027 exhibitor prospectus Distinct conference from ASCO Gastrointestinal Cancers Symposium (separate event\, separate organizer)\; shares only the start date 2027-01-21 — not a duplicate.\nDate quality: hard (2027-01-21)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0326\nSource: https://vesurgery.org/wp-content/uploads/2026/06/vess-2027-exhibitor-prospectus.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0327@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270501
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: AATS 107th Annual Meeting\, May 1-4 2027\, Los Angeles Convention Center\, Los Angeles\, CA. Source: AATS future-annual-meetings page (previously cited a vendor prospectus). Distinct conference from AAN Annual Meeting 2027 (79th\, American Academy of Neurology) (separate event\, separate organizer)\; shares only the start date 2027-05-01 — not a duplicate.\nDate quality: hard (2027-05-01)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0327\nSource: https://www.aats.org/future-annual-meetings
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0328@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270601
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: New Orleans\, LA (The Roosevelt New Orleans)\; endovascular medicine\; organized by Cardiovascular Institute of the South\nDate quality: hard (2027-06-01)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0328\nSource: https://www.cardio.com/news/ncvh-continues-to-draw-a-crowd-as-1400-attend-the-27th-annual-conference-at-the-roosevelt/
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0329@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270122
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: GEST MSK 2027 (5th edition)\, January 22-23 2027\; Paris\, France (Marriott Rive Gauche\, 75014 Paris). MSK embolization specialty meeting (knee OA GAE\, adhesive capsulitis\, plantar fasciitis\, tendinopathies). Dates: organizer 'save the date' announcement (Global Embolization Symposium & Technologies official LinkedIn channel\, posted ~Sep 2026). Organizer-owned source: https://www.linkedin.com/company\nDate quality: hard (2027-01-22)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0329\nSource: https://thegestgroup.com/annual-msk-meeting/
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0330@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270614
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: Bilbao\, Spain (Bilbao Exhibition Centre)\; basic\, preclinical and translational cancer research\nDate quality: hard (2027-06-14)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0330\nSource: https://eacr.org/congress
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0331@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270411
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: Rotterdam Ahoy\, Rotterdam\, Netherlands\; blood/marrow transplantation and cellular therapy\nDate quality: hard (2027-04-11)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0331\nSource: https://www.ebmt.org/events/53rd-annual-meeting-ebmt
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0332@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270316
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: Basel\, Switzerland\; regulatory science / life sciences innovation Distinct conference from AD/PD 2027 (separate event\, separate organizer)\; shares only the start date 2027-03-16 — not a duplicate.\nDate quality: hard (2027-03-16)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0332\nSource: https://www.diaglobal.org/en/flagship/dia-europe-2027
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0333@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270628
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: San Diego\, CA\; per DIA global events calendar\nDate quality: hard (2027-06-28)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0333\nSource: https://www.diaglobal.org/en/general/global-events
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0334@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270501
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: DIA China Annual Meeting 2027\, starting May 1\, 2027. End date and host city not published on the DIA events calendar as of September 2026\; China’s regulatory-industry annual meeting. (Stayed hard: start day is organizer-printed.) Distinct conference from AAN Annual Meeting 2027 (79th\, American Academy of Neurology) (separate event\, separate organizer)\; shares only the start date 2027-05-01 — not a\nDate quality: hard (2027-05-01)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0334\nSource: https://www.diaglobal.org/en/general/global-events
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0335@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270303
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: Vienna\, Austria (Austria Center Vienna)\; onsite & online Distinct conference from AAOS 2027 Annual Meeting (American Academy of Orthopaedic Surgeons) (separate event\, separate organizer)\; shares only the start date 2027-03-03 — not a duplicate.\nDate quality: hard (2027-03-03)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0335\nSource: https://www.myesr.org/congress/about-ecr/
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0336@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270301
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: Rosen Shingle Creek\, Orlando\, FL\; clinical research operations\; Cambridge Healthtech Institute Distinct conference from BSG Gut Microbiota for Health Conference 2027 (British Society of Gastroenterology) (separate event\, separate organizer)\; shares only the start date 2027-03-01 — not a duplicate.\nDate quality: hard (2027-03-01)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0336\nSource: https://www.scopesummit.com/Clinical-Trial-Delivery
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0337@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270317
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: Vienna\, Austria\; primary therapy of early breast cancer\; consensus manuscript Distinct conference from TCT Plus LATAM Valves 2027 — Structural Heart Summit (CRF) (separate event\, separate organizer)\; shares only the start date 2027-03-17 — not a duplicate.\n[2026-09-23 conference re-source] URL unchanged: homepage is the dedicated 2027 event site and prints the dates\; date confirmed hard.\n[2026-09-\nDate quality: hard (2027-03-17)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0337\nSource: https://www.sg-bcc.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0338@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270228
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: Omni La Costa Resort & Spa\, Carlsbad\, CA Distinct conference from AACR Immuno-Oncology 2027 (separate event\, separate organizer)\; shares only the start date 2027-02-28 — not a duplicate.\nDate quality: hard (2027-02-28)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0338\nSource: https://abdominalradiology.org/sar-subpages/annual-meeting/
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0339@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270320
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: SIR 2027 Annual Scientific Meeting (52nd)\, March 20–24\, 2027\, Los Angeles\, California. Interventional radiology premier gathering.\nDate quality: hard (2027-03-20)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0339\nSource: https://www.sirmeeting.org/aaStatic.asp?SFP=R0RTWkdHRkRAMjI0OTJATWVldGluZyBpbmZvcm1hdGlvbiAtIERhdGVzIHRvIGtub3c
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0340@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270819
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: Singapore (joint with SGCR-WIRES 2027)\; "Inspiring Excellence in Radiology"\nDate quality: hard (2027-08-19)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0340\nSource: http://abdominalradiology-asia.org/annual-meeting/acar2027-in-singapore/
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0341@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270413
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: Salt Lake City\, UT\; radiology training and practice in the AI era Distinct conference from ACMG 2027 Annual Clinical Genetics Meeting (American College of Medical Genetics and Genomics) (separate event\, separate organizer)\; shares only the start date 2027-04-13 — not a duplicate.\nDate quality: hard (2027-04-13)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0341\nSource: https://www.apdr.org/annual-meeting
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0342@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270218
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: ACRO 2027: The Radiation Oncology Summit\, February 18-21 2027\; Las Vegas\, Nevada. American College of Radiation Oncology annual meeting. Source: ACRO official annual-meeting page (organizer-owned\, verified 2026-09-18). [2026-09-23 source check] Source unreachable from this network (connection reset on both passes — not confirmed dead)\; organizer content seen live in search-index crawls within the \nDate quality: hard (2027-02-18)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0342\nSource: https://acro.org/page/annualmeeting
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0343@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270115
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: 50th ASN Annual Meeting\, January 15-17 2027\; Hilton Head Island\, SC. American Society of Neuroimaging annual meeting (neuroimaging education and certification). Source: ASN official homepage (organizer-owned\, verified 2026-09-18). Distinct conference from ESMO Genitourinary Cancers Asia 2027 (separate event\, separate organizer)\; shares only the start date 2027-01-15 — not a duplicate.\n[2026-09-23 \nDate quality: hard (2027-01-15)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0343\nSource: http://www.asnweb.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0344@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270304
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: Hyatt Regency Seattle\, Seattle\, WA\; clinical neurophysiology (EEG\, epilepsy\, neuromuscular) Source upgraded 2026-09-18: ACNS 2027 call-for-proposals PDF (organizer) states March 4-7 2027\, Seattle WA.\nDate quality: hard (2027-03-04)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0344\nSource: https://www.acns.org/UserFiles/AM27CallForProposal.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0345@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270318
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: Charleston\, SC\; TTS official section meeting Distinct conference from ERS Lung Science Conference 2027 (European Respiratory Society) (separate event\, separate organizer)\; shares only the start date 2027-03-18 — not a duplicate.\nDate quality: hard (2027-03-18)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0345\nSource: https://tts.org/events/tts-meetings-and-events-calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0346@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270506
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: Chicago\, IL\; TTS official section meeting\nDate quality: hard (2027-05-06)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0346\nSource: https://tts.org/events/tts-meetings-and-events-calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0347@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270508
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: Taipei\, Taiwan\; TTS official section meeting\nDate quality: hard (2027-05-08)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0347\nSource: https://tts.org/events/tts-meetings-and-events-calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0348@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270511
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: Tokyo\, Japan\; TTS official section meeting\nDate quality: hard (2027-05-11)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0348\nSource: https://tts.org/events/tts-meetings-and-events-calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0349@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270707
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: Montreal\, Canada\; TTS official section meeting\nDate quality: hard (2027-07-07)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0349\nSource: https://tts.org/events/tts-meetings-and-events-calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0350@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20271020
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: London\, UK\; TTS official section meeting\nDate quality: hard (2027-10-20)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0350\nSource: https://tts.org/events/tts-meetings-and-events-calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0351@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270401
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: Kuala Lumpur\, Malaysia\; hosted by Malaysian Society of Nephrology (MSN)\; flagship ISN meeting Distinct conference from APASL Annual Meeting 2027 (Asian Pacific Association for the Study of the Liver) (separate event\, separate organizer)\; shares only the start date 2027-04-01 — not a duplicate.\nDate quality: hard (2027-04-01)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0351\nSource: https://www.theisn.org/wcn/
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0352@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270528
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: APASL STC 2027 Bishkek\, May 28-29 2027. Source: APASL future-meetings page (browser-verified 2026-09-18\; curl probes are blocked with 404). [2026-09-23 source check] Cited URL http://apasl.info/conf/future-meetings/ returns HTTP 404 on both probe passes (page removed) — event retained per policy (events are never removed over URL problems alone\; dates browser-verified 2026-09-18\, v16-0289 re-verif\nDate quality: hard (2027-05-28)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0352\nSource: http://apasl.info/conf/future-meetings/
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0353@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270625
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: APASL STC 2027 Kaohsiung\, June 25-27 2027. Source: APASL future-meetings page (browser-verified 2026-09-18\; curl probes are blocked with 404). [2026-09-23 source check] Cited URL http://apasl.info/conf/future-meetings/ returns HTTP 404 on both probe passes (page removed) — event retained per policy (events are never removed over URL problems alone\; dates browser-verified 2026-09-18\, v16-0289 re-ve\nDate quality: hard (2027-06-25)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0353\nSource: http://apasl.info/conf/future-meetings/
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0354@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270723
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: APASL STC 2027 Danang\, July 23-24 2027. Source: APASL future-meetings page (browser-verified 2026-09-18\; curl probes are blocked with 404). [2026-09-23 source check] Cited URL http://apasl.info/conf/future-meetings/ returns HTTP 404 on both probe passes (page removed) — event retained per policy (events are never removed over URL problems alone\; dates browser-verified 2026-09-18\, v16-0289 re-verif\nDate quality: hard (2027-07-23)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0354\nSource: http://apasl.info/conf/future-meetings/
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0355@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20271008
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: APASL STC 2027 Chongqing\, October 8-10 2027. Source: APASL future-meetings page (browser-verified 2026-09-18\; curl probes are blocked with 404). [2026-09-23 source check] Cited URL http://apasl.info/conf/future-meetings/ returns HTTP 404 on both probe passes (page removed) — event retained per policy (events are never removed over URL problems alone\; dates browser-verified 2026-09-18\, v16-0289 re-\nDate quality: hard (2027-10-08)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0355\nSource: http://apasl.info/conf/future-meetings/
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0356@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270907
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: Sydney\, Australia\; pediatric and adolescent oncology (note: ISPN calendar lists Sept 8–11\; SIOP itself says Sept 7–10)\nDate quality: hard (2027-09-07)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0356\nSource: https://siop-online.org/news/siop-2027-sydney-proposals/
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0357@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270925
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: EANS 2027 Congress\, September 25-30 2027\, Basel\, Switzerland. Source: eans.org EANS_Congress page + EANS Save-the-dates news post (organizer-verified 2026-09-18\; direct curl probes get bot-blocked 403).\nDate quality: hard (2027-09-25)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0357\nSource: https://www.eans.org/page/EANS_Congress
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0358@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20271023
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: Congress of Neurological Surgeons 2027 Annual Meeting\, October 23–27\, 2027\, Phoenix\, Arizona. Neurosurgery annual meeting.\nDate quality: hard (2027-10-23)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0358\nSource: http://cns.org/meetings/past-and-future-annual-meetings
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0359@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20271031
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: 53rd ISPN Annual Meeting\, October 31–November 4\, 2027\, Taipei\, Taiwan. International pediatric neurosurgery annual meeting.\nDate quality: hard (2027-10-31)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0359\nSource: https://ispnmeeting.org/wp-content/uploads/2026/06/ISPN-Global-Neurosurgical-Calendar-2026-2029-Jun-3-2026.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0360@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270131
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: 50th ASPN Annual Meeting (American Society of Pediatric Neurosurgeons)\, January 31 - February 5\, 2027\, The Ritz-Carlton\, Grand Cayman. Source: ASPN official website 'Save the Date' announcement (aspn.memberclicks.net\, society-owned)\; corroborated by ISPN Global Neurosurgical Calendar (updated Jun 3 2026\, https://ispnmeeting.org/wp-content/uploads/2026/06/ISPN-Global-Neurosurgical-Calendar-2026-202\nDate quality: hard (2027-01-31)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0360\nSource: https://aspn.memberclicks.net/login
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0361@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270409
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: Seattle\, WA (Seattle Convention Center)\, in conjunction with COSM Distinct conference from ESCMID Global 2027 (37th Congress of ESCMID) (separate event\, separate organizer)\; shares only the start date 2027-04-09 — not a duplicate.\nDate quality: hard (2027-04-09)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0361\nSource: https://WWW.ASPO.US/annual-meeting-members
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0362@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270415
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: ASPNeph 2027 Annual Meeting (American Society of Pediatric Nephrology)\, April 15-17\, 2027\, InterContinental New Orleans\, 444 St. Charles Ave\, New Orleans\, LA. Inaugural standalone meeting. Source: ASPN 2027 prospectus (organizer PDF\, search-engine-verified 2026-09-18\; direct curl probes get bot-blocked 403).\nDate quality: hard (2027-04-15)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0362\nSource: http://aspneph.org/wp-content/uploads/2026/04/2027-Prespectus-V4.27.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0363@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270511
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: 2027 ASPHO annual conference\, May 11-14\, Palais des congres de Montreal\, Montreal\, Canada\; dates from ASPHO-owned corporate prospectus PDF. Distinct conference from CIIRTA 2027 (20th Congress\, Intl Intestinal Rehabilitation & Transplantation Association) (separate event\, separate organizer)\; shares only the start date 2027-05-11 — not a duplicate.\nDate quality: hard (2027-05-11)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0363\nSource: http://aspho.org/uploads/ASPHO25_Corporate_Prospectus_web_2.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0364@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270319
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: 42nd Annual EAU Congress (EAU27)\, March 19–22\, 2027\, RAI Amsterdam\, Amsterdam\, The Netherlands. European urology flagship congress. Distinct conference from AAD 2027 Annual Meeting (American Academy of Dermatology) (separate event\, separate organizer)\; shares only the start date 2027-03-19 — not a duplicate.\nDate quality: hard (2027-03-19)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0364\nSource: https://eaucongress.uroweb.org/the-congress/general-information
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0365@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270625
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: Canadian Urological Association annual meeting\, June 25-27 2027\, Halifax Convention Centre\, Halifax\, NS\, Canada. Distinct conference from APASL STC 2027 Kaohsiung (Single Topic Conference: MASLD/MAFLD) (separate event\, separate organizer)\; shares only the start date 2027-06-25 — not a duplicate.\nDate quality: hard (2027-06-25)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0365\nSource: https://www.cua.org/upcoming-events
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0366@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270110
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: 65th Annual Meeting of the American College of Neuropsychopharmacology\, January 10-13 2027\, San Diego\, California. Distinct conference from Dermatology Summit 2027 (Advancing Innovation in Dermatology) (separate event\, separate organizer)\; shares only the start date 2027-01-10 — not a duplicate.\nDate quality: hard (2027-01-10)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0366\nSource: https://files.constantcontact.com/61d9ccf2601/cdbd0b72-0001-4aef-9ea3-ad7d8b8bfbd3.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0367@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270623
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: New York Valves 2027 structural heart summit\, June 23-25 2027 (CRF\, in partnership with AATS). Source: CRF organizer site.\nDate quality: hard (2027-06-23)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0367\nSource: http://crf.org/crf/news-and-events/events-calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0368@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270409
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: IDF Congress 2027\, April 9-12 2027\, Singapore. Note: one third-party supplier page reports April 10-12\; IDF-owned pages report April 9-12. Distinct conference from ESCMID Global 2027 (37th Congress of ESCMID) (separate event\, separate organizer)\; shares only the start date 2027-04-09 — not a duplicate.\nDate quality: hard (2027-04-09)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0368\nSource: https://idf.org/congress-and-events/upcoming-diabetes-events/international-diabetes-federation-world-diabetes-congress-2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0369@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20271026
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: ASHG Annual Meeting 2027\, October 26-30 2027\, Nashville\, TN.\nDate quality: hard (2027-10-26)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0369\nSource: https://www.ashg.org/meetings/future-past/
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0370@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20271015
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: AAP National Conference & Exhibition 2027\, October 15-19 2027\, McCormick Place\, Chicago. Distinct conference from ASBMR 2027 Annual Meeting (separate event\, separate organizer)\; shares only the start date 2027-10-15 — not a duplicate.\nDate quality: hard (2027-10-15)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0370\nSource: https://archive.aapexperience.org/future-dates/
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0371@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270128
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: ASTS Winter Symposium 2027\, January 28-31 2027\, JW Marriott Orlando Grande Lakes\, Orlando\, FL. Distinct conference from TCT Plus Africa 2027 (CRF) (separate event\, separate organizer)\; shares only the start date 2027-01-28 — not a duplicate.\nDate quality: hard (2027-01-28)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0371\nSource: http://asts.org/events-meetings/winter-symposium
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0372@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20271111
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: 74th STSA Annual Meeting\, November 11-14 2027\, Hyatt Regency Lost Pines Resort & Spa\, Cedar Creek\, TX. Distinct conference from ACAAI 2027 Annual Scientific Meeting (separate event\, separate organizer)\; shares only the start date 2027-11-11 — not a duplicate.\nDate quality: hard (2027-11-11)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0372\nSource: https://stsa.org/meeting/archives/
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0373@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270414
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: ISHLT 47th Annual Meeting & Scientific Sessions\, April 14-17 2027\, International Convention Centre Sydney\, Sydney\, Australia (preconference day April 13).\nDate quality: hard (2027-04-14)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0373\nSource: https://www.ishlt.org/annual-meeting/other-annual-meetings/future-dates
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0374@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270127
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: PVRI 2027 Annual Congress\, January 27-31 2027\, Amari Bangkok Hotel & Conference Centre\, Bangkok\, Thailand. Theme: Bridging Science\, Innovation & Care for the Next 20 Years.\n[2026-09-23 conference re-source] Re-sourced from bare homepage to dated organizer event page\; date confirmed hard.\nDate quality: hard (2027-01-27)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0374\nSource: http://pvrinstitute.org/learning-hub/events/pvri-2027-bangkok
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0375@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270218
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: 2027 Spine Summit\, annual meeting of the AANS/CNS Section on Disorders of the Spine and Peripheral Nerves\, February 18-21 2027\, Disney's Yacht & Beach Club Resort\, Orlando/Lake Buena Vista\, Florida. Source: 2027 Spine Summit Exhibitor Prospectus on dspnspinesummit.org (organizer-owned\, verified 2026-09-18). Distinct conference from ACRO 2027: The Radiation Oncology Summit (American College of Radi\nDate quality: hard (2027-02-18)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0375\nSource: https://dspnspinesummit.org/wp-content/uploads/2026/06/AAN-SpineEP27-Compressed-6-17.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0376@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270918
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: AAO-HNSF 2027 Annual Meeting & OTO EXPO\, September 18-21 2027\, New Orleans\, Louisiana. Source: AAO-HNSF official site (entnet.org annual meeting webcasts page\, organizer-confirmed 2026-09-18).\nDate quality: hard (2027-09-18)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0376\nSource: https://www.entnet.org/education/annual-meeting-webcasts/
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0377@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270624
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Indication: oncology\nNote: ASCO Breakthrough (ASCO's global oncology meeting in Asia\; 2026 edition in Singapore June 25-27\, 2026)\, June 24-26 2027\, Singapore. Source: ASCO Breakthrough 'Dates to Know' page\, Future Meetings section (organizer-owned\, verified 2026-09-18).\nDate quality: hard (2027-06-24)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0377\nSource: https://www.asco.org/breakthrough/dates-know?intcmp=nw_ascoorg_brktsum_pre-cfa_site_breakthroughlandingpage_all__glob_091825_110325_qklnk__aware_text_
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0378@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270607
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Indication: biotech industry\nNote: BIO International Convention 2027\, June 7-10 2027\, Philadelphia\, PA (Pennsylvania Convention Center)\; world's largest biotech industry/partnering convention (~20\,000 attendees). Source: BIO official convention site (convention.bio.org) and bio.org events page save-the-date banner (organizer-owned\, verified 2026-09-18). Source URL corrected 2026-09-18 to the exact observed organizer listing page.\nDate quality: hard (2027-06-07)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0378\nSource: https://www.bio.org/events/bio-international-convention/?c1=12&page=2
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0379@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270111
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Indication: biotech industry\nNote: BIO Partnering @ JPM Week\, January 11-14 2027\, San Francisco\, CA\; BIO's official partnering event during the J.P. Morgan Healthcare Conference week. Source: BIO official upcoming-events listing (organizer-owned\, verified 2026-09-18). Note: this does not itself confirm the JPM conference's own dates.\nDate quality: hard (2027-01-11)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0379\nSource: https://www.bio.org/sites/default/files/2026-07/bio26_brochure_070826-digital-pages.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0380@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270216
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Indication: biotech industry\nNote: BIO Investment & Growth Summit\, February 16-17 2027\, Miami\, FL\; BIO investor/partnering summit. Source: BIO official upcoming-events listing (organizer-owned\, verified 2026-09-18).\nDate quality: hard (2027-02-16)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0380\nSource: https://www.bio.org/sites/default/files/2026-07/bio26_brochure_070826-digital-pages.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0381@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20271022
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Indication: brain tumors / neuro-oncology\nNote: Joint Tumor Section Symposium\, October 22-23 2027\; Congress of Neurological Surgeons (CNS) Tumor Section specialty symposium (in-person CME\, brain tumor surgery). Source: CNS official meetings page (organizer-owned\, verified 2026-09-18).\nDate quality: hard (2027-10-22)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0381\nSource: https://www.cns.org/meetings-detail/joint-tumor-section-symposium
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0382@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270301
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Indication: cardiovascular / cardiometabolic / epidemiology\nNote: AHA Epidemiology & Prevention / Lifestyle and Cardiometabolic Health Scientific Sessions 2027\; March 1-4 2027 (sessions begin Mon Mar 1\, end Thu Mar 4). Location Boston\, MA per third-party reporting (not on organizer page). Source: AHA professional.heart.org organizer page (Key Dates table\, verified 2026-09-18).\nDate quality: hard (2027-03-01)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0382\nSource: https://professional.heart.org/en/meetings/epi-lifestyle?utm_source=meta&utm_medium=paid-social&utm_campaign=epi_2025&utm_content=image&utm_id=120213511874330713_v2_s03&utm_term=120214822762350713
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0383@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270602
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Indication: vascular surgery / peripheral vascular disease\nNote: Society for Vascular Surgery (SVS) Vascular Annual Meeting 2027 (VAM27)\, June 2-5 2027\, San Diego Convention Center\, San Diego\, CA. Scientific plenaries Jun 2-5\; exhibit dates Jun 3-4. Source: SVS official 2027 meeting page (organizer-owned\, verified 2026-09-18).\nDate quality: hard (2027-06-02)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0383\nSource: https://vascular.org/vascular-specialists/education-and-meetings/meetings/2027-vascular-annual-meeting
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0384@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20271027
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Indication: neuromuscular / electrodiagnostic medicine\nNote: American Association of Neuromuscular & Electrodiagnostic Medicine (AANEM) Annual Meeting 2027\, October 27-30 2027\, San Antonio\, Texas. Source: AANEM official Future Meetings page (organizer-owned\, verified 2026-09-18).\nDate quality: hard (2027-10-27)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0384\nSource: https://www.aanem.org/meetings/future-annual-meetings
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0386@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270121
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Indication: pediatric neuroradiology / neuroimaging\nNote: 9th ASPNR Annual Meeting\, January 21-24 2027\, Fontainebleau Miami Beach\, Miami Beach FL (pre-meeting workshops Jan 21). Source: ASPNR official meeting page (organizer-owned\, verified 2026-09-18).\nDate quality: hard (2027-01-21)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0386\nSource: https://aspnr.org/meetings/aspnr-annual-meeting/aspnr2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0387@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270126
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Indication: hand surgery / peripheral nerve / reconstructive microsurgery\nNote: Joint 2027 annual meetings of AAHS (American Association for Hand Surgery)\, ASPN (American Society for Peripheral Nerve) and ASRM (American Society for Reconstructive Microsurgery)\, January 26-30 2027\, JW Marriott Miami Turnberry\, Aventura FL. Source: AAHS official industry prospectus (organizer-owned PDF\, verified 2026-09-18). [2026-09-23 source check] Source unreachable from this network (TLS ha\nDate quality: hard (2027-01-26)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0387\nSource: https://handsurgery.org/multimedia/files/?f=mgjGrfXLym
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0388@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270314
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Indication: critical care / intensive care\nNote: 2027 Critical Care Congress\, March 14-16 2027\, San Diego Convention Center\, San Diego CA (pre-Congress educational programming March 12-13). Source: SCCM official 2027 Congress page (organizer-owned\, verified 2026-09-18).\nDate quality: hard (2027-03-14)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0388\nSource: https://www.sccm.org/annual-congress/critical-care-conference/
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0389@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20271004
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Indication: acute myeloid leukemia (AML)\nNote: ESH 8th International Conference on Acute Myeloid Leukemia 'Molecular and Translational': Advances in Biology and Treatment\, October 4-6 2027\, Estoril Congress Centre\, Estoril\, Portugal (registration & abstract submission open). Source: ESH official conference page (organizer-owned\, verified 2026-09-18). [2026-09-23 source check] esh.org conference URL returns 403 to crawlers (access-blocked\, not \nDate quality: hard (2027-10-04)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0389\nSource: http://www.esh.org/conference/8th-international-conference-acute-myeloid-leukemia-molecular-and-translational-advances-in-biology-and-treatment/
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0390@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270925
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Indication: intensive care / critical care\nNote: ESICM 40th Annual Congress (LIVES 2027)\, Copenhagen\, starting September 25 2027 ('Save the dates!'\; end date not yet published by organizer). Source: ESICM official events calendar (organizer-owned\, verified 2026-09-18).\nDate quality: hard (2027-09-25)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0390\nSource: https://www.esicm.org/accueil-v2/
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0391@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270526
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Indication: pediatric cochlear implantation / hearing loss\nNote: 18th European Symposium on Pediatric Cochlear Implantation\, May 26-29 2027\, Valamar Meeting & Events\, Dubrovnik\, Croatia (hosted by Croatian Society for Cochlear Implantation). Source: official ESPCI 2027 save-the-date flyer PDF (organizer-issued\, verified 2026-09-18).\nDate quality: hard (2027-05-26)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0391\nSource: https://www.espci2027.org/resources/uploads/sites/196/2026/04/ESPCI-2027-Digital-flyer.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0392@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270605
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Indication: nuclear medicine / molecular imaging / theranostics\nNote: SNMMI 2027 Annual Meeting\, June 5-8 2027\, Walter E. Washington Convention Center\, Washington\, DC. Source: SNMMI official annual meeting page (organizer-owned\, verified 2026-09-18).\nDate quality: hard (2027-06-05)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0392\nSource: https://snmmi.org/AM
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0393@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270425
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Indication: trauma and emergency surgery\nNote: 26th European Congress of Trauma and Emergency Surgery (ECTES 2027)\, April 25-27 2027\, Zurich\, Switzerland. PROVENANCE: organizer-issued save-the-date mailing from the official congress PCO (Conventus) plus corroboration from official ESTES society LinkedIn announcement and German Society for Surgery (DGCH) announcement PDF. The direct estes-congress.org registration page confirms the 2027 Zurich \nDate quality: hard (2027-04-25)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0393\nSource: https://estes-congress.org
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0394@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20271031
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Indication: Women's health / OBGYN\nNote: Montreal\, Canada (Palais des Congres de Montreal / Montreal Convention Centre)\, Oct 31-Nov 5 2027\; world's largest OBGYN meeting (~8\,000 specialists)\, gynecologic cancer and women's-health research. Official FIGO prospectus on congress.figo.org lists '31 October - 5 November | Congress onsite dates' as key dates.\nDate quality: hard (2027-10-31)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0394\nSource: https://congress.figo.org/wp-content/uploads/2026/04/FIGO-2027-Preliminary-Prospectus-V4_TB.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0395@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270501
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Indication: Psychiatry / mental health\nNote: New York City\, NY\, May 1-5 2027\; theme 'Our Future: End Stigma\, Advance Science\, Secure Parity.' ~9\,000 psychiatrists\; CNS/psychedelic pipeline abstracts. Organizer psychiatry.org submission guidelines confirm dates and location.\nDate quality: hard (2027-05-01)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0395\nSource: https://www.psychiatry.org/psychiatrists/education/meeting-submission-and-guidelines/annual-meeting-submission-guidelines
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0396@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270218
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Indication: Interventional cardiology\nNote: Milan\, Italy (Allianz MiCO)\, Feb 18-20 2027\; ESC family interventional cardiology congress\, expanded from Summit to Congress format. ESC registration page directly lists 'EAPCI 2027\, Milan\, 18-20 February.'\nDate quality: hard (2027-02-18)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0396\nSource: https://www.escardio.org/events/congresses/eapci-congress/registration/
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0397@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270615
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Indication: Surgery (endoscopic/minimally invasive)\nNote: Dusseldorf\, Germany (CCD Congress Center)\, Jun 15-18 2027\; flagship EAES annual congress (1\,500-2\,000 attendees)\, minimally invasive surgery. Organizer eaes.eu events calendar directly lists '15 - 18 June 2027\, 35th international EAES congress\, Dusseldorf\, Germany.'\nDate quality: hard (2027-06-15)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0397\nSource: https://eaes.eu/events-calendar/
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0398@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270606
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Indication: Sleep medicine / sleep and circadian science\nNote: Denver\, CO (Colorado Convention Center)\, Jun 6-9 2027\; general session Jun 6-9 (postgraduate courses Jun 5-6). Joint venture of AASM and Sleep Research Society\; ~5\,000 sleep physicians/scientists\; sleep-apnea therapy abstracts. Organizer aasm.org event page directly confirms dates and Denver location.\nDate quality: hard (2027-06-06)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0398\nSource: https://aasm.org/event/sleep-2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0399@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270907
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Indication: Pain management\nNote: Las Vegas\, NV (The Cosmopolitan)\, Sep 7-10 2027\; largest US pain management conference (~2\,300 practitioners)\; analgesic/non-opioid pipeline abstracts. Organizer conference.painweek.org directly lists 'September 7-10\, 2027 | The Cosmopolitan of Las Vegas.'\n[2026-09-23 conference re-source] URL unchanged: dedicated conference site prints the 2027 dates\; date confirmed hard.\n[2026-09-23 source revie\nDate quality: hard (2027-09-07)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0399\nSource: https://conference.painweek.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0400@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270416
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Indication: Geriatric psychiatry / CNS\nNote: San Diego\, CA (Sheraton San Diego Hotel & Marina)\, Apr 15-19 2027\; theme 'Connecting and Collaborating to Advance Geriatric Mental Health.' Conflict: AAGP organizer location page says April 15-19\; organizer prospectus PDF says April 16-20. Start 2027-04-15 used per primary location page.\nDate quality: hard (2027-04-16)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0400\nSource: https://aagponline.org/annual-meeting-location/
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0401@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270416
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Indication: Sports medicine / musculoskeletal\nNote: Louisville\, KY\, Apr 16-21 2027\; ~2\,700 sports medicine physicians\, non-surgical musculoskeletal medicine. Organizer amssm.org conferences page directly lists '2027 AMSSM Annual Meeting\, Apr 16 - Apr 21\, 2027\, Louisville\, KY.'\nDate quality: hard (2027-04-16)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0401\nSource: https://www.amssm.org/Conferences.php
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0402@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270421
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Indication: Pain\nNote: Glasgow\, Scotland\, Apr 21-23 2027\; European Pain Federation biennial congress (European chapter of IASP). IASP's official upcoming-events listing on iasp-pain.org gives '15th Congress of the European Pain Federation EFIC\, Glasgow\, Scotland\, 21-23 April 2027.'\nDate quality: hard (2027-04-21)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0402\nSource: https://www.iasp-pain.org/upcoming-events/list/?posts_per_page=29
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0403@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270318
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: American Academy of Pain Medicine annual meeting\; organizer states PainConnect 2027 takes place March 18-21\, 2027 at Hyatt Regency Grand Cypress Resort\, Orlando\, FL. Distinct conference from ERS Lung Science Conference 2027 (European Respiratory Society) (separate event\, separate organizer)\; shares only the start date 2027-03-18 — not a duplicate.\nDate quality: hard (2027-03-18)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0403\nSource: https://painconnect.org/registration/
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0404@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20271015
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: American Society of Anesthesiologists annual meeting\; ASA Future Dates page lists October 15-19\, 2027\, Boston\, MA. Distinct conference from ASBMR 2027 Annual Meeting (separate event\, separate organizer)\; shares only the start date 2027-10-15 — not a duplicate.\nDate quality: hard (2027-10-15)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0404\nSource: http://asahq.org/annualmeeting/attend/futuredates
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0405@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270513
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: ASRA Pain Medicine spring meeting\; organizer event page lists May 13-15\, 2027\, Marriott Marquis Houston\, Houston\, TX. Distinct conference from Heart Rhythm 2027 (Heart Rhythm Society Annual Meeting) (separate event\, separate organizer)\; shares only the start date 2027-05-13 — not a duplicate.\nDate quality: hard (2027-05-13)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0405\nSource: https://asra.com/events-education/annual-meetings/2027/05/13/events/52nd-annual-regional-anesthesiology-and-acute-pain-medicine-meeting
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0406@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20271118
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: ASRA Pain Medicine fall meeting\; organizer news article states it will be held November 18-20\, 2027\, in Atlanta\, GA.\nDate quality: hard (2027-11-18)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0406\nSource: https://asra.com/news-publications/asra-update-item/asra-updates/2026/08/07/dr.-ryan-s.-d-souza-receives-presidential-scholar-award
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0407@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270927
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: Neurocritical Care Society 25th Annual Meeting\; organizer future-meetings page lists September 27-30\, 2027\, Hyatt Regency New Orleans\, New Orleans\, LA.\nDate quality: hard (2027-09-27)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0407\nSource: https://www.neurocriticalcare.org/Events/Annual-Meeting/Past-Future-Annual-Meetings
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0408@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270519
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: 28th EFORT Annual Congress\; organizer congress site states it will be held at the Megaron Athens International Conference Centre\, Athens\, Greece\, from Wednesday 19 to Friday 21 May 2027.\n[2026-09-23 conference re-source] Re-sourced from congress.efort.org homepage-path URL form to verified dedicated congress site\; date confirmed hard. (Congress is Athens\, Greece — Montpellier reference in earlier \nDate quality: hard (2027-05-19)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0408\nSource: https://congress.efort.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0409@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20271007
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: European Hip Society president's welcome confirms 17th EHS Congress in London on 7-8 October 2027\; membership page adds venue Olympia\, London/Kensington.\n[2026-09-23 conference re-source] Re-sourced to dated organizer calendar page\; row clarified as European Hip Society (vs. Hernia Society) in notes\; date confirmed hard.\nDate quality: hard (2027-10-07)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0409\nSource: https://europeanhipsociety.com/hip-calendar/
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0410@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270422
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: World Arthroplasty Congress 2027 (5th)\, April 22-23 2027\; Brussels\, Belgium. Corroborated: European Hip Society scientific calendar (co-organizing society) + Union of International Associations directory (lists organizer European Knee Society). UIA: https://uia.org/icco/search?eventcity=S%C3%A9tif&page=40 (verified 2026-09-18).\nDate quality: hard (2027-04-22)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0410\nSource: https://europeanhipsociety.com/hip-calendar/
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0411@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270916
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: ISHA – The Hip Preservation Society\; organizer announcement states dates changed to 16-18 September 2027\, Ottawa\, Canada (19th Annual Scientific Meeting).\nDate quality: hard (2027-09-16)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0411\nSource: https://www.ishasoc.net/isha-2027-annual-scientific-meeting-host-destination-announced/
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0412@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270916
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: 27th EURETINA Congress\; organizer future-meetings page lists 16-19 September 2027\, Bella Center\, Copenhagen\, Denmark. Distinct conference from ISHA 2027 Annual Scientific Meeting (19th\, Hip Preservation Society) (separate event\, separate organizer)\; shares only the start date 2027-09-16 — not a duplicate.\nDate quality: hard (2027-09-16)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0412\nSource: https://euretina.org/future-meetings/
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0413@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270226
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: EURETINA Special Focus Meeting 2027 - Inherited Retinal Diseases\; organizer future-meetings page lists 26-27 February 2027\, Ljubljana\, Slovenia.\nDate quality: hard (2027-02-26)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0413\nSource: https://euretina.org/future-meetings/
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0415@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20271104
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: Asian Pacific Society of Respirology 31st Congress\; organizer congress page lists 4-7 November 2027\, Bali\, Indonesia.\nDate quality: hard (2027-11-04)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0415\nSource: https://apsr.org/events/congress/
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0416@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270204
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Indication: critical care / intensive care medicine\nNote: Intensive Care Innovation\, February 4-5 2027\; Humanitas Congress Center\, Rozzano (Milan)\, Italy. ESICM event on the future of intensive care (AI\, precision medicine\, emerging ICU technologies). Source: ESICM official event page (organizer-owned\, verified 2026-09-18).\nDate quality: hard (2027-02-04)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0416\nSource: https://www.esicm.org/events/intensive-care-innovation2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0417@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270603
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Indication: critical care physiology / translational intensive care\nNote: LIVES Physiology-Transbiology\, June 3-5 2027\; Athens\, Greece. ESICM specialty meeting (physiology to translational ICU research). Source: ESICM official events calendar (organizer-owned\, verified 2026-09-18).\nDate quality: hard (2027-06-03)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0417\nSource: https://www.esicm.org/congresses-events/
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0418@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270205
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Indication: sleep disorders / sleep medicine\nNote: Sleep Medicine Trends 2027\, February 5-7 2027\; M Resort\, Spa and Casino\, Henderson\, Nevada. AASM meeting on emerging technologies and innovations in clinical sleep medicine. Source: AASM official event page (organizer-owned\, verified 2026-09-18).\nDate quality: hard (2027-02-05)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0418\nSource: https://aasm.org/event/sleep-medicine-trends-2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0419@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270317
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Indication: dental\, oral and craniofacial research\nNote: 56th AADOCR / 51st CADR Annual Meeting & Exhibition\, March 17-20 2027\; Minneapolis\, Minnesota. Premier dental\, oral and craniofacial research meeting. Source: AADOCR official meeting page (organizer-owned\, verified 2026-09-18). [2026-09-23 source check] Source unreachable from this network (TLS handshake timeout on both passes — not confirmed dead)\; organizer content seen live in search-index craw\nDate quality: hard (2027-03-17)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0419\nSource: http://www.aadocr.org/2027aaam
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0420@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270915
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Indication: retinal diseases / ophthalmology innovation\nNote: Euretina Innovation Spotlight (EIS)\, 15 September 2027\; Bella Center\, Copenhagen\, Denmark. Pre-congress innovation session adjacent to the 27th Euretina Congress (16-19 Sept 2027). Source: Euretina official future-meetings page (organizer-owned\, verified 2026-09-18).\nDate quality: hard (2027-09-15)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0420\nSource: https://euretina.org/future-meetings/
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0421@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270224
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Indication: obstetrics & gynecology medical education\nNote: 2027 CREOG & APGO Annual Meeting (CAAM)\, February 24-27\, 2027\, Denver\, Colorado. Joint annual meeting of the Council on Resident Education in Obstetrics and Gynecology (CREOG) and the Association of Professors of Gynecology & Obstetrics (APGO)\; theme: Fostering Inspiration - Equipping and Empowering Medical Educators in OB/GYN. Source: ACOG organizer-owned meeting page (verified 2026-09-18).\nDate quality: hard (2027-02-24)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0421\nSource: https://www.acog.org/education-and-events/meetings/creog-apgo-annual-meeting
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0422@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270430
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Indication: perianesthesia nursing\nNote: ASPAN 46th Annual National Conference\, April 30 - May 3\, 2027\, Sheraton New Orleans\, New Orleans\, Louisiana. Annual national conference of the American Society of PeriAnesthesia Nurses covering perianesthesia clinical care\, pediatric advancements\, emerging research\, medication and safety updates. Source: ASPAN organizer-owned 2027 National Conference page and 2027 Call for Abstracts page (verified\nDate quality: hard (2027-04-30)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0422\nSource: https://www.aspan.org/Education-Events/2027-ASPAN-National-Conference
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0423@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270409
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Indication: retina / ophthalmology artificial intelligence\nNote: EuretinAI 2027 (EuretinaAI: AI in Retina)\, April 9-10\, 2027\, London\, UK. Euretina dedicated meeting on artificial intelligence in retina care\, research and clinical practice. Source: Euretina organizer-owned About/EuretinaAI page (verified 2026-09-18).\nDate quality: hard (2027-04-09)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0423\nSource: https://euretina.org/euretinai-2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0424@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270220
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Indication: cardiac electrophysiology / heart rhythm disorders\nNote: APHRS Summit 2027\, Saturday\, February 20\, 2027\, Shenzhen\, China\, held in conjunction with CardioRhythm 2027. Single-day summit of the Asia Pacific Heart Rhythm Society. Flagship APHRS 2027 Scientific Session (Taipei) dates not yet announced\; not included. Source: APHRS organizer-owned Upcoming Meetings page (verified 2026-09-18).\nDate quality: hard (2027-02-20)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0424\nSource: https://www.aphrs.org/22-meetings/meeting/495-aphrs-2027-taipei
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0425@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270319
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Indication: acute cardiovascular care\nNote: ESC Acute Cardiovascular Care 2027\, March 19-20\, 2027\, Seville\, Spain. Source: ESC organizer-owned congresses-events portal (explicit date ranges) corroborated by ESC 'Upcoming congresses' overview\, esCardio.org (verified 2026-09-18).\nDate quality: hard (2027-03-19)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0425\nSource: https://www.escardio.org/events/congresses/acute-cardiovascular-care/
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0426@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270411
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Indication: cardiac electrophysiology / arrhythmias\nNote: EHRA 2027 (European Heart Rhythm Association Congress)\, April 11-13\, 2027\, Helsinki\, Finland. Source: ESC organizer-owned congresses-events portal (explicit date ranges) corroborated by ESC 'Upcoming congresses' overview\, esCardio.org (verified 2026-09-18).\nDate quality: hard (2027-04-11)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0426\nSource: https://www.escardio.org/events/congresses/ehra-congress/
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0427@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270415
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Indication: preventive cardiology\nNote: ESC Preventive Cardiology 2027\, April 15-17\, 2027\, Lisbon\, Portugal. Source: ESC organizer-owned congresses-events portal (explicit date ranges) corroborated by ESC 'Upcoming congresses' overview\, esCardio.org (verified 2026-09-18).\nDate quality: hard (2027-04-15)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0427\nSource: https://www.escardio.org/events/congresses/esc-preventive-cardiology/
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0428@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270522
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Indication: heart failure\nNote: Heart Failure 2027 (HFA-ESC Congress)\, May 22-25\, 2027\, London\, UK. Source: ESC organizer-owned congresses-events portal (explicit date ranges) corroborated by ESC 'Upcoming congresses' overview\, esCardio.org (verified 2026-09-18).\nDate quality: hard (2027-05-22)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0428\nSource: https://www.escardio.org/events/congresses
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0429@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270604
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Indication: cardio-oncology\nNote: ESC Cardio-Oncology 2027\, June 4-5\, 2027\, Porto\, Portugal. Source: ESC organizer-owned congresses-events portal (explicit date ranges) corroborated by ESC 'Upcoming congresses' overview\, esCardio.org (verified 2026-09-18).\nDate quality: hard (2027-06-04)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0429\nSource: https://www.escardio.org/events/congresses
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0430@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270611
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Indication: cardiovascular nursing / allied professions\nNote: ACNAP 2027 (Association of Cardiovascular Nursing & Allied Professions Congress)\, June 11-12\, 2027\, Sophia Antipolis\, France. Source: ESC organizer-owned congresses-events portal (explicit date ranges) corroborated by ESC 'Upcoming congresses' overview\, esCardio.org (verified 2026-09-18).\nDate quality: hard (2027-06-11)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0430\nSource: https://www.escardio.org/events/congresses
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0431@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270106
+SUMMARY:IBRX — ANKTIVA (nogapendekin alfa inbakicept-pmln) + BCG PDUFA decision
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Indication: BCG-unresponsive non-muscle invasive bladder cancer with papillary disease (no CIS)\nThe FDA's decision date on ANKTIVA (nogapendekin alfa inbakicept-pmln) + BCG for BCG-unresponsive non-muscle invasive bladder cancer with papillary disease (no CIS) falls on 2027-01-06 — the agency's yes-or-no moment for ImmunityBio\, Inc.'s application.\nNote: FDA accepted the sBLA for ANKTIVA + BCG in papillary NMIBC\; PDUFA date 2027-01-06. sBLA seeks extrapolation from CIS cohort data (QUILT-3.032 Cohort A) to papillary-only disease.\nDate quality: hard (2027-01-06)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0431\nSource: https://www.businesswire.com/news/home/20260519760562/en/ImmunityBio-Announces-FDA-Acceptance-of-Supplemental-BLA-for-ANKTIVA-Plus-BCG-in-BCG-Unresponsive-Non-Muscle-Invasive-Bladder-Cancer-with-Papillary-Disease-PDUFA-Date-Set-for-January-6-2027
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0432@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270316
+SUMMARY:SkinTE (autologous cutaneous multicellular units) PDUFA decision
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Indication: Wagner Grade 1 diabetic foot ulcers\nThe FDA's decision date on SkinTE (autologous cutaneous multicellular units) for Wagner Grade 1 diabetic foot ulcers falls on 2027-03-16 — the agency's yes-or-no moment for PolarityBio\, Inc.'s application.\nNote: Private company\; no public ticker. FDA accepted SkinTE BLA for Wagner Grade 1 diabetic foot ulcers with Priority Review (Sep 15\, 2026)\; PDUFA target action date March 16\, 2027. RMAT and Breakthrough designations.\nDate quality: hard (2027-03-16)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0432\nSource: https://www.polaritybio.com/news/fda-accepts-skinte-bla-priority-review
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0433@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270322
+SUMMARY:MRK — ENFLONSIA (clesrovimab) PDUFA decision
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Indication: RSV lower respiratory tract disease prevention\, children <2 yrs at increased risk\, second season\nNote: FDA accepted the sBLA for ENFLONSIA (clesrovimab)\; target action date 2027-03-22. sBLA supported by Phase 3 SMART trial\; would add second-season dosing for high-risk infants.\nDate quality: hard (2027-03-22)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0433\nSource: https://s2.q4cdn.com/584635680/files/doc_news/U-S--FDA-Accepts-sBLA-for-ENFLONSIA-clesrovimab-cfor-to-Update-its-Respiratory-Syncytial-Virus-RSV-Lower-Respiratory-Tract-Disease-In-S7UWZ.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0434@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270416
+SUMMARY:SEDANA — Isoflurane via Sedana Medical ACD Delivery System PDUFA decision
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Indication: Sedation of mechanically ventilated adult ICU patients\nThe FDA's decision date on Isoflurane via Sedana Medical ACD Delivery System for Sedation of mechanically ventilated adult ICU patients falls on 2027-04-16 — the agency's yes-or-no moment for Sedana Medical AB's application.\nNote: Sedana Medical announced a PDUFA target action date of 2027-04-16 for its US NDA. Listed on Nasdaq Stockholm\, not US-listed\; no US ticker. Would be first US inhaled ICU sedation therapy.\nDate quality: hard (2027-04-16)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0434\nSource: https://www.inderes.se/en/releases/sedana-medical-announces-pdufa-target-action-date-for-its-new-drug-application-in-the-us
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0435@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270430
+SUMMARY:K-911 (bimatoprost grenod / NCX 470) PDUFA decision
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Indication: Open-angle glaucoma / ocular hypertension (IOP lowering)\nThe FDA's decision date on K-911 (bimatoprost grenod / NCX 470) for Open-angle glaucoma / ocular hypertension (IOP lowering) falls on 2027-04-30 — the agency's yes-or-no moment for Kowa Pharmaceuticals America\, Inc.'s application.\nNote: FDA accepted the NDA for K-911 (bimatoprost grenod)\; PDUFA action date 2027-04-30. Parent Kowa Company (Japan) not US-listed\; no US ticker. NO-donating bimatoprost\; NDA supported by two Phase 3 trials. [Source verified 2026-09-20: The FDA has assigned a Prescription Drug User Fee Act (PDUFA) target action date of April 30\, 2027.]\nDate quality: hard (2027-04-30)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0435\nSource: https://www.kowapharma.com/newsroom/kowa-pharmaceuticals-america-fda-acceptance-k-911
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-0609@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270223
+SUMMARY:ARQT — ZORYVE (roflumilast) cream 0.05% PDUFA decision
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Indication: Mild-to-moderate atopic dermatitis in infants aged 3-24 months\nNote: FDA accepted sNDA for infant AD indication\; PDUFA date 2027-02-23 per company PR.\nDate quality: hard (2027-02-23)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0609\nSource: https://www.arcutis.com/fda-accepts-supplemental-new-drug-application-for-arcutis-zoryve-roflumilast-cream-0-05-for-the-treatment-of-mild-to-moderate-atopic-dermatitis-in-infants-down-to-3-months/
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-1012@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270212
+SUMMARY:BLTE — Tinlarebant PDUFA decision
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Indication: Stargardt disease type 1\nThe FDA's decision date on tinlarebant for Stargardt disease type 1 falls on 2027-02-12 — the agency's yes-or-no moment for Belite Bio\, Inc.'s application.\nNote: FDA accepted NDA and granted Priority Review for tinlarebant in Stargardt disease type 1\; PDUFA date 2027-02-12 per Aug 11\, 2026 company PR. Potential first approved therapy for STGD1\; no approved therapies exist. [Source verified 2026-09-20: U.S. Food and Drug Administration accepted the New Drug Application with Priority Review for tinlarebant for the treatment of Stargardt disease type 1\; Presc\nDate quality: hard (2027-02-12)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-1012\nSource: https://www.globenewswire.com/news-release/2026/08/11/3343136/0/en/belite-bio-announces-u-s-food-and-drug-administration-acceptance-and-priority-review-of-new-drug-application-for-tinlarebant-for-the-treatment-of-stargardt-disease-type-1.html
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-1017@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270223
+SUMMARY:SGIOY — Fetroja (cefiderocol) — pediatric PDUFA decision
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Indication: hospital-acquired / ventilator-associated bacterial pneumonia and complicated urinary tract infection (pediatric)\nNote: FDA accepted sNDA for Fetroja (cefiderocol) in pediatric patients (at least 26 weeks gestational age) with HABP/VABP and cUTI\; PDUFA date 2027-02-23 per Shionogi July 17\, 2026 PR. SGIOY is the US ADR.\nDate quality: hard (2027-02-23)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-1017\nSource: https://www.shionogi.com/content/dam/shionogi/global/news/pdf/2026/7%E6%9C%88/E_20260717_2.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-1022@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270527
+SUMMARY:ZBIO — obexelimab PDUFA decision
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Indication: IgG4-related disease (IgG4-RD)\nThe FDA's decision date on obexelimab for IgG4-related disease (IgG4-RD) falls on 2027-05-27 — the agency's yes-or-no moment for Zenas BioPharma's application.\nNote: FDA accepted the BLA for obexelimab in IgG4-RD in Aug 2026 and assigned PDUFA target action date May 27\, 2027 (standard review\; no priority review announced). Backed by Phase 3 INDIGO (HR 0.44\, p=0.0005). Competing: Amgen Uplizna (approved Apr 2025). Added 2026-09-20 via missing-PDUFA sweep.\nDate quality: hard (2027-05-27)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-1022\nSource: https://www.globenewswire.com/news-release/2026/09/08/3357503/0/en/zenas-biopharma-to-host-obexelimab-igg4-rd-investor-event.html
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-1023@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270228
+SUMMARY:BMRN — VOXZOGO (vosoritide) PDUFA decision
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Indication: full (traditional) approval in children with achondroplasia\nNote: FDA accepted the sNDA for full (traditional) approval of VOXZOGO in children with achondroplasia\; PDUFA target action date Feb 28\, 2027 (announced 2026-07-13). Would be the first accelerated-to-full conversion in achondroplasia. Added 2026-09-20 via missing-PDUFA sweep.\nDate quality: hard (2027-02-28)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-1023\nSource: https://www.biomarin.com/news/press-releases/u-s-food-and-drug-administration-accepts-biomarins-supplemental-new-drug-application-for-full-approval-of-voxzogo-vosoritide-for-children-with-achondroplasia/
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-1031@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270917
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: NCCN's own event page: Friday Sep 17 - Saturday Sep 18\, 2027\, Sheraton Boston Hotel\, Boston\, MA. Organizer-confirmed. Distinct conference from ESMO Congress 2027 (separate event\, separate organizer)\; shares only the start date 2027-09-17 — not a duplicate.\nDate quality: hard (2027-09-17)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-1031\nSource: https://nccn.org/education-research/educational-events-and-programs/annual-congress-hematologic-malignancies
+END:VEVENT
+BEGIN:VEVENT
+UID:v16-1032@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270414
+SUMMARY:Conference
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Note: Official congress site (Kenes\, the organizer/PCO): MDS 2027\, 19th International Congress on Myelodysplastic Syndromes\, Leipzig\, Germany\, opening Apr 14\, 2027. Note: organizer page lists Apr 14-16 while congress flyer PDFs list Apr 14-17 - start date Apr 14 consistent\; Close date to be reconfirmed with the organizer. Distinct conference from ISHLT Annual Meeting & Scientific Sessions 2027 (47th\, In\nDate quality: hard (2027-04-14)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-1032\nSource: https://mds.kenes.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:v17-0004@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270131
+SUMMARY:cenobamate oral suspension PDUFA decision
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Indication: focal seizures in adults (formulation extension for patients who have difficulty swallowing tablets)\nNote: FDA accepted the NDA for review and assigned a PDUFA target action date of January 31\, 2027 (company PR). Formulation extension of XCOPRI\; US subsidiary of SK Biopharmaceuticals. Private PDUFA gate: accepted 2027 action disclosed.\nDate quality: hard (2027-01-31)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v17-0004\nSource: https://www.prnewswire.com/news-releases/sk-life-science-inc-announces-fda-acceptance-for-review-of-new-drug-application-for-cenobamate-oral-suspension-302800433.html
+END:VEVENT
+BEGIN:VEVENT
+UID:v17-0048@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270311
+SUMMARY:BMY — Reblozyl (luspatercept) PDUFA decision
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Indication: Myelofibrosis-associated anemia (INDEPENDENCE\, with concomitant JAK inhibitor)\nNote: Phase 3 INDEPENDENCE (NCT04717414\, luspatercept vs placebo in transfusion-dependent myelofibrosis-associated anemia on concomitant JAK inhibitor) is listed on ClinicalTrials.gov. INDEPENDENCE missed its primary endpoint (p=0.0674)\; the filing relies on secondary outcomes. FDA acceptance was disclosed verbatim in the BMS Q2 2026 earnings press release (Exhibit 99.1 to 8-K\, 2026-07-30): 'The U.S. Fo\nDate quality: hard (2027-03-11)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v17-0048\nSource: https://investors.bms.com/iframes/press-releases/press-release-details/2026/Bristol-Myers-Squibb-Reports-Second-Quarter-Financial-Results-for-2026/default.aspx
+END:VEVENT
+BEGIN:VEVENT
+UID:v19-0001@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270210
+SUMMARY:RYTM — setmelanotide HTA decision
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Indication: Acquired hypothalamic obesity\nNote: NICE technology appraisal guidance ID6542: "Setmelanotide for treating acquired hypothalamic obesity in people 4 years and over [ID6542] | Technology appraisal guidance | 10 February 2027". NICE expected publication dates slip routinely\; the date here is the agency-published expected date from the NICE in-development guidance table.\nDate quality: hard (2027-02-10)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v19-0001\nSource: https://www.nice.org.uk/guidance/indevelopment
+END:VEVENT
+BEGIN:VEVENT
+UID:v19-0002@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270414
+SUMMARY:AZN — baxdrostat HTA decision
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Indication: Uncontrolled or resistant hypertension\nNote: NICE technology appraisal guidance ID6623: "Baxdrostat for treating uncontrolled or resistant hypertension [ID6623] | Technology appraisal guidance | 14 April 2027". NICE expected publication dates slip routinely\; the date here is the agency-published expected date from the NICE in-development guidance table.\nDate quality: hard (2027-04-14)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v19-0002\nSource: https://www.nice.org.uk/guidance/indevelopment
+END:VEVENT
+BEGIN:VEVENT
+UID:v19-0003@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270113
+SUMMARY:AMGN — tarlatamab HTA decision
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Indication: Extended-stage small cell lung cancer\nNote: NICE technology appraisal: tarlatamab for ES-SCLC\, expected 13 Jan 2027 per the NICE in-development guidance table. NICE expected publication dates slip routinely\; the date here is the agency-published expected date from the NICE in-development guidance table.\nDate quality: hard (2027-01-13)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v19-0003\nSource: https://www.nice.org.uk/guidance/indevelopment
+END:VEVENT
+BEGIN:VEVENT
+UID:v19-0004@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270317
+SUMMARY:BIIB — tofersen HTA decision
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Indication: SOD1-ALS\nNote: NICE Highly Specialised Technologies appraisal: tofersen for SOD1-ALS\, expected 17 Mar 2027 per the NICE in-development guidance table. NICE expected publication dates slip routinely\; the date here is the agency-published expected date from the NICE in-development guidance table.\nDate quality: hard (2027-03-17)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v19-0004\nSource: https://www.nice.org.uk/guidance/indevelopment
+END:VEVENT
+BEGIN:VEVENT
+UID:v19-0005@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270520
+SUMMARY:GILD — anitocabtagene autoleucel (anito-cel) HTA decision
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Indication: Relapsed/refractory multiple myeloma\nNote: NICE technology appraisal: anito-cel for R/R multiple myeloma\, expected 20 May 2027 per the NICE in-development guidance table. NICE expected publication dates slip routinely\; the date here is the agency-published expected date from the NICE in-development guidance table.\nDate quality: hard (2027-05-20)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v19-0005\nSource: https://www.nice.org.uk/guidance/indevelopment
+END:VEVENT
+BEGIN:VEVENT
+UID:v19-0006@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270217
+SUMMARY:REGN — linvoseltamab HTA decision
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Indication: Relapsed/refractory multiple myeloma\nNote: NICE technology appraisal: linvoseltamab\, expected 17 Feb 2027 per the NICE in-development guidance table. NICE expected publication dates slip routinely\; the date here is the agency-published expected date from the NICE in-development guidance table.\nDate quality: hard (2027-02-17)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v19-0006\nSource: https://www.nice.org.uk/guidance/indevelopment
+END:VEVENT
+BEGIN:VEVENT
+UID:v19-0007@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270324
+SUMMARY:REGN — cemiplimab HTA decision
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Indication: Adjuvant cutaneous squamous cell carcinoma\nNote: NICE technology appraisal: cemiplimab in adjuvant cSCC\, expected 24 Mar 2027 per the NICE in-development guidance table. NICE expected publication dates slip routinely\; the date here is the agency-published expected date from the NICE in-development guidance table.\nDate quality: hard (2027-03-24)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v19-0007\nSource: https://www.nice.org.uk/guidance/indevelopment
+END:VEVENT
+BEGIN:VEVENT
+UID:v19-0008@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270128
+SUMMARY:PFE — elranatamab HTA decision
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Indication: Relapsed/refractory multiple myeloma (managed-access review)\nNote: NICE managed-access review: elranatamab\, expected 28 Jan 2027 per the NICE in-development guidance table. Managed-access review of an existing recommendation\, not a first appraisal. NICE expected publication dates slip routinely\; the date here is the agency-published expected date from the NICE in-development guidance table.\nDate quality: hard (2027-01-28)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v19-0008\nSource: https://www.nice.org.uk/guidance/indevelopment
+END:VEVENT
+BEGIN:VEVENT
+UID:v19-0009@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270506
+SUMMARY:PFE — brentuximab vedotin (Adcetris) combination HTA decision
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Indication: Combination therapy in lymphoma (per NICE appraisal schedule)\nNote: NICE technology appraisal: brentuximab vedotin combination\, expected 6 May 2027 per the NICE in-development guidance table. Indication per the NICE appraisal record\; confirm detail at monthly refresh. NICE expected publication dates slip routinely\; the date here is the agency-published expected date from the NICE in-development guidance table.\nDate quality: hard (2027-05-06)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v19-0009\nSource: https://www.nice.org.uk/guidance/indevelopment
+END:VEVENT
+BEGIN:VEVENT
+UID:v19-0010@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270210
+SUMMARY:PFE — enfortumab vedotin + pembrolizumab HTA decision
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Indication: Perioperative bladder cancer\nNote: NICE technology appraisal: enfortumab vedotin (Padcev\, Astellas/Pfizer) with pembrolizumab (Keytruda\, Merck) in perioperative bladder cancer\, expected 10 Feb 2027 per the NICE in-development guidance table. NICE expected publication dates slip routinely\; the date here is the agency-published expected date from the NICE in-development guidance table.\nDate quality: hard (2027-02-10)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v19-0010\nSource: https://www.nice.org.uk/guidance/indevelopment
+END:VEVENT
+BEGIN:VEVENT
+UID:v19-0011@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270310
+SUMMARY:GSK — bepirovirsen HTA decision
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Indication: Chronic hepatitis B\nNote: NICE technology appraisal: bepirovirsen for HBV\, expected 10 Mar 2027 per the NICE in-development guidance table. NICE expected publication dates slip routinely\; the date here is the agency-published expected date from the NICE in-development guidance table.\nDate quality: hard (2027-03-10)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v19-0011\nSource: https://www.nice.org.uk/guidance/indevelopment
+END:VEVENT
+BEGIN:VEVENT
+UID:v19-0012@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270224
+SUMMARY:NVO — denecimig (Mim8) HTA decision
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Indication: Haemophilia A\nNote: NICE technology appraisal: denecimig (Mim8) for haemophilia A\, expected 24 Feb 2027 per the NICE in-development guidance table. NICE expected publication dates slip routinely\; the date here is the agency-published expected date from the NICE in-development guidance table.\nDate quality: hard (2027-02-24)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v19-0012\nSource: https://www.nice.org.uk/guidance/indevelopment
+END:VEVENT
+BEGIN:VEVENT
+UID:v19-0013@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270210
+SUMMARY:ONC — tislelizumab HTA decision
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Indication: Oesophageal cancer\nNote: NICE technology appraisal: tislelizumab for oesophageal cancer\, expected 10 Feb 2027 per the NICE in-development guidance table. NICE expected publication dates slip routinely\; the date here is the agency-published expected date from the NICE in-development guidance table.\nDate quality: hard (2027-02-10)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v19-0013\nSource: https://www.nice.org.uk/guidance/indevelopment
+END:VEVENT
+BEGIN:VEVENT
+UID:v19-0014@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270513
+SUMMARY:ONC — tislelizumab HTA decision
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Indication: Nasopharyngeal cancer\nNote: NICE technology appraisal: tislelizumab for nasopharyngeal cancer\, expected 13 May 2027 per the NICE in-development guidance table. NICE expected publication dates slip routinely\; the date here is the agency-published expected date from the NICE in-development guidance table.\nDate quality: hard (2027-05-13)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v19-0014\nSource: https://www.nice.org.uk/guidance/indevelopment
+END:VEVENT
+BEGIN:VEVENT
+UID:v19-0015@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270513
+SUMMARY:RHHBY — obinutuzumab HTA decision
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Indication: Lupus\nNote: NICE technology appraisal: obinutuzumab for lupus\, expected 13 May 2027 per the NICE in-development guidance table. NICE expected publication dates slip routinely\; the date here is the agency-published expected date from the NICE in-development guidance table.\nDate quality: hard (2027-05-13)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v19-0015\nSource: https://www.nice.org.uk/guidance/indevelopment
+END:VEVENT
+BEGIN:VEVENT
+UID:v19-0016@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270513
+SUMMARY:INCY — povorcitinib HTA decision
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Indication: Hidradenitis suppurativa\nNote: NICE technology appraisal: povorcitinib for hidradenitis suppurativa\, expected 13 May 2027 per the NICE in-development guidance table. NICE expected publication dates slip routinely\; the date here is the agency-published expected date from the NICE in-development guidance table.\nDate quality: hard (2027-05-13)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v19-0016\nSource: https://www.nice.org.uk/guidance/indevelopment
+END:VEVENT
+BEGIN:VEVENT
+UID:v19-0017@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270610
+SUMMARY:INCY — tafasitamab + R-CHOP HTA decision
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Indication: Diffuse large B-cell lymphoma\nNote: NICE technology appraisal: tafasitamab with R-CHOP for DLBCL\, expected 10 Jun 2027 per the NICE in-development guidance table. NICE expected publication dates slip routinely\; the date here is the agency-published expected date from the NICE in-development guidance table.\nDate quality: hard (2027-06-10)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v19-0017\nSource: https://www.nice.org.uk/guidance/indevelopment
+END:VEVENT
+BEGIN:VEVENT
+UID:v19-0018@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270603
+SUMMARY:INCY — ruxolitinib cream HTA decision
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Indication: Atopic dermatitis\nNote: NICE technology appraisal: ruxolitinib cream for atopic dermatitis\, expected 3 Jun 2027 per the NICE in-development guidance table. NICE expected publication dates slip routinely\; the date here is the agency-published expected date from the NICE in-development guidance table.\nDate quality: hard (2027-06-03)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v19-0018\nSource: https://www.nice.org.uk/guidance/indevelopment
+END:VEVENT
+BEGIN:VEVENT
+UID:v19-0019@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270113
+SUMMARY:AZN — trastuzumab deruxtecan (Enhertu) HTA decision
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Indication: Gastric cancer (guidance review)\nNote: NICE review of guidance: Enhertu (trastuzumab deruxtecan\, AstraZeneca/Daiichi Sankyo) for gastric cancer\, expected 13 Jan 2027 per the NICE in-development guidance table. Guidance review\, not a first appraisal. NICE expected publication dates slip routinely\; the date here is the agency-published expected date from the NICE in-development guidance table.\nDate quality: hard (2027-01-13)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v19-0019\nSource: https://www.nice.org.uk/guidance/indevelopment
+END:VEVENT
+BEGIN:VEVENT
+UID:v19-0020@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270411
+SUMMARY:leriglitazone HTA decision
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Indication: Highly Specialised Technologies appraisal\nNote: NICE Highly Specialised Technologies appraisal: leriglitazone\, expected 11 Apr 2027 per the NICE in-development guidance table. Sponsor is private (Minoryx Therapeutics). NICE expected publication dates slip routinely\; the date here is the agency-published expected date from the NICE in-development guidance table.\nDate quality: hard (2027-04-11)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v19-0020\nSource: https://www.nice.org.uk/guidance/indevelopment
+END:VEVENT
+BEGIN:VEVENT
+UID:v19-0028@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270303
+SUMMARY:WiSE leadless pacing system HTA decision
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+DESCRIPTION:Indication: Leadless cardiac pacing\nNote: CMS National Coverage Determination for EBR Systems' WiSE leadless pacing system (ASX:EBR). EBR's June 4\, 2026 ASX announcement quotes the CMS NCD tracking sheet: 'Final NCD expected: March 3\, 2027' (formal request accepted June 3\, 2026\; proposed decision memo due Dec 3\, 2026). CMS-projected date\, contingent on the Dec 3\, 2026 proposed memo staying on schedule — guidance\, not a confirmed final NCD\nDate quality: guidance (2027-03-03)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v19-0028\nSource: https://www.businesswire.com/news/home/20260609744651/en/EBR-Systems-Secures-National-Coverage-Analysis-Under-TCET-Pathway-from-CMS-for-the-WiSE-System
+END:VEVENT
+BEGIN:VEVENT
+UID:v19-0033@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270201
+SUMMARY:IPAY 2029 selected-drug list pricing_decision
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Indication: Medicare drug price negotiation\nNote: CMS publishes the Medicare Drug Price Negotiation selected-drug list for IPAY 2029 (up to 20 Part B/D drugs\; first cycle at the 20-drug scale) — statutory deadline 2027-02-01. Per the proposed-rule summary: "for IPAY 2029\, this information would be published no later than February 1\, 2027." Statutory date\, hard. Ticker-agnostic sector event.\nDate quality: hard (2027-02-01)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v19-0033\nSource: https://www.hfma.org/wp-content/uploads/2026/06/510136_Medicare_Drug_Price_Negotiation_Program_Proposed_Rule_Summary.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:v19-0034@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20271130
+SUMMARY:IPAY 2029 maximum fair prices pricing_decision
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+DESCRIPTION:Indication: Medicare drug price negotiation\nNote: CMS publishes maximum fair prices (MFPs) for IPAY 2029 selected drugs. IRA statutory deadline: November 30\, 2027 (Nov 30 of the year preceding the initial price applicability year) — publication may come earlier\; carried at guidance\, quarter bucket\, with the statutory day shown as the deadline (not a confirmed publication date). Second-round IRA negotiation wave (up to 20 Part B/D drugs selected b\nDate quality: guidance (2027-11-30)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v19-0034\nSource: https://www.hklaw.com/en/insights/publications/2026/06/cms-issues-first-proposed-rule-for-ira-medicare-drug-price-negotiation
+END:VEVENT
+BEGIN:VEVENT
+UID:v19-0037@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270905
+SUMMARY:PFE — palbociclib (Ibrance) key_patent_expiry
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Indication: US composition-of-matter patent expiry\nNote: Ibrance (palbociclib) US composition-of-matter patent RE47\,739 effective expiry September 5\, 2027 — first-wave LOE (~$4.2B annualized\, ~7% of Pfizer). Pfizer's PTE certificate extended the term to March 5\, 2027 (PR\, 2021) but noted it 'does not include potential pediatric exclusivity'\; that exclusivity has since been granted — FDA Orange Book (NDA 207103\, openFDA last_updated 2026-09-22) lists RE4\nDate quality: hard (2027-09-05)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v19-0037\nSource: https://www.pfizer.com/news/press-release/press-release-detail/pfizer-confirms-us-patent-term-extension-ibrancer
+END:VEVENT
+BEGIN:VEVENT
+UID:v19-0038@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270813
+SUMMARY:ALPMY — enzalutamide (Xtandi) key_patent_expiry
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Indication: US patent protection expiry\nUS patent protection on enzalutamide (Xtandi) expires on 2027-08-13\, opening the door to generic competition.\nNote: Xtandi (enzalutamide) US patent protection expiry August 13\, 2027 — first-wave LOE (~$5B global\, >40% of Astellas\; Pfizer ~$1.4B/yr alliance revenue). FDA Orange Book (NDA 203415\, openFDA last_updated 2026-09-22): US 7\,709\,517 (drug substance + drug product flags\, Regents of UC) expires 20270813\; no *PED row. Astellas shareholder Q&A (17th annual meeting): 'XTANDI's substance patents will expire i\nDate quality: hard (2027-08-13)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v19-0038\nSource: https://www.astellas.com/content/dam/astellas-com/global/en/confidential-documents/shareholders-meeting/QA%20at%20the%2017th%20Annual%20Shareholders%20Meeting_en.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:v20-0001@biotech-catalyst-calendar
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20270104
+SUMMARY:NUVB — IBTROZI (taletrectinib) PDUFA decision
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Indication: Updated efficacy information in TKI-naive and TKI-pretreated advanced ROS1-positive non-small cell lung cancer (NSCLC)\; submission fulfills an FDA post-marketing commitment.\nThe FDA's decision date on IBTROZI (taletrectinib) for ROS1-positive non-small cell lung cancer falls on 2027-01-04 — the agency's yes-or-no moment for Nuvation Bio Inc.'s application.\nNote: FDA accepted the sNDA for IBTROZI (taletrectinib) with updated duration-of-response data in TKI-naive and TKI-pretreated advanced ROS1+ NSCLC\; target action date January 4\, 2027. Quote: "announced today that the U.S. Food and Drug Administration (FDA) has accepted a supplemental New Drug Application (sNDA) with updated data for IBTROZI (taletrectinib) in both TKI-naive and TKI-pretreated advanced \nDate quality: hard (2027-01-04)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v20-0001\nSource: https://www.prnewswire.com/news-releases/nuvation-bio-announces-fda-acceptance-of-supplemental-new-drug-application-for-ibtrozi-taletrectinib-with-updated-duration-of-response-in-advanced-ros1-positive-non-small-cell-lung-cancer-302763329.html
+END:VEVENT
+END:VCALENDAR

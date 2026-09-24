@@ -1,0 +1,58 @@
+name: Flag a calendar error
+description: Report a wrong date, broken link, or incorrect fact on the 2027 Biotech Catalyst Calendar
+title: "[correction] "
+labels: ["user-submission"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for flagging. Every submission is verified against primary sources (company filings, FDA, ClinicalTrials.gov, conference organizers) before anything changes. Nothing is applied automatically.
+  - type: input
+    id: record_id
+    attributes:
+      label: Event ID
+      description: The row ID from the calendar (e.g. v17-0042). Found in the event details.
+      placeholder: v17-0000
+    validations:
+      required: true
+  - type: input
+    id: ticker
+    attributes:
+      label: Ticker
+      placeholder: ABCD
+    validations:
+      required: true
+  - type: dropdown
+    id: field
+    attributes:
+      label: What is wrong?
+      options:
+        - Date / timing is wrong
+        - Event should not be listed
+        - Event is missing
+        - Source link is broken
+        - Drug, indication, or company detail is wrong
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: claimed_value
+    attributes:
+      label: What should it be?
+      description: State the correct value and, for dates, the precision the source supports (exact day, quarter, half-year, or full year).
+      placeholder: "The readout is now guided to H2 2027, not H1 — see Q3 earnings call."
+    validations:
+      required: true
+  - type: input
+    id: source_url
+    attributes:
+      label: Source URL (required)
+      description: Link to the primary source — company press release, SEC filing, FDA page, ClinicalTrials.gov, or conference organizer page. Submissions without a source cannot be verified.
+      placeholder: https://
+    validations:
+      required: true
+  - type: textarea
+    id: extra
+    attributes:
+      label: Anything else?
+      required: false
