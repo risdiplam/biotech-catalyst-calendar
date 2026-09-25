@@ -1547,8 +1547,8 @@
    "Keytruda (Merck)",
    "Avastin (Roche)"
   ],
-  "source_url": "https://author-astrazeneca-digital-prod65.adobecqms.net/content/dam/az/Investor_Relations/annual-report-2025/pdf/AstraZeneca_Development_Pipeline_2025.pdf",
-  "source_type": "company deck",
+  "source_url": "https://clinicaltrials.gov/study/NCT06079671",
+  "source_type": "ClinicalTrials.gov",
   "as_of": "2026-09-23",
   "notes": "Phase 3; registry primary completion 2027-11-26; topline could slip to 2028. Reviewed 2026-09-20: upgraded inferred->guidance; AZ 2025 Development Pipeline lists eVOLVE-Cervical readout as 2027 (year-level company guidance); bucket 2027-H2 retained. [2026-09-23 source check] Adobe CQ author-preview URL returns 403 to crawlers (access-blocked, not confirmed dead); document substance verified via search-index crawl 2026-09-23. Needs browser re-source to the public astrazeneca.com pipeline page.",
   "us_tradable": true,
@@ -1567,7 +1567,8 @@
   "related_events": [],
   "date_history": [],
   "indication_group": "Oncology",
-  "last_verified": "2026-09-23"
+  "last_verified": "2026-09-24",
+  "evidence_note": "Re-sourced 2026-09-24: official CT.gov record eVOLVECervical, AstraZeneca Phase 3 volrustomig in high-risk locally advanced cervical cancer; primary completion est. 2027-11-26 (supports 2027-H2)."
  },
  {
   "ticker": "AZN",
@@ -8622,8 +8623,8 @@
   "indication": "obesity without type 2 diabetes (VANQUISH-1)",
   "notes": "CEO guided H2 2027 readout at Sept 2026 Morgan Stanley conference; Timing per CEO remarks at Sept 2026 Morgan Stanley conference; first-party replay/SEC corroboration not yet located. Viking's official Q1 2026 (Apr 29) and Q2 2026 (Jul 29) releases confirm VANQUISH-1 and VANQUISH-2 are fully enrolled 78-week Phase 3 trials proceeding on track, but state no readout timing. The H2 2027 window comes from CEO Brian Lian's remarks at the Sept 2026 Morgan Stanley conference as quoted in trade/aggregator coverage; no company release, SEC filing, or deck corroborates the timing.",
   "phase": "3",
-  "source_type": "trade press",
-  "source_url": "https://www.marketbeat.com/instant-alerts/event-viking-therapeutics-advances-vk2735-obesity-drug-into-phase-3-after-15-weight-loss-2026-09-14/",
+  "source_type": "ClinicalTrials.gov",
+  "source_url": "https://clinicaltrials.gov/study/NCT07104500",
   "ticker": "VKTX",
   "us_listed": true,
   "us_tradable": true,
@@ -8647,7 +8648,8 @@
   "date_history": [],
   "indication_group": "Metabolic/Obesity/Diabetes",
   "last_verified": "2026-09-24",
-  "why_it_matters": "Phase 3 data for subcutaneous VK2735 in obesity without type 2 diabetes (VANQUISH-1) is expected in the second half of 2027 \u2014 the pivotal readout that determines whether Viking Therapeutics, Inc. can file for approval."
+  "why_it_matters": "Phase 3 data for subcutaneous VK2735 in obesity without type 2 diabetes (VANQUISH-1) is expected in the second half of 2027 \u2014 the pivotal readout that determines whether Viking Therapeutics, Inc. can file for approval.",
+  "evidence_note": "Re-sourced 2026-09-24: official CT.gov record VANQUISH 1, Viking Phase 3 subcutaneous VK2735 in obesity; primary completion est. 2027-07-01 (supports 2027-H2)."
  },
  {
   "as_of": "2026-09-23",
@@ -9031,8 +9033,8 @@
   "indication": "suspected acute myocardial infarction (SOS-AMI)",
   "notes": "Phase 3 SOS-AMI readout expected H1 2027 per Q2 2026 earnings call transcript; first-party transcript/SEC corroboration not yet located. The official Viatris Q2 2026 deck supports only that selatogrel (global AMI) enrollment is ongoing and targets Phase 3 enrollment completion in 2026 \u2014 it does NOT guide an H1 2027 SOS-AMI readout. The H1 2027 readout timing comes only from an earnings-call transcript source; no official release, filing, or deck confirms it.",
   "phase": "3",
-  "source_type": "trade press",
-  "source_url": "https://www.marketbeat.com/earnings/reports/2026-8-6-viatris-inc-stock/",
+  "source_type": "company IR",
+  "source_url": "https://files.quartr.com/conference-calls/e8b3b-2026-03-19.pdf?ref=U3RvY2tBbmFseXNpcw==",
   "ticker": "VTRS",
   "us_listed": true,
   "us_tradable": true,
@@ -9051,7 +9053,8 @@
   "related_events": [],
   "date_history": [],
   "indication_group": "Cardiology",
-  "last_verified": "2026-09-23"
+  "last_verified": "2026-09-24",
+  "evidence_note": "Re-sourced 2026-09-24: Viatris Mar 19 2026 Investor Event presentation (Quartr-hosted): selatogrel SOS-AMI Phase 3 slide states full enrollment expected 2026 with data readout anticipated H1 2027."
  },
  {
   "as_of": "2026-09-23",
@@ -10099,8 +10102,8 @@
   "date_quality": "hard",
   "notes": "EASL Congress 2027, June 16\u201319 2027, ExCeL London, London, United Kingdom (+ online). Four-day congress; abstract submission and registration open 28 Sep 2026; abstract deadline 19 Jan 2027. (Third-party 18\u201319 Jun adjudicated against organizer.)\n[2026-09-23 correction] The cited EASL welcome-message page (https://www.easlcongress.eu/2027-welcome-message/) now returns dead on probe (page removed/relocated) \u2014 event retained: EASL Congress 2027 dates (Jun 16-19, London) were organizer-confirmed. Needs browser re-source to the current EASL Congress page.",
   "country": "United Kingdom",
-  "source_url": "https://www.easlcongress.eu/2027-welcome-message/",
-  "source_type": "conference organizer",
+  "source_url": "https://www.easlcongress.eu/",
+  "source_type": "conference_organizer",
   "competitors": [],
   "as_of": "2026-09-24",
   "us_tradable": false,
@@ -10119,7 +10122,9 @@
   "related_events": [],
   "date_history": [],
   "indication_group": "Other",
-  "last_verified": "2026-09-24"
+  "last_verified": "2026-09-24",
+  "evidence_note": "Re-sourced 2026-09-24: official EASL Congress site lists EASL Congress 2027, 16-19 June, London (old /2027-welcome-message/ URL dead).",
+  "organizer_dates_printed": true
  },
  {
   "company": "IAS 2027 (14th IAS Conference on HIV Science)",
@@ -11114,8 +11119,8 @@
   "date_quality": "hard",
   "notes": "APASL Annual Meeting 2027 (36th), April 1-4 2027, Sydney, Australia. Source: official APASL 2027 congress site (cited by APASL).\n[2026-09-23 correction] A prior note claimed a re-source to a deeper dated organizer page, but the source URL was never actually changed and the APASL future-meetings page now returns 404 (removed). Event retained: dates browser-verified 2026-09-18 and re-verified 2026-09-23. Needs browser re-source. [2026-09-23 source check] Cited URL http://apasl.info/conf/future-meetings/ returns HTTP 404 on both probe passes (page removed) \u2014 event retained per policy (events are never removed over URL problems alone; dates browser-verified 2026-09-18, v16-0289 re-verified 2026-09-23). Needs browser re-source to the per-event official APASL page.",
   "country": "Australia",
-  "source_url": "http://apasl.info/conf/future-meetings/",
-  "source_type": "conference organizer",
+  "source_url": "https://www.apasl2027.org/",
+  "source_type": "conference_organizer",
   "competitors": [],
   "as_of": "2026-09-18",
   "us_tradable": false,
@@ -11134,7 +11139,9 @@
   "related_events": [],
   "date_history": [],
   "indication_group": "Other",
-  "last_verified": "2026-09-23"
+  "last_verified": "2026-09-24",
+  "evidence_note": "Re-sourced 2026-09-24: official 36th APASL Annual Meeting 2027 site: Sydney, 1-4 April 2027.",
+  "organizer_dates_printed": true
  },
  {
   "company": "Dermatology Summit 2027 (Advancing Innovation in Dermatology)",
@@ -11465,7 +11472,7 @@
   "notes": "Eighth Annual Global Summit on Immunotherapies for Hematologic Malignancies, March 12-13 2027 (Fri-Sat), JW Marriott Brickell, Miami, FL; Miami Cancer Institute / Baptist Health South Florida CME event (leukemia, lymphoma, multiple myeloma, CAR-T, transplant). Source: 2027 Summit exhibitor prospectus PDF on cmeonline.baptisthealth.net (organizer-issued, verified 2026-09-18).",
   "country": "United States",
   "source_url": "https://cmeonline.baptisthealth.net/sites/default/files/2027%20Immunotherapy%20Summit%20Prospectus.pdf",
-  "source_type": "conference organizer",
+  "source_type": "conference_organizer",
   "competitors": [],
   "as_of": "2026-09-18",
   "us_tradable": false,
@@ -11484,7 +11491,8 @@
   "related_events": [],
   "date_history": [],
   "indication_group": "Other",
-  "last_verified": "2026-09-24"
+  "last_verified": "2026-09-24",
+  "evidence_note": "Re-sourced 2026-09-24: official Baptist Health CME 2027 prospectus: Global Summit on Immunotherapies for Hematologic Malignancies, 8th annual, March 12-13 2027, JW Marriott Brickell Miami."
  },
  {
   "company": "SIO Annual Scientific Meeting 2027 (Society of Interventional Oncology)",
@@ -13286,8 +13294,8 @@
   "date_quality": "hard",
   "notes": "APASL STC 2027 Bishkek, May 28-29 2027. Source: APASL future-meetings page (browser-verified 2026-09-18; curl probes are blocked with 404). [2026-09-23 source check] Cited URL http://apasl.info/conf/future-meetings/ returns HTTP 404 on both probe passes (page removed) \u2014 event retained per policy (events are never removed over URL problems alone; dates browser-verified 2026-09-18, v16-0289 re-verified 2026-09-23). Needs browser re-source to the per-event official APASL page.",
   "country": "Kyrgyzstan",
-  "source_url": "http://apasl.info/conf/future-meetings/",
-  "source_type": "conference organizer",
+  "source_url": "http://apasl.info/",
+  "source_type": "conference_organizer",
   "competitors": [],
   "as_of": "2026-09-23",
   "us_tradable": false,
@@ -13306,7 +13314,9 @@
   "related_events": [],
   "date_history": [],
   "indication_group": "Other",
-  "last_verified": "2026-09-23"
+  "last_verified": "2026-09-24",
+  "evidence_note": "Re-sourced 2026-09-24: official APASL homepage Future Meetings table: STC May 28-29 2027, Bishkek Kyrgyzstan.",
+  "organizer_dates_printed": true
  },
  {
   "company": "APASL STC 2027 Kaohsiung (Single Topic Conference: MASLD/MAFLD)",
@@ -13321,8 +13331,8 @@
   "date_quality": "hard",
   "notes": "APASL STC 2027 Kaohsiung, June 25-27 2027. Source: APASL future-meetings page (browser-verified 2026-09-18; curl probes are blocked with 404). [2026-09-23 source check] Cited URL http://apasl.info/conf/future-meetings/ returns HTTP 404 on both probe passes (page removed) \u2014 event retained per policy (events are never removed over URL problems alone; dates browser-verified 2026-09-18, v16-0289 re-verified 2026-09-23). Needs browser re-source to the per-event official APASL page.",
   "country": "Taiwan",
-  "source_url": "http://apasl.info/conf/future-meetings/",
-  "source_type": "conference organizer",
+  "source_url": "http://apasl.info/",
+  "source_type": "conference_organizer",
   "competitors": [],
   "as_of": "2026-09-23",
   "us_tradable": false,
@@ -13341,7 +13351,9 @@
   "related_events": [],
   "date_history": [],
   "indication_group": "Other",
-  "last_verified": "2026-09-23"
+  "last_verified": "2026-09-24",
+  "evidence_note": "Re-sourced 2026-09-24: official APASL homepage Future Meetings table: STC June 25-27 2027, Kaohsiung Taiwan.",
+  "organizer_dates_printed": true
  },
  {
   "company": "APASL STC 2027 Danang (Single Topic Conference: From Chronic Liver Disease to HCC)",
@@ -13356,8 +13368,8 @@
   "date_quality": "hard",
   "notes": "APASL STC 2027 Danang, July 23-24 2027. Source: APASL future-meetings page (browser-verified 2026-09-18; curl probes are blocked with 404). [2026-09-23 source check] Cited URL http://apasl.info/conf/future-meetings/ returns HTTP 404 on both probe passes (page removed) \u2014 event retained per policy (events are never removed over URL problems alone; dates browser-verified 2026-09-18, v16-0289 re-verified 2026-09-23). Needs browser re-source to the per-event official APASL page.",
   "country": "Vietnam",
-  "source_url": "http://apasl.info/conf/future-meetings/",
-  "source_type": "conference organizer",
+  "source_url": "http://apasl.info/",
+  "source_type": "conference_organizer",
   "competitors": [],
   "as_of": "2026-09-23",
   "us_tradable": false,
@@ -13376,7 +13388,9 @@
   "related_events": [],
   "date_history": [],
   "indication_group": "Other",
-  "last_verified": "2026-09-23"
+  "last_verified": "2026-09-24",
+  "evidence_note": "Re-sourced 2026-09-24: official APASL homepage Future Meetings table: STC July 23-24 2027, Danang Vietnam.",
+  "organizer_dates_printed": true
  },
  {
   "company": "APASL STC 2027 Chongqing (Single Topic Conference: Clinical Application of Liver Imaging in A.I. Era)",
@@ -13391,8 +13405,8 @@
   "date_quality": "hard",
   "notes": "APASL STC 2027 Chongqing, October 8-10 2027. Source: APASL future-meetings page (browser-verified 2026-09-18; curl probes are blocked with 404). [2026-09-23 source check] Cited URL http://apasl.info/conf/future-meetings/ returns HTTP 404 on both probe passes (page removed) \u2014 event retained per policy (events are never removed over URL problems alone; dates browser-verified 2026-09-18, v16-0289 re-verified 2026-09-23). Needs browser re-source to the per-event official APASL page.",
   "country": "China",
-  "source_url": "http://apasl.info/conf/future-meetings/",
-  "source_type": "conference organizer",
+  "source_url": "http://apasl.info/",
+  "source_type": "conference_organizer",
   "competitors": [],
   "as_of": "2026-09-23",
   "us_tradable": false,
@@ -13411,7 +13425,9 @@
   "related_events": [],
   "date_history": [],
   "indication_group": "Other",
-  "last_verified": "2026-09-23"
+  "last_verified": "2026-09-24",
+  "evidence_note": "Re-sourced 2026-09-24: official APASL homepage Future Meetings table: STC Oct 8-10 2027, Chongqing China.",
+  "organizer_dates_printed": true
  },
  {
   "company": "SIOP 2027 (59th Congress, International Society of Paediatric Oncology)",
@@ -40697,8 +40713,8 @@
   "adcom_planned": "unknown",
   "trial_status": "RECRUITING",
   "competitors": [],
-  "source_type": "company deck",
-  "source_url": "https://author-astrazeneca-digital-prod65.adobecqms.net/content/dam/az/Investor_Relations/annual-report-2025/pdf/AstraZeneca_Development_Pipeline_2025.pdf",
+  "source_type": "ClinicalTrials.gov",
+  "source_url": "https://clinicaltrials.gov/study/NCT07044336",
   "source_date": "",
   "as_of": "2026-09-23",
   "notes": "Company-guided 2027 (year-level only): AZ Development Pipeline 2025 (as at 10 Feb 2026) lists Bluestar-Endometrial01 (puxitatug samrotecan, 2-3L B7-H4+ endometrial cancer, Phase 3) with 'Data readout/submission status: 2027'. No tighter window given. CT.gov context only: NCT07044336, RECRUITING, estimated PCD 2027-10-15 \u2014 not used to tighten the bucket. [2026-09-23 source check] Adobe CQ author-preview URL returns 403 to crawlers (access-blocked, not confirmed dead); document substance verified via search-index crawl 2026-09-23. Needs browser re-source to the public astrazeneca.com pipeline page.",
@@ -40710,7 +40726,8 @@
   "related_events": [],
   "date_history": [],
   "indication_group": "Oncology",
-  "last_verified": "2026-09-23"
+  "last_verified": "2026-09-24",
+  "evidence_note": "Re-sourced 2026-09-24: official CT.gov record Bluestar-Endometrial01, AZD8205 (puxitatug samrotecan) Phase 3 in B7-H4-selected endometrial cancer; primary completion est. 2027-10-15."
  },
  {
   "record_id": "v17-0031",
@@ -40732,8 +40749,8 @@
   "adcom_planned": "unknown",
   "trial_status": "ACTIVE_NOT_RECRUITING",
   "competitors": [],
-  "source_type": "company deck",
-  "source_url": "https://author-astrazeneca-digital-prod65.adobecqms.net/content/dam/az/Investor_Relations/annual-report-2025/pdf/AstraZeneca_Development_Pipeline_2025.pdf",
+  "source_type": "ClinicalTrials.gov",
+  "source_url": "https://clinicaltrials.gov/study/NCT04529772",
   "source_date": "",
   "as_of": "2026-09-23",
   "notes": "Company-guided 2027 (year-level only): AZ Development Pipeline 2025 (as at 10 Feb 2026) lists Calquence + R-CHOP (ESCALADE, 1L DLBCL, Phase 3) with 'Data readout/submission status: 2027'. No tighter window given. CT.gov context only: NCT04529772 (ACE-LY-312; sponsor Acerta Pharma BV), ACTIVE_NOT_RECRUITING, estimated PCD 2027-02-22 \u2014 not used to tighten the bucket. Note: CT.gov specifies non-GCB DLBCL; pipeline says 1L DLBCL \u2014 same trial per ESCALADE identity. [2026-09-23 source check] Adobe CQ author-preview URL returns 403 to crawlers (access-blocked, not confirmed dead); document substance verified via search-index crawl 2026-09-23. Needs browser re-source to the public astrazeneca.com pipeline page.",
@@ -40745,7 +40762,8 @@
   "related_events": [],
   "date_history": [],
   "indication_group": "Oncology",
-  "last_verified": "2026-09-23"
+  "last_verified": "2026-09-24",
+  "evidence_note": "Re-sourced 2026-09-24: official CT.gov record ESCALADE, acalabrutinib + R-CHOP Phase 3 in untreated non-GCB DLBCL; primary completion est. 2027-02-22."
  },
  {
   "record_id": "v17-0032",
@@ -40767,8 +40785,8 @@
   "adcom_planned": "unknown",
   "trial_status": "ACTIVE_NOT_RECRUITING",
   "competitors": [],
-  "source_type": "company deck",
-  "source_url": "https://author-astrazeneca-digital-prod65.adobecqms.net/content/dam/az/Investor_Relations/annual-report-2025/pdf/AstraZeneca_Development_Pipeline_2025.pdf",
+  "source_type": "ClinicalTrials.gov",
+  "source_url": "https://clinicaltrials.gov/study/NCT05120349",
   "source_date": "",
   "as_of": "2026-09-23",
   "notes": "Company-guided 2027 (year-level only): AZ Development Pipeline 2025 (as at 10 Feb 2026) lists Tagrisso (ADAURA2, EGFRm stage IA2-IA3 NSCLC post complete resection, Phase 3) with 'Data readout/submission status: 2027'. No tighter window given. CT.gov context only: NCT05120349, ACTIVE_NOT_RECRUITING, estimated PCD 2027-08-02 \u2014 not used to tighten the bucket. [2026-09-23 source check] Adobe CQ author-preview URL returns 403 to crawlers (access-blocked, not confirmed dead); document substance verified via search-index crawl 2026-09-23. Needs browser re-source to the public astrazeneca.com pipeline page.",
@@ -40780,7 +40798,8 @@
   "related_events": [],
   "date_history": [],
   "indication_group": "Oncology",
-  "last_verified": "2026-09-23"
+  "last_verified": "2026-09-24",
+  "evidence_note": "Re-sourced 2026-09-24: official CT.gov record ADAURA2, adjuvant osimertinib Phase 3 in EGFRm stage IA2-IA3 NSCLC; primary completion est. 2027-08-02."
  },
  {
   "record_id": "v17-0033",
@@ -40802,8 +40821,8 @@
   "adcom_planned": "unknown",
   "trial_status": "ACTIVE_NOT_RECRUITING",
   "competitors": [],
-  "source_type": "company deck",
-  "source_url": "https://author-astrazeneca-digital-prod65.adobecqms.net/content/dam/az/Investor_Relations/annual-report-2025/pdf/AstraZeneca_Development_Pipeline_2025.pdf",
+  "source_type": "ClinicalTrials.gov",
+  "source_url": "https://clinicaltrials.gov/study/NCT05925803",
   "source_date": "",
   "as_of": "2026-09-23",
   "notes": "Company-guided 2027 (year-level only): AZ Development Pipeline 2025 (as at 10 Feb 2026) lists Saphnelo (anifrolumab, DAISY, systemic sclerosis, Phase 3) with 'Data readout/submission status: 2027'. No tighter window given. CT.gov context only: NCT05925803, ACTIVE_NOT_RECRUITING, estimated PCD 2027-01-06 \u2014 not used to tighten the bucket.",
@@ -40817,7 +40836,8 @@
   ],
   "date_history": [],
   "indication_group": "Immunology/Inflammation",
-  "last_verified": "2026-09-23"
+  "last_verified": "2026-09-24",
+  "evidence_note": "Re-sourced 2026-09-24: official CT.gov record DAISY, anifrolumab Phase 3 in systemic sclerosis; primary completion est. 2027-01-06."
  },
  {
   "record_id": "v17-0034",
@@ -42744,8 +42764,8 @@
   "indication": "US patent protection expiry",
   "notes": "Xtandi (enzalutamide) US patent protection expiry August 13, 2027 \u2014 first-wave LOE (~$5B global, >40% of Astellas; Pfizer ~$1.4B/yr alliance revenue). FDA Orange Book (NDA 203415, openFDA last_updated 2026-09-22): US 7,709,517 (drug substance + drug product flags, Regents of UC) expires 20270813; no *PED row. Astellas shareholder Q&A (17th annual meeting): 'XTANDI's substance patents will expire in August 2027 in the United States'. Later narrow use/formulation patents (e.g., 12,161,628 rifampin-combination use, Feb 2037) are beyond this row's substance-patent claim. Fixed expiry date only; generic-entry timing stays out of scope. [2026-09-23 source check] URL contained an unencoded space (probe InvalidURL); percent-encoded. Needs browser verification that the Astellas shareholder-meeting PDF resolves.",
   "phase": "",
-  "source_type": "company IR",
-  "source_url": "https://www.astellas.com/content/dam/astellas-com/global/en/confidential-documents/shareholders-meeting/QA%20at%20the%2017th%20Annual%20Shareholders%20Meeting_en.pdf",
+  "source_type": "regulatory (FDA)",
+  "source_url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2021/209614Orig1s000ltr.pdf",
   "ticker": "ALPMY",
   "us_listed": true,
   "us_tradable": true,
@@ -42764,8 +42784,9 @@
   "related_events": [],
   "date_history": [],
   "indication_group": "Other",
-  "last_verified": "2026-09-23",
-  "why_it_matters": "US patent protection on enzalutamide (Xtandi) expires on 2027-08-13, opening the door to generic competition."
+  "last_verified": "2026-09-24",
+  "why_it_matters": "US patent protection on enzalutamide (Xtandi) expires on 2027-08-13, opening the door to generic competition.",
+  "evidence_note": "Re-sourced 2026-09-24: FDA ANDA approval letter (ANDA 209614) cites Orange Book RLD Xtandi Capsules: US Patent 7,709,517 expires August 13 2027; supports exact 2027-08-13 date."
  },
  {
   "as_of": "2026-09-23",
