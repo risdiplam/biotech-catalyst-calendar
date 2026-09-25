@@ -3189,7 +3189,7 @@
    "NBIX (crinecerfont/Crenessity)",
    "Spruce Biosciences (tildacerfont)"
   ],
-  "source_url": "https://clinicaltrials.gov/api/v2/studies/NCT07144163",
+  "source_url": "https://clinicaltrials.gov/study/NCT07144163",
   "source_type": "clinicaltrials.gov",
   "as_of": "2026-09-23",
   "notes": "CT.gov: Phase 3 CALM-CAH est. primary completion May 2027 (N=150, 32-wk treatment); topline typically follows within months; no company 2027 readout guidance found. Crinetics acquired by Vertex; deal closed before market open 2026-09-01; program now under VRTX.",
@@ -3209,7 +3209,8 @@
   "related_events": [],
   "date_history": [],
   "indication_group": "Metabolic/Obesity/Diabetes",
-  "last_verified": "2026-09-24"
+  "last_verified": "2026-09-24",
+  "evidence_note": "Link corrected 2026-09-24: was a clinicaltrials.gov API-endpoint URL (raw JSON), now the human-readable study page for the same NCT record."
  },
  {
   "ticker": "VRTX",
@@ -3228,7 +3229,7 @@
    "IPSEY (lanreotide)",
    "LXRX (telotristat)"
   ],
-  "source_url": "https://clinicaltrials.gov/api/v2/studies/NCT07087054",
+  "source_url": "https://clinicaltrials.gov/study/NCT07087054",
   "source_type": "clinicaltrials.gov",
   "as_of": "2026-09-23",
   "notes": "CT.gov: Phase 3 CAREFNDR est. primary completion Aug 2027 (16-wk blinded period, 104-wk extension); topline may fall Q4 2027 or early 2028. Crinetics acquired by Vertex; deal closed before market open 2026-09-01; program now under VRTX.",
@@ -3248,7 +3249,8 @@
   "related_events": [],
   "date_history": [],
   "indication_group": "Oncology",
-  "last_verified": "2026-09-24"
+  "last_verified": "2026-09-24",
+  "evidence_note": "Link corrected 2026-09-24: was a clinicaltrials.gov API-endpoint URL (raw JSON), now the human-readable study page for the same NCT record."
  },
  {
   "ticker": "CYTK",
@@ -5377,7 +5379,7 @@
    "BMY (Cobenfy)",
    "ABBV (emraclidine, discontinued)"
   ],
-  "source_url": "https://clinicaltrials.gov/api/v2/studies/NCT07105098",
+  "source_url": "https://clinicaltrials.gov/study/NCT07105098",
   "source_type": "clinicaltrials.gov",
   "as_of": "2026-09-18",
   "notes": "Inferred from registry PCD Nov 2027 (NCT07105098); second pivotal Ph3; company guides first readout H2 2027.",
@@ -5399,7 +5401,8 @@
   ],
   "date_history": [],
   "indication_group": "Psychiatry",
-  "last_verified": "2026-09-23"
+  "last_verified": "2026-09-24",
+  "evidence_note": "Link corrected 2026-09-24: was a clinicaltrials.gov API-endpoint URL (raw JSON), now the human-readable study page for the same NCT record."
  },
  {
   "ticker": "NVO",
@@ -5454,7 +5457,7 @@
   "competitors": [
    "LLY (tirzepatide)"
   ],
-  "source_url": "https://clinicaltrials.gov/api/v2/studies/NCT07817251",
+  "source_url": "https://clinicaltrials.gov/study/NCT07817251",
   "source_type": "clinicaltrials.gov",
   "as_of": "2026-09-18",
   "notes": "Inferred from registry PCD 2027-06-09 (NCT07817251; not yet recruiting Sep 2026); switch tolerability study.",
@@ -5480,7 +5483,8 @@
   ],
   "date_history": [],
   "indication_group": "Metabolic/Obesity/Diabetes",
-  "last_verified": "2026-09-24"
+  "last_verified": "2026-09-24",
+  "evidence_note": "Link corrected 2026-09-24: was a clinicaltrials.gov API-endpoint URL (raw JSON), now the human-readable study page for the same NCT record."
  },
  {
   "ticker": "NVO",
@@ -5585,7 +5589,7 @@
    "LLY (retatrutide)",
    "Zealand/Roche (petrelintide)"
   ],
-  "source_url": "https://clinicaltrials.gov/api/v2/studies/NCT07220642",
+  "source_url": "https://clinicaltrials.gov/study/NCT07220642",
   "source_type": "clinicaltrials.gov",
   "as_of": "2026-09-18",
   "notes": "Inferred from registry PCD 2027-05-11 (NCT07220642); dedicated cagrilintide monotherapy Ph3 (RENEW, started Q4 2025).",
@@ -5611,7 +5615,8 @@
   ],
   "date_history": [],
   "indication_group": "Metabolic/Obesity/Diabetes",
-  "last_verified": "2026-09-24"
+  "last_verified": "2026-09-24",
+  "evidence_note": "Link corrected 2026-09-24: was a clinicaltrials.gov API-endpoint URL (raw JSON), now the human-readable study page for the same NCT record."
  },
  {
   "ticker": "NVO",
@@ -5629,7 +5634,7 @@
    "LLY (retatrutide)",
    "Zealand/Roche (petrelintide)"
   ],
-  "source_url": "https://clinicaltrials.gov/api/v2/studies/NCT07220759",
+  "source_url": "https://clinicaltrials.gov/study/NCT07220759",
   "source_type": "clinicaltrials.gov",
   "as_of": "2026-09-18",
   "notes": "Inferred from registry PCD 2027-05-12 (NCT07220759); cagrilintide monotherapy Ph3 in T2D population.",
@@ -5654,7 +5659,8 @@
   ],
   "date_history": [],
   "indication_group": "Metabolic/Obesity/Diabetes",
-  "last_verified": "2026-09-24"
+  "last_verified": "2026-09-24",
+  "evidence_note": "Link corrected 2026-09-24: was a clinicaltrials.gov API-endpoint URL (raw JSON), now the human-readable study page for the same NCT record."
  },
  {
   "ticker": "NVO",
@@ -5672,7 +5678,7 @@
    "LLY (retatrutide)",
    "Zealand/Roche (petrelintide)"
   ],
-  "source_url": "https://clinicaltrials.gov/api/v2/studies/NCT07745504",
+  "source_url": "https://clinicaltrials.gov/study/NCT07745504",
   "source_type": "clinicaltrials.gov",
   "as_of": "2026-09-18",
   "notes": "Inferred from registry PCD 2027-05-18 (NCT07745504); placebo-controlled comparability of two cagrilintide presentations.",
@@ -5695,7 +5701,8 @@
   ],
   "date_history": [],
   "indication_group": "Metabolic/Obesity/Diabetes",
-  "last_verified": "2026-09-24"
+  "last_verified": "2026-09-24",
+  "evidence_note": "Link corrected 2026-09-24: was a clinicaltrials.gov API-endpoint URL (raw JSON), now the human-readable study page for the same NCT record."
  },
  {
   "ticker": "NVO",
@@ -5712,7 +5719,7 @@
   "competitors": [
    "LLY (efsitora alfa, weekly insulin)"
   ],
-  "source_url": "https://clinicaltrials.gov/api/v2/studies/NCT07076199",
+  "source_url": "https://clinicaltrials.gov/study/NCT07076199",
   "source_type": "clinicaltrials.gov",
   "as_of": "2026-09-18",
   "notes": "Inferred from registry PCD 2027-01-25 (NCT07076199); 26-wk Ph3 weekly icodec vs daily glargine in T1D.",
@@ -5732,7 +5739,8 @@
   "related_events": [],
   "date_history": [],
   "indication_group": "Metabolic/Obesity/Diabetes",
-  "last_verified": "2026-09-24"
+  "last_verified": "2026-09-24",
+  "evidence_note": "Link corrected 2026-09-24: was a clinicaltrials.gov API-endpoint URL (raw JSON), now the human-readable study page for the same NCT record."
  },
  {
   "ticker": "NVO",
@@ -5750,7 +5758,7 @@
    "REGN (Eylea)",
    "Roche (Vabysmo)"
   ],
-  "source_url": "https://clinicaltrials.gov/api/v2/studies/NCT03811561",
+  "source_url": "https://clinicaltrials.gov/study/NCT03811561",
   "source_type": "clinicaltrials.gov",
   "as_of": "2026-09-18",
   "notes": "Inferred from registry PCD 2027-11-07 (NCT03811561); long-term Ph3 of semaglutide effects on diabetic eye disease.",
@@ -5770,7 +5778,8 @@
   "related_events": [],
   "date_history": [],
   "indication_group": "Metabolic/Obesity/Diabetes",
-  "last_verified": "2026-09-24"
+  "last_verified": "2026-09-24",
+  "evidence_note": "Link corrected 2026-09-24: was a clinicaltrials.gov API-endpoint URL (raw JSON), now the human-readable study page for the same NCT record."
  },
  {
   "ticker": "NVS",
@@ -6126,7 +6135,7 @@
    "ABBV (venetoclax)",
    "BEIG (Brukinsa)"
   ],
-  "source_url": "https://clinicaltrials.gov/api/v2/studies/NCT05624554",
+  "source_url": "https://clinicaltrials.gov/study/NCT05624554",
   "source_type": "clinicaltrials.gov",
   "as_of": "2026-09-18",
   "notes": "Inferred from registry PCD 2027-05-19 (NCT05624554). Non-covalent BTK inhibitor vs chemoimmunotherapy.",
@@ -6146,7 +6155,8 @@
   "related_events": [],
   "date_history": [],
   "indication_group": "Oncology",
-  "last_verified": "2026-09-24"
+  "last_verified": "2026-09-24",
+  "evidence_note": "Link corrected 2026-09-24: was a clinicaltrials.gov API-endpoint URL (raw JSON), now the human-readable study page for the same NCT record."
  },
  {
   "ticker": "MRK",
@@ -6164,7 +6174,7 @@
    "GSK (flu vaccines)",
    "SNY (flu vaccines)"
   ],
-  "source_url": "https://clinicaltrials.gov/api/v2/studies/NCT07159763",
+  "source_url": "https://clinicaltrials.gov/study/NCT07159763",
   "source_type": "clinicaltrials.gov",
   "as_of": "2026-09-18",
   "notes": "Inferred from registry PCD 2027-06-30 (NCT07159763). Drug-Fc conjugate; sponsor Cidara Therapeutics (Merck subsidiary).",
@@ -6184,7 +6194,8 @@
   "related_events": [],
   "date_history": [],
   "indication_group": "Infectious Disease",
-  "last_verified": "2026-09-24"
+  "last_verified": "2026-09-24",
+  "evidence_note": "Link corrected 2026-09-24: was a clinicaltrials.gov API-endpoint URL (raw JSON), now the human-readable study page for the same NCT record."
  },
  {
   "ticker": "MRK",
@@ -6202,7 +6213,7 @@
    "GILD (Yeztugo/lenacapavir)",
    "GSK/ViiV (Apretude)"
   ],
-  "source_url": "https://clinicaltrials.gov/api/v2/studies/NCT07044297",
+  "source_url": "https://clinicaltrials.gov/study/NCT07044297",
   "source_type": "clinicaltrials.gov",
   "as_of": "2026-09-18",
   "notes": "Inferred from registry PCD 2027-07-22 (NCT07044297). Oral monthly PrEP.",
@@ -6224,7 +6235,8 @@
   ],
   "date_history": [],
   "indication_group": "Infectious Disease",
-  "last_verified": "2026-09-24"
+  "last_verified": "2026-09-24",
+  "evidence_note": "Link corrected 2026-09-24: was a clinicaltrials.gov API-endpoint URL (raw JSON), now the human-readable study page for the same NCT record."
  },
  {
   "ticker": "MRK",
@@ -6242,7 +6254,7 @@
    "INCY (Jakafi)",
    "PharmaEssentia (Besremi)"
   ],
-  "source_url": "https://clinicaltrials.gov/api/v2/studies/NCT06079879",
+  "source_url": "https://clinicaltrials.gov/study/NCT06079879",
   "source_type": "clinicaltrials.gov",
   "as_of": "2026-09-18",
   "notes": "Inferred from registry PCD 2027-07-30 (NCT06079879). LSD1 inhibitor vs best available therapy.",
@@ -6264,7 +6276,8 @@
   ],
   "date_history": [],
   "indication_group": "Oncology",
-  "last_verified": "2026-09-24"
+  "last_verified": "2026-09-24",
+  "evidence_note": "Link corrected 2026-09-24: was a clinicaltrials.gov API-endpoint URL (raw JSON), now the human-readable study page for the same NCT record."
  },
  {
   "ticker": "MRK",
@@ -6282,7 +6295,7 @@
    "GILD (Yeztugo/lenacapavir)",
    "GSK/ViiV (Apretude)"
   ],
-  "source_url": "https://clinicaltrials.gov/api/v2/studies/NCT07071623",
+  "source_url": "https://clinicaltrials.gov/study/NCT07071623",
   "source_type": "clinicaltrials.gov",
   "as_of": "2026-09-18",
   "notes": "Inferred from registry PCD 2027-10-18 (NCT07071623). Oral monthly PrEP.",
@@ -6304,7 +6317,8 @@
   ],
   "date_history": [],
   "indication_group": "Infectious Disease",
-  "last_verified": "2026-09-24"
+  "last_verified": "2026-09-24",
+  "evidence_note": "Link corrected 2026-09-24: was a clinicaltrials.gov API-endpoint URL (raw JSON), now the human-readable study page for the same NCT record."
  },
  {
   "ticker": "MRK",
@@ -6322,7 +6336,7 @@
    "GILD (Trodelvy)",
    "AZN/Daiichi (Dato-DXd)"
   ],
-  "source_url": "https://clinicaltrials.gov/api/v2/studies/NCT05609968",
+  "source_url": "https://clinicaltrials.gov/study/NCT05609968",
   "source_type": "clinicaltrials.gov",
   "as_of": "2026-09-18",
   "notes": "Inferred from registry PCD 2027-01-12 (NCT05609968). Merck-sponsored active-comparator Ph3.",
@@ -6347,7 +6361,8 @@
   ],
   "date_history": [],
   "indication_group": "Oncology",
-  "last_verified": "2026-09-24"
+  "last_verified": "2026-09-24",
+  "evidence_note": "Link corrected 2026-09-24: was a clinicaltrials.gov API-endpoint URL (raw JSON), now the human-readable study page for the same NCT record."
  },
  {
   "ticker": "MRK",
@@ -6365,7 +6380,7 @@
    "Eisai (Dayvigo)",
    "Idorsia (Quviviq)"
   ],
-  "source_url": "https://clinicaltrials.gov/api/v2/studies/NCT06655883",
+  "source_url": "https://clinicaltrials.gov/study/NCT06655883",
   "source_type": "clinicaltrials.gov",
   "as_of": "2026-09-18",
   "notes": "Inferred from registry PCD 2027-06-24 (NCT06655883). Lifecycle Ph3 of approved orexin antagonist.",
@@ -6385,7 +6400,8 @@
   "related_events": [],
   "date_history": [],
   "indication_group": "Neurology",
-  "last_verified": "2026-09-24"
+  "last_verified": "2026-09-24",
+  "evidence_note": "Link corrected 2026-09-24: was a clinicaltrials.gov API-endpoint URL (raw JSON), now the human-readable study page for the same NCT record."
  },
  {
   "ticker": "MRK",
@@ -6403,7 +6419,7 @@
    "GSK (Jemperli)",
    "AZN (Imfinzi)"
   ],
-  "source_url": "https://clinicaltrials.gov/api/v2/studies/NCT05173987",
+  "source_url": "https://clinicaltrials.gov/study/NCT05173987",
   "source_type": "clinicaltrials.gov",
   "as_of": "2026-09-18",
   "notes": "Inferred from registry PCD 2027-05-27 (NCT05173987).",
@@ -6428,7 +6444,8 @@
   ],
   "date_history": [],
   "indication_group": "Oncology",
-  "last_verified": "2026-09-24"
+  "last_verified": "2026-09-24",
+  "evidence_note": "Link corrected 2026-09-24: was a clinicaltrials.gov API-endpoint URL (raw JSON), now the human-readable study page for the same NCT record."
  },
  {
   "ticker": "MRK",
@@ -6445,7 +6462,7 @@
   "competitors": [
    "GSK (Cervarix)"
   ],
-  "source_url": "https://clinicaltrials.gov/api/v2/studies/NCT04199689",
+  "source_url": "https://clinicaltrials.gov/study/NCT04199689",
   "source_type": "clinicaltrials.gov",
   "as_of": "2026-09-18",
   "notes": "Inferred from registry PCD 2027-08-27 (NCT04199689). Efficacy against oral persistent infection; vaccine lifecycle Ph3.",
@@ -6465,7 +6482,8 @@
   "related_events": [],
   "date_history": [],
   "indication_group": "Oncology",
-  "last_verified": "2026-09-24"
+  "last_verified": "2026-09-24",
+  "evidence_note": "Link corrected 2026-09-24: was a clinicaltrials.gov API-endpoint URL (raw JSON), now the human-readable study page for the same NCT record."
  },
  {
   "ticker": "MRK",
@@ -6484,7 +6502,7 @@
    "REGN (Praluent)",
    "NVS (Leqvio)"
   ],
-  "source_url": "https://clinicaltrials.gov/api/v2/studies/NCT07821944",
+  "source_url": "https://clinicaltrials.gov/study/NCT07821944",
   "source_type": "clinicaltrials.gov",
   "as_of": "2026-09-18",
   "notes": "Inferred from registry PCD 2027-11-26 (NCT07821944). Oral PCSK9 inhibitor; trial NOT_YET_RECRUITING Sep 2026 \u2014 2027 readout uncertain.",
@@ -6504,7 +6522,8 @@
   "related_events": [],
   "date_history": [],
   "indication_group": "Cardiology",
-  "last_verified": "2026-09-24"
+  "last_verified": "2026-09-24",
+  "evidence_note": "Link corrected 2026-09-24: was a clinicaltrials.gov API-endpoint URL (raw JSON), now the human-readable study page for the same NCT record."
  },
  {
   "ticker": "MRK",
@@ -6522,7 +6541,7 @@
    "AZN (Imfinzi)",
    "Roche (Tecentriq)"
   ],
-  "source_url": "https://clinicaltrials.gov/api/v2/studies/NCT04624204",
+  "source_url": "https://clinicaltrials.gov/study/NCT04624204",
   "source_type": "clinicaltrials.gov",
   "as_of": "2026-09-18",
   "notes": "Inferred from registry PCD 2027-10-28 (NCT04624204). Placebo-controlled Ph3 with chemoradiation.",
@@ -6547,7 +6566,8 @@
   ],
   "date_history": [],
   "indication_group": "Oncology",
-  "last_verified": "2026-09-24"
+  "last_verified": "2026-09-24",
+  "evidence_note": "Link corrected 2026-09-24: was a clinicaltrials.gov API-endpoint URL (raw JSON), now the human-readable study page for the same NCT record."
  },
  {
   "ticker": "MRK",
@@ -6565,7 +6585,7 @@
    "PFE (Padcev)",
    "AZN (Imfinzi)"
   ],
-  "source_url": "https://clinicaltrials.gov/api/v2/studies/NCT04241185",
+  "source_url": "https://clinicaltrials.gov/study/NCT04241185",
   "source_type": "clinicaltrials.gov",
   "as_of": "2026-09-18",
   "notes": "Inferred from registry PCD 2027-01-31 (NCT04241185). Pembro + bladder radiotherapy vs radiotherapy arms.",
@@ -6590,7 +6610,8 @@
   ],
   "date_history": [],
   "indication_group": "Oncology",
-  "last_verified": "2026-09-24"
+  "last_verified": "2026-09-24",
+  "evidence_note": "Link corrected 2026-09-24: was a clinicaltrials.gov API-endpoint URL (raw JSON), now the human-readable study page for the same NCT record."
  },
  {
   "ticker": "MRK",
@@ -6608,7 +6629,7 @@
    "INCY (Jakafi)",
    "PharmaEssentia (Besremi)"
   ],
-  "source_url": "https://clinicaltrials.gov/api/v2/studies/NCT06456346",
+  "source_url": "https://clinicaltrials.gov/study/NCT06456346",
   "source_type": "clinicaltrials.gov",
   "as_of": "2026-09-18",
   "notes": "Inferred from registry PCD 2027-09-28 (NCT06456346). LSD1 inhibitor vs hydroxyurea; second Ph3 ET study in 2027.",
@@ -6630,7 +6651,8 @@
   ],
   "date_history": [],
   "indication_group": "Oncology",
-  "last_verified": "2026-09-24"
+  "last_verified": "2026-09-24",
+  "evidence_note": "Link corrected 2026-09-24: was a clinicaltrials.gov API-endpoint URL (raw JSON), now the human-readable study page for the same NCT record."
  },
  {
   "ticker": "MRK",
@@ -6648,7 +6670,7 @@
    "GILD (Trodelvy)",
    "AZN (Dato-DXd)"
   ],
-  "source_url": "https://clinicaltrials.gov/api/v2/studies/NCT06074588",
+  "source_url": "https://clinicaltrials.gov/study/NCT06074588",
   "source_type": "clinicaltrials.gov",
   "as_of": "2026-09-18",
   "notes": "Inferred from registry PCD 2027-05-10 (NCT06074588). TROP2 ADC Ph3.",
@@ -6671,7 +6693,8 @@
   ],
   "date_history": [],
   "indication_group": "Oncology",
-  "last_verified": "2026-09-24"
+  "last_verified": "2026-09-24",
+  "evidence_note": "Link corrected 2026-09-24: was a clinicaltrials.gov API-endpoint URL (raw JSON), now the human-readable study page for the same NCT record."
  },
  {
   "ticker": "MRK",
@@ -6689,7 +6712,7 @@
    "GILD (Trodelvy)",
    "AZN (Dato-DXd)"
   ],
-  "source_url": "https://clinicaltrials.gov/api/v2/studies/NCT06312176",
+  "source_url": "https://clinicaltrials.gov/study/NCT06312176",
   "source_type": "clinicaltrials.gov",
   "as_of": "2026-09-18",
   "notes": "Inferred from registry PCD 2027-07-11 (NCT06312176). TROP2 ADC Ph3 vs chemo.",
@@ -6712,7 +6735,8 @@
   ],
   "date_history": [],
   "indication_group": "Oncology",
-  "last_verified": "2026-09-24"
+  "last_verified": "2026-09-24",
+  "evidence_note": "Link corrected 2026-09-24: was a clinicaltrials.gov API-endpoint URL (raw JSON), now the human-readable study page for the same NCT record."
  },
  {
   "ticker": "MRK",
@@ -6729,7 +6753,7 @@
   "competitors": [
    "AZN (Lynparza)"
   ],
-  "source_url": "https://clinicaltrials.gov/api/v2/studies/NCT04380636",
+  "source_url": "https://clinicaltrials.gov/study/NCT04380636",
   "source_type": "clinicaltrials.gov",
   "as_of": "2026-09-18",
   "notes": "Inferred from registry PCD 2027-05-05 (NCT04380636). Pembro + olaparib/placebo with chemoradiation.",
@@ -6754,7 +6778,8 @@
   ],
   "date_history": [],
   "indication_group": "Oncology",
-  "last_verified": "2026-09-24"
+  "last_verified": "2026-09-24",
+  "evidence_note": "Link corrected 2026-09-24: was a clinicaltrials.gov API-endpoint URL (raw JSON), now the human-readable study page for the same NCT record."
  },
  {
   "ticker": "MRK",
@@ -6772,7 +6797,7 @@
    "AZN/Daiichi (Enhertu)",
    "Astellas (Vyloy)"
   ],
-  "source_url": "https://clinicaltrials.gov/api/v2/studies/NCT06356311",
+  "source_url": "https://clinicaltrials.gov/study/NCT06356311",
   "source_type": "clinicaltrials.gov",
   "as_of": "2026-09-18",
   "notes": "Inferred from registry PCD 2027-01-04 (NCT06356311). TROP2 ADC Ph3 vs trifluridine-tipiracil/irinotecan/taxane.",
@@ -6795,7 +6820,8 @@
   ],
   "date_history": [],
   "indication_group": "Oncology",
-  "last_verified": "2026-09-24"
+  "last_verified": "2026-09-24",
+  "evidence_note": "Link corrected 2026-09-24: was a clinicaltrials.gov API-endpoint URL (raw JSON), now the human-readable study page for the same NCT record."
  },
  {
   "ticker": "MRNA",
@@ -6889,7 +6915,7 @@
    "GILD (Hepcludex/bulevirtide)",
    "VIR (tobevibart/elebsiran)"
   ],
-  "source_url": "https://clinicaltrials.gov/api/v2/studies/NCT07200908",
+  "source_url": "https://clinicaltrials.gov/study/NCT07200908",
   "source_type": "clinicaltrials.gov",
   "as_of": "2026-09-18",
   "notes": "Inferred from registry PCD 2027-06-30 (NCT07200908); anti-HBsAg mAb Ph3.",
@@ -6913,7 +6939,8 @@
   "date_history": [],
   "indication_group": "Infectious Disease",
   "last_verified": "2026-09-24",
-  "why_it_matters": "Phase 3 data for brelovitug (BJT-778) in chronic hepatitis D, vs bulevirtide is expected in Q2 2027 \u2014 the pivotal readout that determines whether Mirum Pharmaceuticals, Inc. can file for approval."
+  "why_it_matters": "Phase 3 data for brelovitug (BJT-778) in chronic hepatitis D, vs bulevirtide is expected in Q2 2027 \u2014 the pivotal readout that determines whether Mirum Pharmaceuticals, Inc. can file for approval.",
+  "evidence_note": "Link corrected 2026-09-24: was a clinicaltrials.gov API-endpoint URL (raw JSON), now the human-readable study page for the same NCT record."
  },
  {
   "ticker": "MLTX",
@@ -6981,7 +7008,7 @@
    "UCB (Bimzelx)",
    "LLY (Taltz)"
   ],
-  "source_url": "https://clinicaltrials.gov/api/v2/studies/NCT06641089",
+  "source_url": "https://clinicaltrials.gov/study/NCT06641089",
   "source_type": "clinicaltrials.gov",
   "as_of": "2026-09-23",
   "notes": "Inferred from registry PCD 2027-01-15 (NCT06641089). Trial identified as IZAR-2: CT.gov NCT06641089 official title = 4-arm Phase 3 with risankizumab reference arm in anti-TNFa inadequate response (per MoonLake PR). MoonLake Aug 10 2026 guidance: IZAR-2 completes enrollment Q3 2026. Prior 'relationship to IZAR-1 unclear' note resolved.",
@@ -7003,8 +7030,9 @@
   ],
   "date_history": [],
   "indication_group": "Immunology/Inflammation",
-  "last_verified": "2026-09-23",
-  "why_it_matters": "Phase 3 data for sonelokimab in psoriatic arthritis (IZAR-2, 4-arm with risankizumab reference) is expected in Q1 2027 \u2014 the pivotal readout that determines whether MoonLake Immunotherapeutics can file for approval."
+  "last_verified": "2026-09-24",
+  "why_it_matters": "Phase 3 data for sonelokimab in psoriatic arthritis (IZAR-2, 4-arm with risankizumab reference) is expected in Q1 2027 \u2014 the pivotal readout that determines whether MoonLake Immunotherapeutics can file for approval.",
+  "evidence_note": "Link corrected 2026-09-24: was a clinicaltrials.gov API-endpoint URL (raw JSON), now the human-readable study page for the same NCT record."
  },
  {
   "ticker": "MGTX",
@@ -7219,7 +7247,7 @@
    "INCY (Opzelura)",
    "LEO (Anzupgo)"
   ],
-  "source_url": "https://clinicaltrials.gov/api/v2/studies/NCT07265479",
+  "source_url": "https://clinicaltrials.gov/study/NCT07265479",
   "source_type": "clinicaltrials.gov",
   "as_of": "2026-09-18",
   "notes": "Inferred from registry PCD 2027-08 (NCT07265479); Ph3 vs vehicle in AD (approved for plaque psoriasis).",
@@ -7240,7 +7268,8 @@
   "date_history": [],
   "indication_group": "Dermatology",
   "last_verified": "2026-09-24",
-  "why_it_matters": "Phase 3 data for tapinarof cream 1% (VTAMA) in atopic dermatitis is expected in Q3 2027 \u2014 the pivotal readout that determines whether Organon & Co. can file for approval."
+  "why_it_matters": "Phase 3 data for tapinarof cream 1% (VTAMA) in atopic dermatitis is expected in Q3 2027 \u2014 the pivotal readout that determines whether Organon & Co. can file for approval.",
+  "evidence_note": "Link corrected 2026-09-24: was a clinicaltrials.gov API-endpoint URL (raw JSON), now the human-readable study page for the same NCT record."
  },
  {
   "ticker": "NTLA",
@@ -7298,7 +7327,7 @@
    "ALNY (Amvuttra/Onpattro)",
    "IONS/AZN (Wainua)"
   ],
-  "source_url": "https://clinicaltrials.gov/api/v2/studies/NCT06672237",
+  "source_url": "https://clinicaltrials.gov/study/NCT06672237",
   "source_type": "clinicaltrials.gov",
   "as_of": "2026-09-18",
   "notes": "Inferred from registry PCD 2027-07 (NCT06672237); CRISPR-based TTR silencer Ph3.",
@@ -7320,8 +7349,9 @@
   ],
   "date_history": [],
   "indication_group": "Cardiology",
-  "last_verified": "2026-09-23",
-  "why_it_matters": "Phase 3 data for nexiguran ziclumeran (NTLA-2001) in ATTRv polyneuropathy (MAGNITUDE-2) is expected in Q3 2027 \u2014 the pivotal readout that determines whether Intellia Therapeutics, Inc. can file for approval."
+  "last_verified": "2026-09-24",
+  "why_it_matters": "Phase 3 data for nexiguran ziclumeran (NTLA-2001) in ATTRv polyneuropathy (MAGNITUDE-2) is expected in Q3 2027 \u2014 the pivotal readout that determines whether Intellia Therapeutics, Inc. can file for approval.",
+  "evidence_note": "Link corrected 2026-09-24: was a clinicaltrials.gov API-endpoint URL (raw JSON), now the human-readable study page for the same NCT record."
  },
  {
   "ticker": "NTLA",
@@ -7340,7 +7370,7 @@
    "ALNY (Amvuttra)",
    "BBIO (Attruby)"
   ],
-  "source_url": "https://clinicaltrials.gov/api/v2/studies/NCT06128629",
+  "source_url": "https://clinicaltrials.gov/study/NCT06128629",
   "source_type": "clinicaltrials.gov",
   "as_of": "2026-09-18",
   "notes": "Inferred from registry PCD 2027-12 (NCT06128629); event-driven CV outcomes Ph3.",
@@ -7362,8 +7392,9 @@
   ],
   "date_history": [],
   "indication_group": "Cardiology",
-  "last_verified": "2026-09-23",
-  "why_it_matters": "Phase 3 data for nexiguran ziclumeran (NTLA-2001) in ATTR cardiomyopathy (MAGNITUDE) is expected in Q4 2027 \u2014 the pivotal readout that determines whether Intellia Therapeutics, Inc. can file for approval."
+  "last_verified": "2026-09-24",
+  "why_it_matters": "Phase 3 data for nexiguran ziclumeran (NTLA-2001) in ATTR cardiomyopathy (MAGNITUDE) is expected in Q4 2027 \u2014 the pivotal readout that determines whether Intellia Therapeutics, Inc. can file for approval.",
+  "evidence_note": "Link corrected 2026-09-24: was a clinicaltrials.gov API-endpoint URL (raw JSON), now the human-readable study page for the same NCT record."
  },
  {
   "as_of": "2026-09-24",
@@ -24912,7 +24943,7 @@
   "notes": "ENABLE Phase 1a/1b trial NCT05304377 estimated primary completion Dec 2027; readout window inferred from registry PCD (History of Changes not inspected, CT.gov API unavailable).",
   "phase": "1",
   "source_type": "clinicaltrials.gov",
-  "source_url": "https://classic.clinicaltrials.gov/ct2/keydates/NCT05304377",
+  "source_url": "https://clinicaltrials.gov/study/NCT05304377",
   "ticker": "ELVN",
   "us_listed": true,
   "us_tradable": true,
@@ -24931,7 +24962,8 @@
   "related_events": [],
   "date_history": [],
   "indication_group": "Oncology",
-  "last_verified": "2026-09-24"
+  "last_verified": "2026-09-24",
+  "evidence_note": "Link corrected 2026-09-24: was a clinicaltrials.gov API-endpoint URL (raw JSON), now the human-readable study page for the same NCT record."
  },
  {
   "as_of": "2026-09-18",
