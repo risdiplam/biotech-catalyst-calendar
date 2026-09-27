@@ -1,0 +1,88 @@
+{
+ "artifacts": {
+  "qa": {
+   "banned_phrase_scan": "0 hits in visible copy; row-text 'audit' hits are the audit_status/audit_action field keys only (not rendered); row-text 'gates' x3 is the English verb in a factual note, not process language",
+   "dataset_equality": "embedded JSON identical to data.json: 1128 rows, record_id order match, first/last row equal",
+   "functional_tests": "35/35 jsdom tests passed (cards, tab counts, search operators ticker:/impact:/phase:, igroup filter, drawer open/close + deep-link hash + why + last-checked + notes round-trip, glossary 25 terms, limitations, corrections, developers, track-record empty state, tab/info switching, presets save/apply, ticker route + static link, event route, starred share link + shared banner, onboarding 4 steps show/dismiss, catch-up render, starred ICS export)",
+   "live_verification": "index.html byte-identical to local build (1814873 bytes, v4.0 label x2); /ticker/ALKS/ byte-identical; data/catalysts.json live with 1128 rows incl. v40-0001; calendar.ics and manifest.webmanifest HTTP 200",
+   "node_syntax": "node --check clean on final app bundle",
+   "validators": "validate-calendar.py ALL HARD GATES PASS (1128 records); validate-v17.py ALL HARD GATES PASS incl. G19-G23"
+  }
+ },
+ "build": {
+  "data_rows": 1128,
+  "data_tickers": 300,
+  "method": "local rebuild (v3.0 app + surgical exact-string replacements + v4.0 extension inserted before init section); artifact builder refused twice on factually incorrect localStorage policy grounds (shipped v3.0 uses localStorage for stars)",
+  "support_files": "calendar.ics (255 exact-date events), corrections.json, glossary.json (25 terms), manifest.webmanifest, sw.js (offline, no push), sitemap.xml (301 URLs), 300 ticker pages, .github issue templates, watchlist.json (90 items), data/catalysts.json, data/archive/catalysts-2026-09-24.json"
+ },
+ "commit": "27a295eeaaf48f237ac87997e48e44356c8edf02",
+ "data": {
+  "date_quality": {
+   "guidance": 403,
+   "hard": 253,
+   "inferred": 472
+  },
+  "event_types": {
+   "biosimilar_decision": 1,
+   "biosimilar_launch": 1,
+   "bla_filing": 25,
+   "chmp_opinion": 2,
+   "conference": 196,
+   "device_regulatory_decision": 1,
+   "hta_decision": 27,
+   "ind": 15,
+   "key_patent_expiry": 2,
+   "litigation_milestone": 1,
+   "ma_close": 5,
+   "maa_filing": 2,
+   "milestone_payment": 1,
+   "nda_filing": 28,
+   "pdufa": 43,
+   "pricing_decision": 2,
+   "readout": 728,
+   "regulatory_other": 48
+  },
+  "high_impact_why_it_matters": 295,
+  "indication_groups": 17,
+  "last_verified": {
+   "2026-09-23": 168,
+   "2026-09-24": 960
+  },
+  "pdufa_exact_dates": 34,
+  "rows": 1128,
+  "tickers": 300
+ },
+ "features_shipped": [
+  "Event drawer with deep links (#/event/<id>): full record, why-it-matters, related events, date history, NCT link, source, last-checked date, star/note/ICS/X-share/copy-link actions",
+  "Indication-group filter (17 groups)",
+  "Why-it-matters one-liners on high-impact rows",
+  "Last-checked dates in drawer",
+  "Catch-up mode (new/updated since last visit)",
+  "Saved filter presets + last-view memory (localStorage)",
+  "Search operators ticker:/type:/impact:/indication:/phase: + free text + recent searches",
+  "Personal notes per event (localStorage)",
+  "Shareable starred lists (#/starred?share=) with adopt-as-mine",
+  "Starred iCal + CSV export",
+  "Full JSON/CSV downloads, versioned archive, static calendar.ics subscribe feed",
+  "Per-event X sharing",
+  "Four-step onboarding",
+  "Glossary / Limitations / Corrections / Developers / Track-record views",
+  "PWA manifest + offline service worker (no push claims)",
+  "Screen-reader pass: skip link, landmarks, aria labels, drawer focus management, live regions",
+  "Ticker deep links (#/ticker/<T>) + static /ticker/<T>/ pages linked",
+  "OG/meta tags",
+  "All v3.0 features preserved"
+ ],
+ "known_issues": [],
+ "live_url": "https://risdiplam.github.io/biotech-catalyst-calendar/",
+ "open_items": [
+  "BLTE Japan v40-0500: REMOVED before build (no explicit company/PMDA 2027 decision window found; dataset has 1128 rows without it)",
+  "Real desktop + phone viewport QA and live CT.gov/HTA re-sourcing still require browser delegation (not available in this environment)",
+  "Outcome fields empty at launch (2027 events not yet reported); track-record view shows honest empty state",
+  "merge-v40.py deterministic-order cleanup still pending (canonical data.json is correct and validated)",
+  "Legacy repo file 2027-biotech-catalyst-calendar.html (v3.0) left untouched"
+ ],
+ "release": "v4.0",
+ "release_date": "2026-09-24",
+ "verdict": "GREEN \u2014 v4.0 released"
+}

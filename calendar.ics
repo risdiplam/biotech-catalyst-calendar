@@ -192,7 +192,7 @@ DTSTART;VALUE=DATE:20270624
 SUMMARY:UTHR — oral ralinepag PDUFA decision
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-DESCRIPTION:Indication: pulmonary arterial hypertension (PAH)\nNote: PDUFA date 2027-06-24 for oral ralinepag in PAH per company PR 8/24/2026.\nDate quality: hard (2027-06-24)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0216\nSource: https://ir.unither.com/press-releases/2026/08-24-2026-120021913
+DESCRIPTION:Indication: pulmonary arterial hypertension (PAH)\nNote: FDA accepted the ralinepag NDA (announced Aug 24\, 2026) and set PDUFA target action date 2027-06-24 (company PR).\nDate quality: hard (2027-06-24)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0216\nSource: https://ir.unither.com/press-releases/2026/08-24-2026-120021913
 END:VEVENT
 BEGIN:VEVENT
 UID:v16-0233@biotech-catalyst-calendar
@@ -309,7 +309,7 @@ DTSTART;VALUE=DATE:20270827
 SUMMARY:Conference
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-DESCRIPTION:Note: ESC Congress 2027\, August 27–30\, 2027\, Milan\, Italy. World’s foremost cardiology meeting. (Dates + city only\; specific venue not printed\; re-check once the dedicated 2027 congress page publishes.)\nDate quality: hard (2027-08-27)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0245\nSource: https://www.escardio.org/events/congresses/esc-congress/
+DESCRIPTION:Note: ESC Congress 2027\, August 27–30\, 2027\, Milan\, Italy. World’s foremost cardiology meeting. (Dates + city per ESC\; specific venue not printed.)\nDate quality: hard (2027-08-27)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0245\nSource: https://www.escardio.org/events/congresses/esc-congress/
 END:VEVENT
 BEGIN:VEVENT
 UID:v16-0246@biotech-catalyst-calendar
@@ -318,7 +318,7 @@ DTSTART;VALUE=DATE:20270911
 SUMMARY:Conference
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-DESCRIPTION:Note: 2027 World Conference on Lung Cancer\, September 11–14\, 2027. IASLC annual lung cancer meeting. (City not printed on organizer listing\; third-party calendars list Denver.)\nDate quality: hard (2027-09-11)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0246\nSource: https://www.iaslc.org/search-upcoming-conferences-webinars
+DESCRIPTION:Note: 2027 World Conference on Lung Cancer\, September 11-14\, 2027\, Denver\, Colorado. IASLC annual lung cancer meeting. (Organizer press release 2025-12-16.) [2026-09-27 link audit] Replaced access-denied IASLC search URL with the official IASLC press release\; confirms Sep 11-14\, 2027\, Denver.\nDate quality: hard (2027-09-11)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0246\nSource: https://www.iaslc.org/iaslc-news/press-release/global-lung-cancer-experts-selected-lead-iaslcs-2027-world-conference
 END:VEVENT
 BEGIN:VEVENT
 UID:v16-0248@biotech-catalyst-calendar
@@ -345,7 +345,7 @@ DTSTART;VALUE=DATE:20271015
 SUMMARY:Conference
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-DESCRIPTION:Note: ASBMR 2027 Annual Meeting\, October 15–18\, 2027\, Metro Toronto Convention Centre\, Toronto\, Ontario\, Canada. World’s largest bone and mineral research meeting.\n[2026-09-23 conference re-source] Re-sourced from bare homepage to deeper dated organizer page\; date confirmed hard. [2026-09-23 source check] asbmr.org future-meetings page returns HTTP 404 (page removed) — event retained (organizer-confirme\nDate quality: hard (2027-10-15)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0250\nSource: https://www.asbmr.org/meetings/future-asbmr-meetings
+DESCRIPTION:Note: ASBMR 2027 Annual Meeting\, October 15-18\, 2027\, Metro Toronto Convention Centre\, Toronto\, Ontario\, Canada. World's largest bone and mineral research meeting. [2026-09-23 conference re-source] Re-sourced from bare homepage to deeper dated organizer page\; date confirmed hard. [2026-09-27 link audit] Prior /meetings/future-asbmr-meetings URL now returns a genuine 404 (page removed by organizer)\; repl\nDate quality: hard (2027-10-15)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0250\nSource: https://www.asbmr.org/Annual-Meeting/Future-Meetings
 END:VEVENT
 BEGIN:VEVENT
 UID:v16-0251@biotech-catalyst-calendar
@@ -435,7 +435,7 @@ DTSTART;VALUE=DATE:20270616
 SUMMARY:Conference
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-DESCRIPTION:Note: EASL Congress 2027\, June 16–19 2027\, ExCeL London\, London\, United Kingdom (+ online). Four-day congress\; abstract submission and registration open 28 Sep 2026\; abstract deadline 19 Jan 2027. (Third-party 18–19 Jun adjudicated against organizer.)\n[2026-09-23 correction] The cited EASL welcome-message page (https://www.easlcongress.eu/2027-welcome-message/) now returns dead on probe (page removed/re\nDate quality: hard (2027-06-16)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0260\nSource: https://www.easlcongress.eu/2027-welcome-message/
+DESCRIPTION:Note: EASL Congress 2027\, June 16–19 2027\, ExCeL London\, London\, United Kingdom (+ online). Four-day congress\; abstract submission and registration open 28 Sep 2026\; abstract deadline 19 Jan 2027. (Third-party 18–19 Jun adjudicated against organizer.)\n[2026-09-23 correction] The cited EASL welcome-message page (https://www.easlcongress.eu/2027-welcome-message/) now returns dead on probe (page removed/re\nDate quality: hard (2027-06-16)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0260\nSource: https://www.easlcongress.eu/
 END:VEVENT
 BEGIN:VEVENT
 UID:v16-0261@biotech-catalyst-calendar
@@ -696,7 +696,7 @@ DTSTART;VALUE=DATE:20270401
 SUMMARY:Conference
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-DESCRIPTION:Note: APASL Annual Meeting 2027 (36th)\, April 1-4 2027\, Sydney\, Australia. Source: official APASL 2027 congress site (cited by APASL).\n[2026-09-23 correction] A prior note claimed a re-source to a deeper dated organizer page\, but the source URL was never actually changed and the APASL future-meetings page now returns 404 (removed). Event retained: dates browser-verified 2026-09-18 and re-verified 2026-0\nDate quality: hard (2027-04-01)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0289\nSource: http://apasl.info/conf/future-meetings/
+DESCRIPTION:Note: APASL Annual Meeting 2027 (36th)\, April 1-4 2027\, Sydney\, Australia. Source: official APASL 2027 congress site (cited by APASL).\n[2026-09-23 correction] A prior note claimed a re-source to a deeper dated organizer page\, but the source URL was never actually changed and the APASL future-meetings page now returns 404 (removed). Event retained: dates browser-verified 2026-09-18 and re-verified 2026-0\nDate quality: hard (2027-04-01)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0289\nSource: https://www.apasl2027.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:v16-0290@biotech-catalyst-calendar
@@ -1137,7 +1137,7 @@ DTSTART;VALUE=DATE:20270320
 SUMMARY:Conference
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-DESCRIPTION:Note: SIR 2027 Annual Scientific Meeting (52nd)\, March 20–24\, 2027\, Los Angeles\, California. Interventional radiology premier gathering.\nDate quality: hard (2027-03-20)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0339\nSource: https://www.sirmeeting.org/aaStatic.asp?SFP=R0RTWkdHRkRAMjI0OTJATWVldGluZyBpbmZvcm1hdGlvbiAtIERhdGVzIHRvIGtub3c
+DESCRIPTION:Note: SIR 2027 Annual Scientific Meeting\, March 20-24\, 2027\, Los Angeles. [2026-09-23 conference re-source] Re-sourced from bare homepage to deeper dated organizer page\; date confirmed hard. [2026-09-27 link audit] Prior aaStatic.asp URL now returns "link expired" (retired by organizer)\; replaced with sirmeeting.org\, which now serves as the official SIR 2027 event page\, re-verified in-browser: confirms \nDate quality: hard (2027-03-20)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0339\nSource: https://www.sirmeeting.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:v16-0340@biotech-catalyst-calendar
@@ -1254,7 +1254,7 @@ DTSTART;VALUE=DATE:20270528
 SUMMARY:Conference
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-DESCRIPTION:Note: APASL STC 2027 Bishkek\, May 28-29 2027. Source: APASL future-meetings page (browser-verified 2026-09-18\; curl probes are blocked with 404). [2026-09-23 source check] Cited URL http://apasl.info/conf/future-meetings/ returns HTTP 404 on both probe passes (page removed) — event retained per policy (events are never removed over URL problems alone\; dates browser-verified 2026-09-18\, v16-0289 re-verif\nDate quality: hard (2027-05-28)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0352\nSource: http://apasl.info/conf/future-meetings/
+DESCRIPTION:Note: APASL STC 2027 Bishkek\, May 28-29 2027. Source: APASL future-meetings page (browser-verified 2026-09-18\; curl probes are blocked with 404). [2026-09-23 source check] Cited URL http://apasl.info/conf/future-meetings/ returns HTTP 404 on both probe passes (page removed) — event retained per policy (events are never removed over URL problems alone\; dates browser-verified 2026-09-18\, v16-0289 re-verif\nDate quality: hard (2027-05-28)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0352\nSource: http://apasl.info/
 END:VEVENT
 BEGIN:VEVENT
 UID:v16-0353@biotech-catalyst-calendar
@@ -1263,7 +1263,7 @@ DTSTART;VALUE=DATE:20270625
 SUMMARY:Conference
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-DESCRIPTION:Note: APASL STC 2027 Kaohsiung\, June 25-27 2027. Source: APASL future-meetings page (browser-verified 2026-09-18\; curl probes are blocked with 404). [2026-09-23 source check] Cited URL http://apasl.info/conf/future-meetings/ returns HTTP 404 on both probe passes (page removed) — event retained per policy (events are never removed over URL problems alone\; dates browser-verified 2026-09-18\, v16-0289 re-ve\nDate quality: hard (2027-06-25)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0353\nSource: http://apasl.info/conf/future-meetings/
+DESCRIPTION:Note: APASL STC 2027 Kaohsiung\, June 25-27 2027. Source: APASL future-meetings page (browser-verified 2026-09-18\; curl probes are blocked with 404). [2026-09-23 source check] Cited URL http://apasl.info/conf/future-meetings/ returns HTTP 404 on both probe passes (page removed) — event retained per policy (events are never removed over URL problems alone\; dates browser-verified 2026-09-18\, v16-0289 re-ve\nDate quality: hard (2027-06-25)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0353\nSource: http://apasl.info/
 END:VEVENT
 BEGIN:VEVENT
 UID:v16-0354@biotech-catalyst-calendar
@@ -1272,7 +1272,7 @@ DTSTART;VALUE=DATE:20270723
 SUMMARY:Conference
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-DESCRIPTION:Note: APASL STC 2027 Danang\, July 23-24 2027. Source: APASL future-meetings page (browser-verified 2026-09-18\; curl probes are blocked with 404). [2026-09-23 source check] Cited URL http://apasl.info/conf/future-meetings/ returns HTTP 404 on both probe passes (page removed) — event retained per policy (events are never removed over URL problems alone\; dates browser-verified 2026-09-18\, v16-0289 re-verif\nDate quality: hard (2027-07-23)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0354\nSource: http://apasl.info/conf/future-meetings/
+DESCRIPTION:Note: APASL STC 2027 Danang\, July 23-24 2027. Source: APASL future-meetings page (browser-verified 2026-09-18\; curl probes are blocked with 404). [2026-09-23 source check] Cited URL http://apasl.info/conf/future-meetings/ returns HTTP 404 on both probe passes (page removed) — event retained per policy (events are never removed over URL problems alone\; dates browser-verified 2026-09-18\, v16-0289 re-verif\nDate quality: hard (2027-07-23)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0354\nSource: http://apasl.info/
 END:VEVENT
 BEGIN:VEVENT
 UID:v16-0355@biotech-catalyst-calendar
@@ -1281,7 +1281,7 @@ DTSTART;VALUE=DATE:20271008
 SUMMARY:Conference
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-DESCRIPTION:Note: APASL STC 2027 Chongqing\, October 8-10 2027. Source: APASL future-meetings page (browser-verified 2026-09-18\; curl probes are blocked with 404). [2026-09-23 source check] Cited URL http://apasl.info/conf/future-meetings/ returns HTTP 404 on both probe passes (page removed) — event retained per policy (events are never removed over URL problems alone\; dates browser-verified 2026-09-18\, v16-0289 re-\nDate quality: hard (2027-10-08)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0355\nSource: http://apasl.info/conf/future-meetings/
+DESCRIPTION:Note: APASL STC 2027 Chongqing\, October 8-10 2027. Source: APASL future-meetings page (browser-verified 2026-09-18\; curl probes are blocked with 404). [2026-09-23 source check] Cited URL http://apasl.info/conf/future-meetings/ returns HTTP 404 on both probe passes (page removed) — event retained per policy (events are never removed over URL problems alone\; dates browser-verified 2026-09-18\, v16-0289 re-\nDate quality: hard (2027-10-08)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0355\nSource: http://apasl.info/
 END:VEVENT
 BEGIN:VEVENT
 UID:v16-0356@biotech-catalyst-calendar
@@ -1560,7 +1560,7 @@ DTSTART;VALUE=DATE:20270126
 SUMMARY:Conference
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-DESCRIPTION:Indication: hand surgery / peripheral nerve / reconstructive microsurgery\nNote: Joint 2027 annual meetings of AAHS (American Association for Hand Surgery)\, ASPN (American Society for Peripheral Nerve) and ASRM (American Society for Reconstructive Microsurgery)\, January 26-30 2027\, JW Marriott Miami Turnberry\, Aventura FL. Source: AAHS official industry prospectus (organizer-owned PDF\, verified 2026-09-18). [2026-09-23 source check] Source unreachable from this network (TLS ha\nDate quality: hard (2027-01-26)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0387\nSource: https://handsurgery.org/multimedia/files/?f=mgjGrfXLym
+DESCRIPTION:Indication: hand surgery / peripheral nerve / reconstructive microsurgery\nNote: Joint 2027 annual meetings of AAHS (American Association for Hand Surgery)\, ASPN (American Society for Peripheral Nerve) and ASRM (American Society for Reconstructive Microsurgery)\, January 26-30 2027\, JW Marriott Miami Turnberry\, Aventura FL. Source: AAHS official industry prospectus (organizer-owned PDF\, verified 2026-09-18). [2026-09-27 link audit] Prior handsurgery.org file-delivery URL proved\nDate quality: hard (2027-01-26)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0387\nSource: https://meeting.handsurgery.org
 END:VEVENT
 BEGIN:VEVENT
 UID:v16-0388@biotech-catalyst-calendar
@@ -1578,7 +1578,7 @@ DTSTART;VALUE=DATE:20271004
 SUMMARY:Conference
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-DESCRIPTION:Indication: acute myeloid leukemia (AML)\nNote: ESH 8th International Conference on Acute Myeloid Leukemia 'Molecular and Translational': Advances in Biology and Treatment\, October 4-6 2027\, Estoril Congress Centre\, Estoril\, Portugal (registration & abstract submission open). Source: ESH official conference page (organizer-owned\, verified 2026-09-18). [2026-09-23 source check] esh.org conference URL returns 403 to crawlers (access-blocked\, not \nDate quality: hard (2027-10-04)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0389\nSource: http://www.esh.org/conference/8th-international-conference-acute-myeloid-leukemia-molecular-and-translational-advances-in-biology-and-treatment/
+DESCRIPTION:Indication: acute myeloid leukemia (AML)\nNote: ESH 8th International Conference on Acute Myeloid Leukemia 'Molecular and Translational': Advances in Biology and Treatment\, October 4-6 2027\, Estoril Congress Centre\, Estoril\, Portugal (registration & abstract submission open). Source: ESH official conference page (organizer-owned\, verified 2026-09-18). [2026-09-27 link audit] Canonical https://esh.org/... URL re-verified live\; confirms Oct 4-6\, \nDate quality: hard (2027-10-04)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0389\nSource: https://esh.org/conference/8th-international-conference-acute-myeloid-leukemia-molecular-and-translational-advances-in-biology-and-treatment/
 END:VEVENT
 BEGIN:VEVENT
 UID:v16-0390@biotech-catalyst-calendar
@@ -1974,7 +1974,7 @@ DTSTART;VALUE=DATE:20270416
 SUMMARY:SEDANA — Isoflurane via Sedana Medical ACD Delivery System PDUFA decision
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-DESCRIPTION:Indication: Sedation of mechanically ventilated adult ICU patients\nThe FDA's decision date on Isoflurane via Sedana Medical ACD Delivery System for Sedation of mechanically ventilated adult ICU patients falls on 2027-04-16 — the agency's yes-or-no moment for Sedana Medical AB's application.\nNote: Sedana Medical announced a PDUFA target action date of 2027-04-16 for its US NDA. Listed on Nasdaq Stockholm\, not US-listed\; no US ticker. Would be first US inhaled ICU sedation therapy.\nDate quality: hard (2027-04-16)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0434\nSource: https://www.inderes.se/en/releases/sedana-medical-announces-pdufa-target-action-date-for-its-new-drug-application-in-the-us
+DESCRIPTION:Indication: Sedation of mechanically ventilated adult ICU patients\nThe FDA's decision date on Isoflurane via Sedana Medical ACD Delivery System for Sedation of mechanically ventilated adult ICU patients falls on 2027-04-16 — the agency's yes-or-no moment for Sedana Medical AB's application.\nNote: FDA accepted the isoflurane NDA filing (announced Aug 19\, 2026)\; FDA set PDUFA target action date 2027-04-16 (company regulatory release Aug 31\, 2026). Sedana Medical announced a PDUFA target action date of 2027-04-16 for its US NDA. Listed on Nasdaq Stockholm\, not US-listed\; no US ticker. Would be first US inhaled ICU sedation therapy.\nDate quality: hard (2027-04-16)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0434\nSource: https://www.inderes.se/en/releases/sedana-medical-announces-pdufa-target-action-date-for-its-new-drug-application-in-the-us
 END:VEVENT
 BEGIN:VEVENT
 UID:v16-0435@biotech-catalyst-calendar
@@ -2289,7 +2289,7 @@ DTSTART;VALUE=DATE:20270813
 SUMMARY:ALPMY — enzalutamide (Xtandi) key_patent_expiry
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-DESCRIPTION:Indication: US patent protection expiry\nUS patent protection on enzalutamide (Xtandi) expires on 2027-08-13\, opening the door to generic competition.\nNote: Xtandi (enzalutamide) US patent protection expiry August 13\, 2027 — first-wave LOE (~$5B global\, >40% of Astellas\; Pfizer ~$1.4B/yr alliance revenue). FDA Orange Book (NDA 203415\, openFDA last_updated 2026-09-22): US 7\,709\,517 (drug substance + drug product flags\, Regents of UC) expires 20270813\; no *PED row. Astellas shareholder Q&A (17th annual meeting): 'XTANDI's substance patents will expire i\nDate quality: hard (2027-08-13)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v19-0038\nSource: https://www.astellas.com/content/dam/astellas-com/global/en/confidential-documents/shareholders-meeting/QA%20at%20the%2017th%20Annual%20Shareholders%20Meeting_en.pdf
+DESCRIPTION:Indication: US patent protection expiry\nUS patent protection on enzalutamide (Xtandi) expires on 2027-08-13\, opening the door to generic competition.\nNote: Xtandi (enzalutamide) US patent protection expiry August 13\, 2027 — first-wave LOE (~$5B global\, >40% of Astellas\; Pfizer ~$1.4B/yr alliance revenue). FDA Orange Book (NDA 203415\, openFDA last_updated 2026-09-22): US 7\,709\,517 (drug substance + drug product flags\, Regents of UC) expires 20270813\; no *PED row. Astellas shareholder Q&A (17th annual meeting): 'XTANDI's substance patents will expire i\nDate quality: hard (2027-08-13)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v19-0038\nSource: https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2021/209614Orig1s000ltr.pdf
 END:VEVENT
 BEGIN:VEVENT
 UID:v20-0001@biotech-catalyst-calendar
