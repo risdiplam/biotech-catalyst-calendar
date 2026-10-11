@@ -3588,7 +3588,6 @@
   "impact": "high",
   "related_events": [
    "v16-0093",
-   "v16-1046",
    "v16-1045"
   ],
   "date_history": [],
@@ -3632,8 +3631,7 @@
   "mktcap_tier": "small",
   "impact": "high",
   "related_events": [
-   "v16-0092",
-   "v16-1046"
+   "v16-0092"
   ],
   "date_history": [],
   "indication_group": "Ophthalmology",
@@ -3656,7 +3654,7 @@
   "drug": "Yeztugo (lenacapavir, oral once-weekly)",
   "event_type": "pdufa",
   "indication": "HIV pre-exposure prophylaxis",
-  "notes": "FDA accepted the NDA for the once-weekly oral formulation, potentially the first long-acting pill for HIV prevention; standard-review action date 2027-02-02.",
+  "notes": "FDA accepted the supplemental NDA for the once-weekly oral formulation, potentially the first long-acting pill for HIV prevention; standard-review action date 2027-02-02.",
   "phase": null,
   "source_type": "company PR",
   "source_url": "https://www.gilead.com/news/news-details/2026/u-s--fda-accepts-gileads-application-for-investigational-once-weekly-oral-yeztugo-potentially-the-first-long-acting-pill-for-hiv-prevention",
@@ -3664,21 +3662,26 @@
   "us_listed": true,
   "us_tradable": true,
   "nct_id": "",
-  "application_type": "",
+  "application_type": "sNDA",
   "review_class": "",
   "adcom_planned": "unknown",
   "trial_status": "",
   "source_date": "",
   "record_id": "v16-0094",
-  "guidance_detail": "FDA accepted the NDA for the once-weekly oral formulation, potentially the first long-acting pill for HIV prevention; standard-review action date 2027-02-02.",
+  "guidance_detail": "FDA accepted the supplemental NDA for the once-weekly oral formulation, potentially the first long-acting pill for HIV prevention; standard-review action date 2027-02-02.",
   "audit_status": "v16_verified",
   "audit_action": "none",
   "mktcap_tier": "large",
   "impact": "low",
   "related_events": [],
-  "date_history": [],
+  "date_history": [
+   {
+    "as_of": "2026-10-11",
+    "change": "application type set to sNDA (Gilead: supplemental NDA for once-weekly oral Yeztugo)"
+   }
+  ],
   "indication_group": "Infectious Disease",
-  "last_verified": "2026-09-24"
+  "last_verified": "2026-10-11"
  },
  {
   "as_of": "2026-09-23",
@@ -3942,7 +3945,7 @@
   "drug": "pitolisant GR (gastro-resistant tablets)",
   "event_type": "pdufa",
   "indication": "narcolepsy",
-  "notes": "Pitolisant GR = gastro-resistant tablets (not granules), pediatric narcolepsy formulation; NDA accepted by FDA July 2026; target PDUFA date 2027-04-01 per Q2 2026 company update.",
+  "notes": "Pitolisant GR = gastro-resistant (enteric-coated) tablets designed to avoid GI side effects and titration; NDA accepted by FDA July 2026; target PDUFA date 2027-04-01 per Q2 2026 company update.",
   "phase": null,
   "source_type": "company PR",
   "source_url": "https://www.globenewswire.com/news-release/2026/08/04/3338190/0/en/Harmony-Biosciences-Announces-Record-Q2-2026-Revenue-and-Shares-Initial-Clinical-Data-for-Its-Orexin-2-Agonist-BP-205-Reinforcing-Potential-Best-in-Class-Profile.html",
@@ -3956,15 +3959,20 @@
   "trial_status": "",
   "source_date": "",
   "record_id": "v16-0101",
-  "guidance_detail": "Pitolisant GR = gastro-resistant tablets (not granules), pediatric narcolepsy formulation; NDA accepted by FDA July 2026; target PDUFA date 2027-04-01 per Q2 2026 company update.",
+  "guidance_detail": "Pitolisant GR = gastro-resistant (enteric-coated) tablets designed to avoid GI side effects and titration; NDA accepted by FDA July 2026; target PDUFA date 2027-04-01 per Q2 2026 company update.",
   "audit_status": "v16_verified",
   "audit_action": "none",
   "mktcap_tier": "mid",
   "impact": "medium",
   "related_events": [],
-  "date_history": [],
+  "date_history": [
+   {
+    "as_of": "2026-10-11",
+    "change": "removed \"pediatric formulation\" (Harmony Q2 2026 PR describes an enteric-coated tablet)"
+   }
+  ],
   "indication_group": "Neurology",
-  "last_verified": "2026-09-24"
+  "last_verified": "2026-10-11"
  },
  {
   "as_of": "2026-09-23",
@@ -14122,7 +14130,7 @@
   "phase": null,
   "source_type": "conference organizer",
   "source_url": "https://dspnspinesummit.org/wp-content/uploads/2026/06/AAN-SpineEP27-Compressed-6-17.pdf",
-  "ticker": "",
+  "ticker": null,
   "us_listed": false,
   "us_tradable": true,
   "nct_id": "",
@@ -14157,7 +14165,7 @@
   "phase": null,
   "source_type": "conference organizer",
   "source_url": "https://www.entnet.org/education/annual-meeting-webcasts/",
-  "ticker": "",
+  "ticker": null,
   "us_listed": false,
   "us_tradable": true,
   "nct_id": "",
@@ -14754,7 +14762,7 @@
   "phase": null,
   "source_type": "conference organizer",
   "source_url": "https://congress.figo.org/wp-content/uploads/2026/04/FIGO-2027-Preliminary-Prospectus-V4_TB.pdf",
-  "ticker": "",
+  "ticker": null,
   "us_listed": null,
   "us_tradable": true,
   "nct_id": "",
@@ -14789,7 +14797,7 @@
   "phase": null,
   "source_type": "conference organizer",
   "source_url": "https://www.psychiatry.org/psychiatrists/education/meeting-submission-and-guidelines/annual-meeting-submission-guidelines",
-  "ticker": "",
+  "ticker": null,
   "us_listed": null,
   "us_tradable": true,
   "nct_id": "",
@@ -14824,7 +14832,7 @@
   "phase": null,
   "source_type": "conference organizer",
   "source_url": "https://www.escardio.org/events/congresses/eapci-congress/registration/",
-  "ticker": "",
+  "ticker": null,
   "us_listed": null,
   "us_tradable": true,
   "nct_id": "",
@@ -14859,7 +14867,7 @@
   "phase": null,
   "source_type": "conference organizer",
   "source_url": "https://eaes.eu/events-calendar/",
-  "ticker": "",
+  "ticker": null,
   "us_listed": null,
   "us_tradable": true,
   "nct_id": "",
@@ -14894,7 +14902,7 @@
   "phase": null,
   "source_type": "conference organizer",
   "source_url": "https://aasm.org/event/sleep-2027/",
-  "ticker": "",
+  "ticker": null,
   "us_listed": null,
   "us_tradable": true,
   "nct_id": "",
@@ -14929,7 +14937,7 @@
   "phase": null,
   "source_type": "conference organizer",
   "source_url": "https://conference.painweek.org/",
-  "ticker": "",
+  "ticker": null,
   "us_listed": null,
   "us_tradable": true,
   "nct_id": "",
@@ -14965,7 +14973,7 @@
   "phase": null,
   "source_type": "conference organizer",
   "source_url": "https://aagponline.org/annual-meeting-location/",
-  "ticker": "",
+  "ticker": null,
   "us_listed": null,
   "us_tradable": true,
   "nct_id": "",
@@ -15000,7 +15008,7 @@
   "phase": null,
   "source_type": "conference organizer",
   "source_url": "https://www.amssm.org/Conferences.php",
-  "ticker": "",
+  "ticker": null,
   "us_listed": null,
   "us_tradable": true,
   "nct_id": "",
@@ -15035,7 +15043,7 @@
   "phase": null,
   "source_type": "conference organizer",
   "source_url": "https://www.iasp-pain.org/upcoming-events/list/?posts_per_page=29",
-  "ticker": "",
+  "ticker": null,
   "us_listed": null,
   "us_tradable": true,
   "nct_id": "",
@@ -15070,7 +15078,7 @@
   "phase": null,
   "source_type": "conference organizer",
   "source_url": "https://painconnect.org/registration/",
-  "ticker": "",
+  "ticker": null,
   "us_listed": false,
   "us_tradable": true,
   "nct_id": "",
@@ -15105,7 +15113,7 @@
   "phase": null,
   "source_type": "conference organizer",
   "source_url": "http://asahq.org/annualmeeting/attend/futuredates",
-  "ticker": "",
+  "ticker": null,
   "us_listed": false,
   "us_tradable": true,
   "nct_id": "",
@@ -15140,7 +15148,7 @@
   "phase": null,
   "source_type": "conference organizer",
   "source_url": "https://asra.com/events-education/annual-meetings/2027/05/13/events/52nd-annual-regional-anesthesiology-and-acute-pain-medicine-meeting",
-  "ticker": "",
+  "ticker": null,
   "us_listed": false,
   "us_tradable": true,
   "nct_id": "",
@@ -15175,7 +15183,7 @@
   "phase": null,
   "source_type": "conference organizer",
   "source_url": "https://asra.com/news-publications/asra-update-item/asra-updates/2026/08/07/dr.-ryan-s.-d-souza-receives-presidential-scholar-award",
-  "ticker": "",
+  "ticker": null,
   "us_listed": false,
   "us_tradable": true,
   "nct_id": "",
@@ -15210,7 +15218,7 @@
   "phase": null,
   "source_type": "conference organizer",
   "source_url": "https://www.neurocriticalcare.org/Events/Annual-Meeting/Past-Future-Annual-Meetings",
-  "ticker": "",
+  "ticker": null,
   "us_listed": false,
   "us_tradable": true,
   "nct_id": "",
@@ -15245,7 +15253,7 @@
   "phase": null,
   "source_type": "conference organizer",
   "source_url": "https://congress.efort.org/",
-  "ticker": "",
+  "ticker": null,
   "us_listed": false,
   "us_tradable": true,
   "nct_id": "",
@@ -15281,7 +15289,7 @@
   "phase": null,
   "source_type": "conference organizer",
   "source_url": "https://europeanhipsociety.com/hip-calendar/",
-  "ticker": "",
+  "ticker": null,
   "us_listed": false,
   "us_tradable": true,
   "nct_id": "",
@@ -15316,7 +15324,7 @@
   "phase": null,
   "source_type": "conference organizer",
   "source_url": "https://europeanhipsociety.com/hip-calendar/",
-  "ticker": "",
+  "ticker": null,
   "us_listed": false,
   "us_tradable": true,
   "nct_id": "",
@@ -15351,7 +15359,7 @@
   "phase": null,
   "source_type": "conference organizer",
   "source_url": "https://www.ishasoc.net/isha-2027-annual-scientific-meeting-host-destination-announced/",
-  "ticker": "",
+  "ticker": null,
   "us_listed": false,
   "us_tradable": true,
   "nct_id": "",
@@ -15386,7 +15394,7 @@
   "phase": null,
   "source_type": "conference organizer",
   "source_url": "https://euretina.org/future-meetings/",
-  "ticker": "",
+  "ticker": null,
   "us_listed": false,
   "us_tradable": true,
   "nct_id": "",
@@ -15421,7 +15429,7 @@
   "phase": null,
   "source_type": "conference organizer",
   "source_url": "https://euretina.org/future-meetings/",
-  "ticker": "",
+  "ticker": null,
   "us_listed": false,
   "us_tradable": true,
   "nct_id": "",
@@ -15456,7 +15464,7 @@
   "phase": null,
   "source_type": "conference organizer",
   "source_url": "https://apsr.org/events/congress/",
-  "ticker": "",
+  "ticker": null,
   "us_listed": false,
   "us_tradable": true,
   "nct_id": "",
@@ -16138,7 +16146,7 @@
   "source_type": "company PR",
   "source_url": "https://www.inderes.se/en/releases/sedana-medical-announces-pdufa-target-action-date-for-its-new-drug-application-in-the-us",
   "ticker": "SEDANA",
-  "us_listed": true,
+  "us_listed": false,
   "us_tradable": false,
   "nct_id": "",
   "application_type": "",
@@ -16153,9 +16161,14 @@
   "mktcap_tier": "micro",
   "impact": "high",
   "related_events": [],
-  "date_history": [],
+  "date_history": [
+   {
+    "as_of": "2026-10-11",
+    "change": "us_listed corrected to false (Nasdaq Stockholm only)"
+   }
+  ],
   "indication_group": "Respiratory",
-  "last_verified": "2026-09-27",
+  "last_verified": "2026-10-11",
   "why_it_matters": "The FDA's decision date on Isoflurane via Sedana Medical ACD Delivery System for Sedation of mechanically ventilated adult ICU patients falls on 2027-04-16 \u2014 the agency's yes-or-no moment for Sedana Medical AB's application."
  },
  {
@@ -16960,9 +16973,9 @@
    "RHHBY (emicizumab \u2014 bispecific prophylaxis in hemophilia, mechanism paradigm)"
   ],
   "country": "United States",
-  "date_bucket": "2027-H1",
+  "date_bucket": "2027-H2",
   "date_exact": null,
-  "date_quality": "guidance",
+  "date_quality": "inferred",
   "drug": "sutacimig (HMB-001)",
   "event_type": "readout",
   "indication": "Factor VII deficiency \u2014 prophylactic treatment (bispecific antibody)",
@@ -16985,10 +16998,15 @@
   "mktcap_tier": "small",
   "impact": "high",
   "related_events": [],
-  "date_history": [],
+  "date_history": [
+   {
+    "as_of": "2026-10-11",
+    "change": "bucket 2027-H1 -> 2027-H2 and quality inferred, matching the registry PCD (Nov 2027) and the note"
+   }
+  ],
   "indication_group": "Hematology",
-  "last_verified": "2026-10-01",
-  "why_it_matters": "Phase 2 results for sutacimig (HMB-001) in Factor VII deficiency \u2014 prophylactic treatment (bispecific antibody) are expected in the first half of 2027, the first real efficacy signal for Hemab Therapeutics Holdings, Inc.'s program."
+  "last_verified": "2026-10-11",
+  "why_it_matters": "Phase 2 results for sutacimig (HMB-001) in Factor VII deficiency \u2014 prophylactic treatment (bispecific antibody) are expected in late 2027, the first real efficacy signal for Hemab Therapeutics Holdings, Inc.'s program."
  },
  {
   "as_of": "2026-09-18",
@@ -39383,20 +39401,20 @@
  },
  {
   "as_of": "2026-09-24",
-  "company": "Adverum Biotechnologies, Inc.",
+  "company": "Eli Lilly and Company (ixo-vec via Adverum acquisition)",
   "competitors": [],
   "country": "United States",
   "date_bucket": "2027-Q1",
   "date_exact": null,
-  "date_quality": "guidance",
+  "date_quality": "inferred",
   "drug": "ixoberogene soroparvovec (ixo-vec)",
   "event_type": "readout",
   "indication": "wet age-related macular degeneration",
-  "notes": "Issuer press release (GlobeNewswire, 2025-09-22): ARTEMIS pivotal Phase 3 of single-administration ixo-vec (6E10 vg/eye) vs aflibercept q8w completed screening ahead of expectations; topline readout accelerated to Q1 2027 (trial NCT06856577).",
+  "notes": "Lilly completed its tender offer for Adverum Biotechnologies in late 2025, so ADVM no longer trades; the program now sits inside Eli Lilly. Last issuer guidance (Adverum, 2025-09-22): ARTEMIS pivotal Phase 3 of single-administration ixo-vec (6E10 vg/eye) vs aflibercept q8w, topline Q1 2027 (NCT06856577). Lilly has not separately guided this readout, so the window is carried as inferred and may not be disclosed as a standalone event.",
   "phase": "3",
   "source_type": "company PR",
   "source_url": "https://www.biospace.com/press-releases/adverum-biotechnologies-announces-completion-of-screening-for-pivotal-phase-3-artemis-trial-of-ixo-vec-for-wet-age-related-macular-degeneration",
-  "ticker": "ADVM",
+  "ticker": "LLY",
   "us_listed": true,
   "us_tradable": true,
   "nct_id": "NCT06856577",
@@ -39406,19 +39424,23 @@
   "trial_status": "",
   "source_date": "",
   "record_id": "v16-1045",
-  "guidance_detail": "Issuer press release (GlobeNewswire, 2025-09-22): ARTEMIS pivotal Phase 3 of single-administration ixo-vec (6E10 vg/eye) vs aflibercept q8w completed screening ahead of expectations; topline readout accelerated to Q1 2027 (trial NCT06856577).",
+  "guidance_detail": "Lilly completed its tender offer for Adverum Biotechnologies in late 2025, so ADVM no longer trades; the program now sits inside Eli Lilly. Last issuer guidance (Adverum, 2025-09-22): ARTEMIS pivotal Phase 3 of single-administration ixo-vec (6E10 vg/eye) vs aflibercept q8w, topline Q1 2027 (NCT06856577). Lilly has not separately guided this readout, so the window is carried as inferred and may not be disclosed as a standalone event.",
   "audit_status": "v16_verified",
   "audit_action": "none",
-  "mktcap_tier": "micro",
+  "mktcap_tier": "large",
   "impact": "high",
   "related_events": [
-   "v16-1046",
    "v16-0092"
   ],
-  "date_history": [],
+  "date_history": [
+   {
+    "as_of": "2026-10-11",
+    "change": "ticker remapped ADVM -> LLY after Lilly completed the Adverum acquisition (late 2025); date quality guidance -> inferred (no post-acquisition guidance)"
+   }
+  ],
   "indication_group": "Ophthalmology",
-  "last_verified": "2026-09-24",
-  "why_it_matters": "Phase 3 data for ixoberogene soroparvovec (ixo-vec) in wet age-related macular degeneration is expected in Q1 2027 \u2014 the pivotal readout that determines whether Adverum Biotechnologies, Inc. can file for approval."
+  "last_verified": "2026-10-11",
+  "why_it_matters": "Phase 3 data for ixoberogene soroparvovec (ixo-vec) in wet age-related macular degeneration was guided for Q1 2027 before Lilly acquired Adverum; it is the pivotal readout for Lilly's first ophthalmology gene therapy."
  },
  {
   "as_of": "2026-09-24",
@@ -39680,7 +39702,7 @@
  },
  {
   "record_id": "v17-0003",
-  "ticker": "",
+  "ticker": null,
   "company": "Nanoscope Therapeutics",
   "us_listed": false,
   "us_tradable": false,
@@ -39716,7 +39738,7 @@
  },
  {
   "record_id": "v17-0004",
-  "ticker": "",
+  "ticker": null,
   "company": "SK Life Science, Inc.",
   "us_listed": false,
   "us_tradable": false,
@@ -41495,7 +41517,7 @@
   "country": "United States",
   "date_bucket": "2027-Q1",
   "date_exact": "2027-02-10",
-  "date_quality": "hard",
+  "date_quality": "guidance",
   "drug": "setmelanotide",
   "event_type": "hta_decision",
   "indication": "Acquired hypothalamic obesity",
@@ -41519,9 +41541,14 @@
   "mktcap_tier": "mid",
   "impact": "medium",
   "related_events": [],
-  "date_history": [],
+  "date_history": [
+   {
+    "as_of": "2026-10-11",
+    "change": "date quality hard -> guidance: NICE expected publication dates slip routinely (same treatment as the CMS NCD row)"
+   }
+  ],
   "indication_group": "Metabolic/Obesity/Diabetes",
-  "last_verified": "2026-09-23"
+  "last_verified": "2026-10-11"
  },
  {
   "as_of": "2026-09-23",
@@ -41530,7 +41557,7 @@
   "country": "United Kingdom",
   "date_bucket": "2027-Q2",
   "date_exact": "2027-04-14",
-  "date_quality": "hard",
+  "date_quality": "guidance",
   "drug": "baxdrostat",
   "event_type": "hta_decision",
   "indication": "Uncontrolled or resistant hypertension",
@@ -41554,9 +41581,14 @@
   "mktcap_tier": "large",
   "impact": "low",
   "related_events": [],
-  "date_history": [],
+  "date_history": [
+   {
+    "as_of": "2026-10-11",
+    "change": "date quality hard -> guidance: NICE expected publication dates slip routinely (same treatment as the CMS NCD row)"
+   }
+  ],
   "indication_group": "Cardiology",
-  "last_verified": "2026-09-23"
+  "last_verified": "2026-10-11"
  },
  {
   "as_of": "2026-09-23",
@@ -41565,7 +41597,7 @@
   "country": "United States",
   "date_bucket": "2027-Q1",
   "date_exact": "2027-01-13",
-  "date_quality": "hard",
+  "date_quality": "guidance",
   "drug": "tarlatamab",
   "event_type": "hta_decision",
   "indication": "Extended-stage small cell lung cancer",
@@ -41589,9 +41621,14 @@
   "mktcap_tier": "large",
   "impact": "low",
   "related_events": [],
-  "date_history": [],
+  "date_history": [
+   {
+    "as_of": "2026-10-11",
+    "change": "date quality hard -> guidance: NICE expected publication dates slip routinely (same treatment as the CMS NCD row)"
+   }
+  ],
   "indication_group": "Oncology",
-  "last_verified": "2026-09-23"
+  "last_verified": "2026-10-11"
  },
  {
   "as_of": "2026-09-23",
@@ -41600,7 +41637,7 @@
   "country": "United States",
   "date_bucket": "2027-Q1",
   "date_exact": "2027-03-17",
-  "date_quality": "hard",
+  "date_quality": "guidance",
   "drug": "tofersen",
   "event_type": "hta_decision",
   "indication": "SOD1-ALS",
@@ -41624,9 +41661,14 @@
   "mktcap_tier": "large",
   "impact": "low",
   "related_events": [],
-  "date_history": [],
+  "date_history": [
+   {
+    "as_of": "2026-10-11",
+    "change": "date quality hard -> guidance: NICE expected publication dates slip routinely (same treatment as the CMS NCD row)"
+   }
+  ],
   "indication_group": "Neurology",
-  "last_verified": "2026-09-23"
+  "last_verified": "2026-10-11"
  },
  {
   "as_of": "2026-09-23",
@@ -41635,7 +41677,7 @@
   "country": "United States",
   "date_bucket": "2027-Q2",
   "date_exact": "2027-05-20",
-  "date_quality": "hard",
+  "date_quality": "guidance",
   "drug": "anitocabtagene autoleucel (anito-cel)",
   "event_type": "hta_decision",
   "indication": "Relapsed/refractory multiple myeloma",
@@ -41659,9 +41701,14 @@
   "mktcap_tier": "large",
   "impact": "low",
   "related_events": [],
-  "date_history": [],
+  "date_history": [
+   {
+    "as_of": "2026-10-11",
+    "change": "date quality hard -> guidance: NICE expected publication dates slip routinely (same treatment as the CMS NCD row)"
+   }
+  ],
   "indication_group": "Oncology",
-  "last_verified": "2026-09-23"
+  "last_verified": "2026-10-11"
  },
  {
   "as_of": "2026-09-23",
@@ -41670,7 +41717,7 @@
   "country": "United States",
   "date_bucket": "2027-Q1",
   "date_exact": "2027-02-17",
-  "date_quality": "hard",
+  "date_quality": "guidance",
   "drug": "linvoseltamab",
   "event_type": "hta_decision",
   "indication": "Relapsed/refractory multiple myeloma",
@@ -41694,9 +41741,14 @@
   "mktcap_tier": "large",
   "impact": "low",
   "related_events": [],
-  "date_history": [],
+  "date_history": [
+   {
+    "as_of": "2026-10-11",
+    "change": "date quality hard -> guidance: NICE expected publication dates slip routinely (same treatment as the CMS NCD row)"
+   }
+  ],
   "indication_group": "Oncology",
-  "last_verified": "2026-09-23"
+  "last_verified": "2026-10-11"
  },
  {
   "as_of": "2026-09-23",
@@ -41705,7 +41757,7 @@
   "country": "United States",
   "date_bucket": "2027-Q1",
   "date_exact": "2027-03-24",
-  "date_quality": "hard",
+  "date_quality": "guidance",
   "drug": "cemiplimab",
   "event_type": "hta_decision",
   "indication": "Adjuvant cutaneous squamous cell carcinoma",
@@ -41729,9 +41781,14 @@
   "mktcap_tier": "large",
   "impact": "low",
   "related_events": [],
-  "date_history": [],
+  "date_history": [
+   {
+    "as_of": "2026-10-11",
+    "change": "date quality hard -> guidance: NICE expected publication dates slip routinely (same treatment as the CMS NCD row)"
+   }
+  ],
   "indication_group": "Oncology",
-  "last_verified": "2026-09-23"
+  "last_verified": "2026-10-11"
  },
  {
   "as_of": "2026-09-23",
@@ -41740,7 +41797,7 @@
   "country": "United States",
   "date_bucket": "2027-Q1",
   "date_exact": "2027-01-28",
-  "date_quality": "hard",
+  "date_quality": "guidance",
   "drug": "elranatamab",
   "event_type": "hta_decision",
   "indication": "Relapsed/refractory multiple myeloma (managed-access review)",
@@ -41764,26 +41821,31 @@
   "mktcap_tier": "large",
   "impact": "low",
   "related_events": [],
-  "date_history": [],
+  "date_history": [
+   {
+    "as_of": "2026-10-11",
+    "change": "date quality hard -> guidance: NICE expected publication dates slip routinely (same treatment as the CMS NCD row)"
+   }
+  ],
   "indication_group": "Oncology",
-  "last_verified": "2026-09-23"
+  "last_verified": "2026-10-11"
  },
  {
   "as_of": "2026-09-23",
-  "company": "Pfizer Inc.",
+  "company": "Takeda Pharmaceutical Company Limited",
   "competitors": [],
   "country": "United States",
   "date_bucket": "2027-Q2",
   "date_exact": "2027-05-06",
-  "date_quality": "hard",
+  "date_quality": "guidance",
   "drug": "brentuximab vedotin (Adcetris) combination",
   "event_type": "hta_decision",
   "indication": "Combination therapy in lymphoma (per NICE appraisal schedule)",
-  "notes": "NICE technology appraisal: brentuximab vedotin combination, expected 6 May 2027 per the NICE in-development guidance table. Indication per the NICE appraisal record; confirm detail at monthly refresh. NICE expected publication dates slip routinely; the date here is the agency-published expected date from the NICE in-development guidance table.",
+  "notes": "NICE technology appraisal: brentuximab vedotin combination, expected 6 May 2027 per the NICE in-development guidance table. Indication per the NICE appraisal record; confirm detail at monthly refresh. NICE expected publication dates slip routinely; the date here is the agency-published expected date from the NICE in-development guidance table. Takeda holds Adcetris marketing rights outside the US and Canada, so the UK decision is a Takeda event.",
   "phase": "",
   "source_type": "agency",
   "source_url": "https://www.nice.org.uk/guidance/indevelopment",
-  "ticker": "PFE",
+  "ticker": "TAK",
   "us_listed": true,
   "us_tradable": true,
   "nct_id": "",
@@ -41799,9 +41861,18 @@
   "mktcap_tier": "large",
   "impact": "low",
   "related_events": [],
-  "date_history": [],
+  "date_history": [
+   {
+    "as_of": "2026-10-11",
+    "change": "ticker PFE -> TAK (Takeda markets Adcetris in the UK)"
+   },
+   {
+    "as_of": "2026-10-11",
+    "change": "date quality hard -> guidance: NICE expected publication dates slip routinely (same treatment as the CMS NCD row)"
+   }
+  ],
   "indication_group": "Oncology",
-  "last_verified": "2026-09-23"
+  "last_verified": "2026-10-11"
  },
  {
   "as_of": "2026-09-23",
@@ -41810,7 +41881,7 @@
   "country": "United States",
   "date_bucket": "2027-Q1",
   "date_exact": "2027-02-10",
-  "date_quality": "hard",
+  "date_quality": "guidance",
   "drug": "enfortumab vedotin + pembrolizumab",
   "event_type": "hta_decision",
   "indication": "Perioperative bladder cancer",
@@ -41834,9 +41905,14 @@
   "mktcap_tier": "large",
   "impact": "low",
   "related_events": [],
-  "date_history": [],
+  "date_history": [
+   {
+    "as_of": "2026-10-11",
+    "change": "date quality hard -> guidance: NICE expected publication dates slip routinely (same treatment as the CMS NCD row)"
+   }
+  ],
   "indication_group": "Oncology",
-  "last_verified": "2026-09-23"
+  "last_verified": "2026-10-11"
  },
  {
   "as_of": "2026-09-23",
@@ -41845,7 +41921,7 @@
   "country": "United Kingdom",
   "date_bucket": "2027-Q1",
   "date_exact": "2027-03-10",
-  "date_quality": "hard",
+  "date_quality": "guidance",
   "drug": "bepirovirsen",
   "event_type": "hta_decision",
   "indication": "Chronic hepatitis B",
@@ -41869,9 +41945,14 @@
   "mktcap_tier": "large",
   "impact": "low",
   "related_events": [],
-  "date_history": [],
+  "date_history": [
+   {
+    "as_of": "2026-10-11",
+    "change": "date quality hard -> guidance: NICE expected publication dates slip routinely (same treatment as the CMS NCD row)"
+   }
+  ],
   "indication_group": "Infectious Disease",
-  "last_verified": "2026-09-23"
+  "last_verified": "2026-10-11"
  },
  {
   "as_of": "2026-10-04",
@@ -41880,7 +41961,7 @@
   "country": "Denmark",
   "date_bucket": "2027-Q1",
   "date_exact": "2027-02-24",
-  "date_quality": "hard",
+  "date_quality": "guidance",
   "drug": "denecimig (Mim8)",
   "event_type": "hta_decision",
   "indication": "Haemophilia A",
@@ -41906,9 +41987,14 @@
   "related_events": [
    "v41-0001"
   ],
-  "date_history": [],
+  "date_history": [
+   {
+    "as_of": "2026-10-11",
+    "change": "date quality hard -> guidance: NICE expected publication dates slip routinely (same treatment as the CMS NCD row)"
+   }
+  ],
   "indication_group": "Hematology",
-  "last_verified": "2026-10-04"
+  "last_verified": "2026-10-11"
  },
  {
   "as_of": "2026-09-23",
@@ -41917,7 +42003,7 @@
   "country": "China",
   "date_bucket": "2027-Q1",
   "date_exact": "2027-02-10",
-  "date_quality": "hard",
+  "date_quality": "guidance",
   "drug": "tislelizumab",
   "event_type": "hta_decision",
   "indication": "Oesophageal cancer",
@@ -41941,9 +42027,14 @@
   "mktcap_tier": "large",
   "impact": "low",
   "related_events": [],
-  "date_history": [],
+  "date_history": [
+   {
+    "as_of": "2026-10-11",
+    "change": "date quality hard -> guidance: NICE expected publication dates slip routinely (same treatment as the CMS NCD row)"
+   }
+  ],
   "indication_group": "Oncology",
-  "last_verified": "2026-09-23"
+  "last_verified": "2026-10-11"
  },
  {
   "as_of": "2026-09-23",
@@ -41952,7 +42043,7 @@
   "country": "China",
   "date_bucket": "2027-Q2",
   "date_exact": "2027-05-13",
-  "date_quality": "hard",
+  "date_quality": "guidance",
   "drug": "tislelizumab",
   "event_type": "hta_decision",
   "indication": "Nasopharyngeal cancer",
@@ -41976,9 +42067,14 @@
   "mktcap_tier": "large",
   "impact": "low",
   "related_events": [],
-  "date_history": [],
+  "date_history": [
+   {
+    "as_of": "2026-10-11",
+    "change": "date quality hard -> guidance: NICE expected publication dates slip routinely (same treatment as the CMS NCD row)"
+   }
+  ],
   "indication_group": "Oncology",
-  "last_verified": "2026-09-23"
+  "last_verified": "2026-10-11"
  },
  {
   "as_of": "2026-09-23",
@@ -41987,7 +42083,7 @@
   "country": "Switzerland",
   "date_bucket": "2027-Q2",
   "date_exact": "2027-05-13",
-  "date_quality": "hard",
+  "date_quality": "guidance",
   "drug": "obinutuzumab",
   "event_type": "hta_decision",
   "indication": "Lupus",
@@ -42011,9 +42107,14 @@
   "mktcap_tier": "large",
   "impact": "low",
   "related_events": [],
-  "date_history": [],
+  "date_history": [
+   {
+    "as_of": "2026-10-11",
+    "change": "date quality hard -> guidance: NICE expected publication dates slip routinely (same treatment as the CMS NCD row)"
+   }
+  ],
   "indication_group": "Immunology/Inflammation",
-  "last_verified": "2026-09-27"
+  "last_verified": "2026-10-11"
  },
  {
   "as_of": "2026-09-23",
@@ -42022,7 +42123,7 @@
   "country": "United States",
   "date_bucket": "2027-Q2",
   "date_exact": "2027-05-13",
-  "date_quality": "hard",
+  "date_quality": "guidance",
   "drug": "povorcitinib",
   "event_type": "hta_decision",
   "indication": "Hidradenitis suppurativa",
@@ -42046,9 +42147,14 @@
   "mktcap_tier": "large",
   "impact": "low",
   "related_events": [],
-  "date_history": [],
+  "date_history": [
+   {
+    "as_of": "2026-10-11",
+    "change": "date quality hard -> guidance: NICE expected publication dates slip routinely (same treatment as the CMS NCD row)"
+   }
+  ],
   "indication_group": "Immunology/Inflammation",
-  "last_verified": "2026-09-23"
+  "last_verified": "2026-10-11"
  },
  {
   "as_of": "2026-09-23",
@@ -42057,7 +42163,7 @@
   "country": "United States",
   "date_bucket": "2027-Q2",
   "date_exact": "2027-06-10",
-  "date_quality": "hard",
+  "date_quality": "guidance",
   "drug": "tafasitamab + R-CHOP",
   "event_type": "hta_decision",
   "indication": "Diffuse large B-cell lymphoma",
@@ -42081,9 +42187,14 @@
   "mktcap_tier": "large",
   "impact": "low",
   "related_events": [],
-  "date_history": [],
+  "date_history": [
+   {
+    "as_of": "2026-10-11",
+    "change": "date quality hard -> guidance: NICE expected publication dates slip routinely (same treatment as the CMS NCD row)"
+   }
+  ],
   "indication_group": "Oncology",
-  "last_verified": "2026-09-23"
+  "last_verified": "2026-10-11"
  },
  {
   "as_of": "2026-09-23",
@@ -42092,7 +42203,7 @@
   "country": "United States",
   "date_bucket": "2027-Q2",
   "date_exact": "2027-06-03",
-  "date_quality": "hard",
+  "date_quality": "guidance",
   "drug": "ruxolitinib cream",
   "event_type": "hta_decision",
   "indication": "Atopic dermatitis",
@@ -42116,9 +42227,14 @@
   "mktcap_tier": "large",
   "impact": "low",
   "related_events": [],
-  "date_history": [],
+  "date_history": [
+   {
+    "as_of": "2026-10-11",
+    "change": "date quality hard -> guidance: NICE expected publication dates slip routinely (same treatment as the CMS NCD row)"
+   }
+  ],
   "indication_group": "Dermatology",
-  "last_verified": "2026-09-23"
+  "last_verified": "2026-10-11"
  },
  {
   "as_of": "2026-09-23",
@@ -42127,7 +42243,7 @@
   "country": "United Kingdom",
   "date_bucket": "2027-Q1",
   "date_exact": "2027-01-13",
-  "date_quality": "hard",
+  "date_quality": "guidance",
   "drug": "trastuzumab deruxtecan (Enhertu)",
   "event_type": "hta_decision",
   "indication": "Gastric cancer (guidance review)",
@@ -42151,9 +42267,14 @@
   "mktcap_tier": "large",
   "impact": "low",
   "related_events": [],
-  "date_history": [],
+  "date_history": [
+   {
+    "as_of": "2026-10-11",
+    "change": "date quality hard -> guidance: NICE expected publication dates slip routinely (same treatment as the CMS NCD row)"
+   }
+  ],
   "indication_group": "Oncology",
-  "last_verified": "2026-09-23"
+  "last_verified": "2026-10-11"
  },
  {
   "as_of": "2026-10-01",
@@ -42162,15 +42283,15 @@
   "country": "Spain",
   "date_bucket": "2027-Q2",
   "date_exact": "2027-04-11",
-  "date_quality": "hard",
+  "date_quality": "guidance",
   "drug": "leriglitazone",
   "event_type": "hta_decision",
-  "indication": "Highly Specialised Technologies appraisal",
+  "indication": "Cerebral adrenoleukodystrophy (NICE Highly Specialised Technologies appraisal)",
   "notes": "NICE Highly Specialised Technologies appraisal: leriglitazone, expected 11 Apr 2027 per the NICE in-development guidance table. Sponsor is private (Minoryx Therapeutics). NICE expected publication dates slip routinely; the date here is the agency-published expected date from the NICE in-development guidance table.",
   "phase": "",
   "source_type": "agency",
   "source_url": "https://www.nice.org.uk/guidance/indevelopment",
-  "ticker": "",
+  "ticker": null,
   "us_listed": false,
   "us_tradable": false,
   "nct_id": "",
@@ -42186,9 +42307,18 @@
   "mktcap_tier": "unknown",
   "impact": "medium",
   "related_events": [],
-  "date_history": [],
+  "date_history": [
+   {
+    "as_of": "2026-10-11",
+    "change": "indication corrected (was the appraisal type)"
+   },
+   {
+    "as_of": "2026-10-11",
+    "change": "date quality hard -> guidance: NICE expected publication dates slip routinely (same treatment as the CMS NCD row)"
+   }
+  ],
   "indication_group": "Other",
-  "last_verified": "2026-10-01"
+  "last_verified": "2026-10-11"
  },
  {
   "as_of": "2026-09-24",
@@ -42380,7 +42510,7 @@
   "phase": "",
   "source_type": "agency",
   "source_url": "https://www.businesswire.com/news/home/20260609744651/en/EBR-Systems-Secures-National-Coverage-Analysis-Under-TCET-Pathway-from-CMS-for-the-WiSE-System",
-  "ticker": "",
+  "ticker": null,
   "us_listed": false,
   "us_tradable": false,
   "nct_id": "",
@@ -42558,7 +42688,7 @@
   "phase": "",
   "source_type": "agency",
   "source_url": "https://www.hfma.org/wp-content/uploads/2026/06/510136_Medicare_Drug_Price_Negotiation_Program_Proposed_Rule_Summary.pdf",
-  "ticker": "",
+  "ticker": null,
   "us_listed": false,
   "us_tradable": false,
   "nct_id": "",
@@ -42593,7 +42723,7 @@
   "phase": "",
   "source_type": "agency",
   "source_url": "https://www.hklaw.com/en/insights/publications/2026/06/cms-issues-first-proposed-rule-for-ira-medicare-drug-price-negotiation",
-  "ticker": "",
+  "ticker": null,
   "us_listed": false,
   "us_tradable": false,
   "nct_id": "",
@@ -42925,18 +43055,23 @@
   "competitors": [],
   "source_type": "company IR",
   "source_url": "https://investors.savarapharma.com/news/news-details/2026/Savara-Announces-European-Medicines-Agency-EMA-Validation-of-Marketing-Authorization-Application-MAA-for-MOLBREEVI-in-Autoimmune-Pulmonary-Alveolar-Proteinosis-Autoimmune-PAP/default.aspx",
-  "source_date": "",
+  "source_date": "2026-03-30",
   "as_of": "2026-10-01",
-  "notes": "Savara (Nasdaq: SVRA) announced EMA validation of the Marketing Authorization Application for MOLBREEVI in autoimmune pulmonary alveolar proteinosis; review proceeds through CHMP; company expects a decision in Q1 2027. New ticker entry. Per Savara IR announcement 2026-09-23.",
-  "guidance_detail": "Company expects CHMP decision in Q1 2027.",
+  "notes": "Savara (Nasdaq: SVRA) announced EMA validation of the Marketing Authorization Application for MOLBREEVI in autoimmune pulmonary alveolar proteinosis; review proceeds through CHMP; company expects a decision in Q1 2027. New ticker entry. Per Savara IR announcement 2026-03-30. The company says \"decision expected in Q1 2027\" without saying whether that is the CHMP opinion or the European Commission decision; if it is the EC decision, the CHMP opinion would come about two months earlier.",
+  "guidance_detail": "Company expects an EU decision in Q1 2027 (CHMP opinion vs EC decision not specified).",
   "audit_status": "v20_reverified",
   "audit_action": "add",
   "mktcap_tier": "small",
   "impact": "high",
   "related_events": [],
-  "date_history": [],
+  "date_history": [
+   {
+    "as_of": "2026-10-11",
+    "change": "source date corrected to 2026-03-30; CHMP vs EC ambiguity noted"
+   }
+  ],
   "indication_group": "Immunology/Inflammation",
-  "last_verified": "2026-10-01",
+  "last_verified": "2026-10-11",
   "why_it_matters": "Europe's medicines committee is expected to give its opinion on MOLBREEVI (molgramostim) in autoimmune pulmonary alveolar proteinosis (aPAP) (EU) in Q1 2027, the step just before a formal EU decision."
  },
  {
@@ -42982,7 +43117,7 @@
   "ticker": "CRDL",
   "drug": "CardiolRx (cannabidiol oral solution)",
   "indication": "recurrent pericarditis",
-  "phase": "Phase 3",
+  "phase": "3",
   "event_type": "readout",
   "date_quality": "guidance",
   "date_exact": null,
@@ -43136,7 +43271,7 @@
   "phase": null,
   "date_exact": null,
   "date_bucket": "2027-Q1",
-  "date_quality": "guidance",
+  "date_quality": "inferred",
   "competitors": [
    "Ocrevus (Roche)",
    "Kesimpta (Novartis)"
@@ -43145,8 +43280,8 @@
   "source_type": "company IR",
   "source_date": "2026-09-30",
   "as_of": "2026-10-01",
-  "notes": "FDA accepted NDA under Priority Review for fenebrutinib, oral non-covalent BTK inhibitor, in relapsing MS and primary progressive MS (first BTK inhibitor accepted in both populations) per Sep 30, 2026 Roche investor update. Supported by three positive Phase 3s: FENhance 1 & 2 (ARR -51.1%, -58.5% vs teriflunomide) and FENtrepid (non-inferior to Ocrevus on cCDP12, HR 0.88). Roche disclosed no PDUFA date; Q1 2027 window inferred from the priority-review clock \u2014 do not treat as a hard date.",
-  "guidance_detail": "NDA accepted under Priority Review (Sep 30, 2026 Roche update); no PDUFA date disclosed \u2014 Q1 2027 window inferred from the 6-month priority-review clock.",
+  "notes": "FDA accepted NDA under Priority Review for fenebrutinib, oral non-covalent BTK inhibitor, in relapsing MS and primary progressive MS (first BTK inhibitor accepted in both populations) per Sep 30, 2026 Roche investor update. Supported by three positive Phase 3s: FENhance 1 & 2 (ARR -51.1%, -58.5% vs teriflunomide) and FENtrepid (non-inferior to Ocrevus on cCDP12, HR 0.88). Roche disclosed no PDUFA date; Q1 2027 window inferred from the NME priority-review clock (60-day filing period + 6 months, about 8 months from submission), so an early Q2 2027 action date is possible \u2014 do not treat as a hard date.",
+  "guidance_detail": "NDA accepted under Priority Review (Sep 30, 2026 Roche update); no PDUFA date disclosed. Q1 2027 window inferred from the NME priority-review clock (about 8 months from submission); could fall in early Q2 2027.",
   "nct_id": "",
   "application_type": "NDA",
   "review_class": "priority",
@@ -43158,9 +43293,14 @@
   "mktcap_tier": "large",
   "impact": "high",
   "related_events": [],
-  "date_history": [],
+  "date_history": [
+   {
+    "as_of": "2026-10-11",
+    "change": "date quality guidance -> inferred (no company date); clock corrected to 8 months for an NME under priority review"
+   }
+  ],
   "indication_group": "Neurology",
-  "last_verified": "2026-10-01",
+  "last_verified": "2026-10-11",
   "why_it_matters": "The FDA's decision on fenebrutinib \u2014 the first BTK inhibitor submitted for both relapsing and primary progressive MS \u2014 is expected in Q1 2027 under Priority Review; the exact PDUFA date has not been disclosed."
  },
  {
@@ -43172,7 +43312,7 @@
   "drug": "COYA 302",
   "indication": "amyotrophic lateral sclerosis (ALS)",
   "event_type": "readout",
-  "phase": "Phase 2/3",
+  "phase": "3",
   "date_exact": null,
   "date_bucket": "2027-Q2",
   "date_quality": "guidance",
@@ -43208,7 +43348,7 @@
   "drug": "rexlemestrocel-L",
   "indication": "chronic low back pain (degenerative disc disease)",
   "event_type": "readout",
-  "phase": "Phase 3",
+  "phase": "3",
   "date_exact": null,
   "date_bucket": "2027-H2",
   "date_quality": "guidance",
@@ -43244,7 +43384,7 @@
   "drug": "urcosimod (OK-101)",
   "indication": "neuropathic corneal pain",
   "event_type": "readout",
-  "phase": "Phase 2/3",
+  "phase": "3",
   "date_exact": null,
   "date_bucket": "2027-H1",
   "date_quality": "guidance",
@@ -43253,7 +43393,7 @@
   "source_type": "company PR",
   "source_date": "2026-08-01",
   "as_of": "2026-10-01",
-  "notes": "Company corporate summary (ESCRS 2026): Phase 2b/3 trial of urcosimod 0.05% eyedrops in neuropathic corneal pain (~150 subjects, design confirmed with FDA, Fast Track designation) fully enrolled expected 4Q26, topline data expected 1H2027. Sep 29, 2026 company PR adds a global Phase 3 pivotal trial (111 patients, single-dose regimen) to initiate H2 2026. Nasdaq-listed (OKYO). Found via Oct 2026 CT.gov coverage-gap sweep.",
+  "notes": "Company corporate summary (ESCRS 2026): Phase 2b/3 trial of urcosimod 0.05% eyedrops in neuropathic corneal pain (~150 subjects, design confirmed with FDA, Fast Track designation) fully enrolled expected 4Q26, topline data expected 1H2027. Sep 29, 2026 company PR adds a global Phase 3 pivotal trial (111 patients, single-dose regimen) to initiate H2 2026. Nasdaq-listed (OKYO). Found via Oct 2026 CT.gov coverage-gap sweep. (Phase 2/3 trial.)",
   "guidance_detail": "Topline data from Phase 2b/3 NCP trial expected 1H2027 (company corporate summary, ESCRS 2026 submission).",
   "nct_id": "",
   "application_type": "",
@@ -43280,7 +43420,7 @@
   "drug": "IFx-2.0",
   "indication": "advanced/metastatic Merkel cell carcinoma (1L, + Keytruda)",
   "event_type": "readout",
-  "phase": "Phase 3",
+  "phase": "3",
   "date_exact": null,
   "date_bucket": "2027-H2",
   "date_quality": "guidance",
@@ -43388,7 +43528,7 @@
   "drug": "Annamycin + cytarabine (AnnAraC)",
   "indication": "Relapsed/refractory acute myeloid leukemia (R/R AML)",
   "event_type": "readout",
-  "phase": "Phase 2/3",
+  "phase": "3",
   "date_exact": null,
   "date_bucket": "2027-Q1",
   "date_quality": "guidance",
@@ -43460,5 +43600,51 @@
   "indication_group": "Hematology",
   "last_verified": "2026-10-04",
   "why_it_matters": "Denecimig is Novo's FVIIIa-mimetic for haemophilia A; its US approval slipped past Q3 2026 on a manufacturing-facility issue (not clinical data), with a company-guided H1 2027 launch \u2014 a dated US regulatory watch where no PDUFA date currently exists."
+ },
+ {
+  "as_of": "2026-10-09",
+  "ticker": "BBIO",
+  "company": "BridgeBio Pharma, Inc.",
+  "competitors": [
+   "Vosoritide/Voxzogo (BioMarin)",
+   "TransCon CNP (Ascendis Pharma)"
+  ],
+  "country": "United States",
+  "us_listed": true,
+  "us_tradable": true,
+  "drug": "infigratinib",
+  "indication": "achondroplasia (children)",
+  "event_type": "pdufa",
+  "phase": null,
+  "date_exact": "2027-02-04",
+  "date_bucket": "2027-Q1",
+  "date_quality": "hard",
+  "notes": "FDA accepted the NDA for oral infigratinib for filing and granted Priority Review (announced Oct 6, 2026); PDUFA target action date February 4, 2027. PROPEL 3 met its primary endpoint and key secondaries: largest AHV treatment effect of any Phase 3 study in achondroplasia (+2.10 cm/yr, p<0.0001), and the first and only statistically significant improvement in both body proportionality and arm span in an achondroplasia Phase 3. If approved, oral infigratinib would be the first and only approved oral therapy for children with achondroplasia.",
+  "guidance_detail": "FDA accepted the NDA for oral infigratinib (achondroplasia, children) for filing with Priority Review; PDUFA target action date February 4, 2027.",
+  "nct_id": "",
+  "application_type": "",
+  "review_class": "",
+  "adcom_planned": "unknown",
+  "trial_status": "",
+  "source_date": "2026-10-06",
+  "source_type": "company PR",
+  "source_url": "https://www.globenewswire.com/news-release/2026/10/06/3375352/0/en/bridgebio-announces-fda-acceptance-and-priority-review-of-nda-for-oral-infigratinib-for-children-with-achondroplasia.html",
+  "record_id": "v41-0002",
+  "audit_status": "v41_hotfix",
+  "audit_action": "add",
+  "mktcap_tier": "large",
+  "impact": "medium",
+  "related_events": [
+   "v16-0861"
+  ],
+  "date_history": [
+   {
+    "as_of": "2026-10-09",
+    "change": "added; NDA accepted for filing with Priority Review 06 Oct 2026, PDUFA target action date 2027-02-04"
+   }
+  ],
+  "indication_group": "Rare Disease/Genetic",
+  "last_verified": "2026-10-09",
+  "why_it_matters": "The FDA's decision date on oral infigratinib for achondroplasia falls on 2027-02-04 \u2014 the agency's yes-or-no moment for BridgeBio's application, and if approved it would be the first and only approved oral therapy for children with achondroplasia."
  }
 ]

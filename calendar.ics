@@ -84,7 +84,7 @@ DTSTART;VALUE=DATE:20270202
 SUMMARY:GILD — Yeztugo (lenacapavir\, oral once-weekly) PDUFA decision
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-DESCRIPTION:Indication: HIV pre-exposure prophylaxis\nNote: FDA accepted the NDA for the once-weekly oral formulation\, potentially the first long-acting pill for HIV prevention\; standard-review action date 2027-02-02.\nDate quality: hard (2027-02-02)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0094\nSource: https://www.gilead.com/news/news-details/2026/u-s--fda-accepts-gileads-application-for-investigational-once-weekly-oral-yeztugo-potentially-the-first-long-acting-pill-for-hiv-prevention
+DESCRIPTION:Indication: HIV pre-exposure prophylaxis\nNote: FDA accepted the supplemental NDA for the once-weekly oral formulation\, potentially the first long-acting pill for HIV prevention\; standard-review action date 2027-02-02.\nDate quality: hard (2027-02-02)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0094\nSource: https://www.gilead.com/news/news-details/2026/u-s--fda-accepts-gileads-application-for-investigational-once-weekly-oral-yeztugo-potentially-the-first-long-acting-pill-for-hiv-prevention
 END:VEVENT
 BEGIN:VEVENT
 UID:v16-0101@biotech-catalyst-calendar
@@ -93,7 +93,7 @@ DTSTART;VALUE=DATE:20270401
 SUMMARY:HRMY — pitolisant GR (gastro-resistant tablets) PDUFA decision
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-DESCRIPTION:Indication: narcolepsy\nNote: Pitolisant GR = gastro-resistant tablets (not granules)\, pediatric narcolepsy formulation\; NDA accepted by FDA July 2026\; target PDUFA date 2027-04-01 per Q2 2026 company update.\nDate quality: hard (2027-04-01)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0101\nSource: https://www.globenewswire.com/news-release/2026/08/04/3338190/0/en/Harmony-Biosciences-Announces-Record-Q2-2026-Revenue-and-Shares-Initial-Clinical-Data-for-Its-Orexin-2-Agonist-BP-205-Reinforcing-Potential-Best-in-Class-Profile.html
+DESCRIPTION:Indication: narcolepsy\nNote: Pitolisant GR = gastro-resistant (enteric-coated) tablets designed to avoid GI side effects and titration\; NDA accepted by FDA July 2026\; target PDUFA date 2027-04-01 per Q2 2026 company update.\nDate quality: hard (2027-04-01)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v16-0101\nSource: https://www.globenewswire.com/news-release/2026/08/04/3338190/0/en/Harmony-Biosciences-Announces-Record-Q2-2026-Revenue-and-Shares-Initial-Clinical-Data-for-Its-Orexin-2-Agonist-BP-205-Reinforcing-Potential-Best-in-Class-Profile.html
 END:VEVENT
 BEGIN:VEVENT
 UID:v16-0108@biotech-catalyst-calendar
@@ -2071,180 +2071,180 @@ UID:v19-0001@biotech-catalyst-calendar
 DTSTAMP:20261001T000000Z
 DTSTART;VALUE=DATE:20270210
 SUMMARY:RYTM — setmelanotide HTA decision
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
-DESCRIPTION:Indication: Acquired hypothalamic obesity\nNote: NICE technology appraisal guidance ID6542: "Setmelanotide for treating acquired hypothalamic obesity in people 4 years and over [ID6542] | Technology appraisal guidance | 10 February 2027". NICE expected publication dates slip routinely\; the date here is the agency-published expected date from the NICE in-development guidance table.\nDate quality: hard (2027-02-10)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v19-0001\nSource: https://www.nice.org.uk/guidance/indevelopment
+DESCRIPTION:Indication: Acquired hypothalamic obesity\nNote: NICE technology appraisal guidance ID6542: "Setmelanotide for treating acquired hypothalamic obesity in people 4 years and over [ID6542] | Technology appraisal guidance | 10 February 2027". NICE expected publication dates slip routinely\; the date here is the agency-published expected date from the NICE in-development guidance table.\nDate quality: guidance (2027-02-10)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v19-0001\nSource: https://www.nice.org.uk/guidance/indevelopment
 END:VEVENT
 BEGIN:VEVENT
 UID:v19-0002@biotech-catalyst-calendar
 DTSTAMP:20261001T000000Z
 DTSTART;VALUE=DATE:20270414
 SUMMARY:AZN — baxdrostat HTA decision
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
-DESCRIPTION:Indication: Uncontrolled or resistant hypertension\nNote: NICE technology appraisal guidance ID6623: "Baxdrostat for treating uncontrolled or resistant hypertension [ID6623] | Technology appraisal guidance | 14 April 2027". NICE expected publication dates slip routinely\; the date here is the agency-published expected date from the NICE in-development guidance table.\nDate quality: hard (2027-04-14)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v19-0002\nSource: https://www.nice.org.uk/guidance/indevelopment
+DESCRIPTION:Indication: Uncontrolled or resistant hypertension\nNote: NICE technology appraisal guidance ID6623: "Baxdrostat for treating uncontrolled or resistant hypertension [ID6623] | Technology appraisal guidance | 14 April 2027". NICE expected publication dates slip routinely\; the date here is the agency-published expected date from the NICE in-development guidance table.\nDate quality: guidance (2027-04-14)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v19-0002\nSource: https://www.nice.org.uk/guidance/indevelopment
 END:VEVENT
 BEGIN:VEVENT
 UID:v19-0003@biotech-catalyst-calendar
 DTSTAMP:20261001T000000Z
 DTSTART;VALUE=DATE:20270113
 SUMMARY:AMGN — tarlatamab HTA decision
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
-DESCRIPTION:Indication: Extended-stage small cell lung cancer\nNote: NICE technology appraisal: tarlatamab for ES-SCLC\, expected 13 Jan 2027 per the NICE in-development guidance table. NICE expected publication dates slip routinely\; the date here is the agency-published expected date from the NICE in-development guidance table.\nDate quality: hard (2027-01-13)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v19-0003\nSource: https://www.nice.org.uk/guidance/indevelopment
+DESCRIPTION:Indication: Extended-stage small cell lung cancer\nNote: NICE technology appraisal: tarlatamab for ES-SCLC\, expected 13 Jan 2027 per the NICE in-development guidance table. NICE expected publication dates slip routinely\; the date here is the agency-published expected date from the NICE in-development guidance table.\nDate quality: guidance (2027-01-13)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v19-0003\nSource: https://www.nice.org.uk/guidance/indevelopment
 END:VEVENT
 BEGIN:VEVENT
 UID:v19-0004@biotech-catalyst-calendar
 DTSTAMP:20261001T000000Z
 DTSTART;VALUE=DATE:20270317
 SUMMARY:BIIB — tofersen HTA decision
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
-DESCRIPTION:Indication: SOD1-ALS\nNote: NICE Highly Specialised Technologies appraisal: tofersen for SOD1-ALS\, expected 17 Mar 2027 per the NICE in-development guidance table. NICE expected publication dates slip routinely\; the date here is the agency-published expected date from the NICE in-development guidance table.\nDate quality: hard (2027-03-17)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v19-0004\nSource: https://www.nice.org.uk/guidance/indevelopment
+DESCRIPTION:Indication: SOD1-ALS\nNote: NICE Highly Specialised Technologies appraisal: tofersen for SOD1-ALS\, expected 17 Mar 2027 per the NICE in-development guidance table. NICE expected publication dates slip routinely\; the date here is the agency-published expected date from the NICE in-development guidance table.\nDate quality: guidance (2027-03-17)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v19-0004\nSource: https://www.nice.org.uk/guidance/indevelopment
 END:VEVENT
 BEGIN:VEVENT
 UID:v19-0005@biotech-catalyst-calendar
 DTSTAMP:20261001T000000Z
 DTSTART;VALUE=DATE:20270520
 SUMMARY:GILD — anitocabtagene autoleucel (anito-cel) HTA decision
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
-DESCRIPTION:Indication: Relapsed/refractory multiple myeloma\nNote: NICE technology appraisal: anito-cel for R/R multiple myeloma\, expected 20 May 2027 per the NICE in-development guidance table. NICE expected publication dates slip routinely\; the date here is the agency-published expected date from the NICE in-development guidance table.\nDate quality: hard (2027-05-20)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v19-0005\nSource: https://www.nice.org.uk/guidance/indevelopment
+DESCRIPTION:Indication: Relapsed/refractory multiple myeloma\nNote: NICE technology appraisal: anito-cel for R/R multiple myeloma\, expected 20 May 2027 per the NICE in-development guidance table. NICE expected publication dates slip routinely\; the date here is the agency-published expected date from the NICE in-development guidance table.\nDate quality: guidance (2027-05-20)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v19-0005\nSource: https://www.nice.org.uk/guidance/indevelopment
 END:VEVENT
 BEGIN:VEVENT
 UID:v19-0006@biotech-catalyst-calendar
 DTSTAMP:20261001T000000Z
 DTSTART;VALUE=DATE:20270217
 SUMMARY:REGN — linvoseltamab HTA decision
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
-DESCRIPTION:Indication: Relapsed/refractory multiple myeloma\nNote: NICE technology appraisal: linvoseltamab\, expected 17 Feb 2027 per the NICE in-development guidance table. NICE expected publication dates slip routinely\; the date here is the agency-published expected date from the NICE in-development guidance table.\nDate quality: hard (2027-02-17)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v19-0006\nSource: https://www.nice.org.uk/guidance/indevelopment
+DESCRIPTION:Indication: Relapsed/refractory multiple myeloma\nNote: NICE technology appraisal: linvoseltamab\, expected 17 Feb 2027 per the NICE in-development guidance table. NICE expected publication dates slip routinely\; the date here is the agency-published expected date from the NICE in-development guidance table.\nDate quality: guidance (2027-02-17)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v19-0006\nSource: https://www.nice.org.uk/guidance/indevelopment
 END:VEVENT
 BEGIN:VEVENT
 UID:v19-0007@biotech-catalyst-calendar
 DTSTAMP:20261001T000000Z
 DTSTART;VALUE=DATE:20270324
 SUMMARY:REGN — cemiplimab HTA decision
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
-DESCRIPTION:Indication: Adjuvant cutaneous squamous cell carcinoma\nNote: NICE technology appraisal: cemiplimab in adjuvant cSCC\, expected 24 Mar 2027 per the NICE in-development guidance table. NICE expected publication dates slip routinely\; the date here is the agency-published expected date from the NICE in-development guidance table.\nDate quality: hard (2027-03-24)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v19-0007\nSource: https://www.nice.org.uk/guidance/indevelopment
+DESCRIPTION:Indication: Adjuvant cutaneous squamous cell carcinoma\nNote: NICE technology appraisal: cemiplimab in adjuvant cSCC\, expected 24 Mar 2027 per the NICE in-development guidance table. NICE expected publication dates slip routinely\; the date here is the agency-published expected date from the NICE in-development guidance table.\nDate quality: guidance (2027-03-24)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v19-0007\nSource: https://www.nice.org.uk/guidance/indevelopment
 END:VEVENT
 BEGIN:VEVENT
 UID:v19-0008@biotech-catalyst-calendar
 DTSTAMP:20261001T000000Z
 DTSTART;VALUE=DATE:20270128
 SUMMARY:PFE — elranatamab HTA decision
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
-DESCRIPTION:Indication: Relapsed/refractory multiple myeloma (managed-access review)\nNote: NICE managed-access review: elranatamab\, expected 28 Jan 2027 per the NICE in-development guidance table. Managed-access review of an existing recommendation\, not a first appraisal. NICE expected publication dates slip routinely\; the date here is the agency-published expected date from the NICE in-development guidance table.\nDate quality: hard (2027-01-28)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v19-0008\nSource: https://www.nice.org.uk/guidance/indevelopment
+DESCRIPTION:Indication: Relapsed/refractory multiple myeloma (managed-access review)\nNote: NICE managed-access review: elranatamab\, expected 28 Jan 2027 per the NICE in-development guidance table. Managed-access review of an existing recommendation\, not a first appraisal. NICE expected publication dates slip routinely\; the date here is the agency-published expected date from the NICE in-development guidance table.\nDate quality: guidance (2027-01-28)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v19-0008\nSource: https://www.nice.org.uk/guidance/indevelopment
 END:VEVENT
 BEGIN:VEVENT
 UID:v19-0009@biotech-catalyst-calendar
 DTSTAMP:20261001T000000Z
 DTSTART;VALUE=DATE:20270506
-SUMMARY:PFE — brentuximab vedotin (Adcetris) combination HTA decision
-STATUS:CONFIRMED
+SUMMARY:TAK — brentuximab vedotin (Adcetris) combination HTA decision
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
-DESCRIPTION:Indication: Combination therapy in lymphoma (per NICE appraisal schedule)\nNote: NICE technology appraisal: brentuximab vedotin combination\, expected 6 May 2027 per the NICE in-development guidance table. Indication per the NICE appraisal record\; confirm detail at monthly refresh. NICE expected publication dates slip routinely\; the date here is the agency-published expected date from the NICE in-development guidance table.\nDate quality: hard (2027-05-06)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v19-0009\nSource: https://www.nice.org.uk/guidance/indevelopment
+DESCRIPTION:Indication: Combination therapy in lymphoma (per NICE appraisal schedule)\nNote: NICE technology appraisal: brentuximab vedotin combination\, expected 6 May 2027 per the NICE in-development guidance table. Indication per the NICE appraisal record\; confirm detail at monthly refresh. NICE expected publication dates slip routinely\; the date here is the agency-published expected date from the NICE in-development guidance table. Takeda holds Adcetris marketing rights outside the US \nDate quality: guidance (2027-05-06)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v19-0009\nSource: https://www.nice.org.uk/guidance/indevelopment
 END:VEVENT
 BEGIN:VEVENT
 UID:v19-0010@biotech-catalyst-calendar
 DTSTAMP:20261001T000000Z
 DTSTART;VALUE=DATE:20270210
 SUMMARY:PFE — enfortumab vedotin + pembrolizumab HTA decision
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
-DESCRIPTION:Indication: Perioperative bladder cancer\nNote: NICE technology appraisal: enfortumab vedotin (Padcev\, Astellas/Pfizer) with pembrolizumab (Keytruda\, Merck) in perioperative bladder cancer\, expected 10 Feb 2027 per the NICE in-development guidance table. NICE expected publication dates slip routinely\; the date here is the agency-published expected date from the NICE in-development guidance table.\nDate quality: hard (2027-02-10)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v19-0010\nSource: https://www.nice.org.uk/guidance/indevelopment
+DESCRIPTION:Indication: Perioperative bladder cancer\nNote: NICE technology appraisal: enfortumab vedotin (Padcev\, Astellas/Pfizer) with pembrolizumab (Keytruda\, Merck) in perioperative bladder cancer\, expected 10 Feb 2027 per the NICE in-development guidance table. NICE expected publication dates slip routinely\; the date here is the agency-published expected date from the NICE in-development guidance table.\nDate quality: guidance (2027-02-10)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v19-0010\nSource: https://www.nice.org.uk/guidance/indevelopment
 END:VEVENT
 BEGIN:VEVENT
 UID:v19-0011@biotech-catalyst-calendar
 DTSTAMP:20261001T000000Z
 DTSTART;VALUE=DATE:20270310
 SUMMARY:GSK — bepirovirsen HTA decision
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
-DESCRIPTION:Indication: Chronic hepatitis B\nNote: NICE technology appraisal: bepirovirsen for HBV\, expected 10 Mar 2027 per the NICE in-development guidance table. NICE expected publication dates slip routinely\; the date here is the agency-published expected date from the NICE in-development guidance table.\nDate quality: hard (2027-03-10)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v19-0011\nSource: https://www.nice.org.uk/guidance/indevelopment
+DESCRIPTION:Indication: Chronic hepatitis B\nNote: NICE technology appraisal: bepirovirsen for HBV\, expected 10 Mar 2027 per the NICE in-development guidance table. NICE expected publication dates slip routinely\; the date here is the agency-published expected date from the NICE in-development guidance table.\nDate quality: guidance (2027-03-10)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v19-0011\nSource: https://www.nice.org.uk/guidance/indevelopment
 END:VEVENT
 BEGIN:VEVENT
 UID:v19-0012@biotech-catalyst-calendar
 DTSTAMP:20261001T000000Z
 DTSTART;VALUE=DATE:20270224
 SUMMARY:NVO — denecimig (Mim8) HTA decision
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
-DESCRIPTION:Indication: Haemophilia A\nNote: NICE technology appraisal: denecimig (Mim8) for haemophilia A\, expected 24 Feb 2027 per the NICE in-development guidance table. NICE expected publication dates slip routinely\; the date here is the agency-published expected date from the NICE in-development guidance table.\nDate quality: hard (2027-02-24)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v19-0012\nSource: https://www.nice.org.uk/guidance/indevelopment
+DESCRIPTION:Indication: Haemophilia A\nNote: NICE technology appraisal: denecimig (Mim8) for haemophilia A\, expected 24 Feb 2027 per the NICE in-development guidance table. NICE expected publication dates slip routinely\; the date here is the agency-published expected date from the NICE in-development guidance table.\nDate quality: guidance (2027-02-24)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v19-0012\nSource: https://www.nice.org.uk/guidance/indevelopment
 END:VEVENT
 BEGIN:VEVENT
 UID:v19-0013@biotech-catalyst-calendar
 DTSTAMP:20261001T000000Z
 DTSTART;VALUE=DATE:20270210
 SUMMARY:ONC — tislelizumab HTA decision
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
-DESCRIPTION:Indication: Oesophageal cancer\nNote: NICE technology appraisal: tislelizumab for oesophageal cancer\, expected 10 Feb 2027 per the NICE in-development guidance table. NICE expected publication dates slip routinely\; the date here is the agency-published expected date from the NICE in-development guidance table.\nDate quality: hard (2027-02-10)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v19-0013\nSource: https://www.nice.org.uk/guidance/indevelopment
+DESCRIPTION:Indication: Oesophageal cancer\nNote: NICE technology appraisal: tislelizumab for oesophageal cancer\, expected 10 Feb 2027 per the NICE in-development guidance table. NICE expected publication dates slip routinely\; the date here is the agency-published expected date from the NICE in-development guidance table.\nDate quality: guidance (2027-02-10)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v19-0013\nSource: https://www.nice.org.uk/guidance/indevelopment
 END:VEVENT
 BEGIN:VEVENT
 UID:v19-0014@biotech-catalyst-calendar
 DTSTAMP:20261001T000000Z
 DTSTART;VALUE=DATE:20270513
 SUMMARY:ONC — tislelizumab HTA decision
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
-DESCRIPTION:Indication: Nasopharyngeal cancer\nNote: NICE technology appraisal: tislelizumab for nasopharyngeal cancer\, expected 13 May 2027 per the NICE in-development guidance table. NICE expected publication dates slip routinely\; the date here is the agency-published expected date from the NICE in-development guidance table.\nDate quality: hard (2027-05-13)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v19-0014\nSource: https://www.nice.org.uk/guidance/indevelopment
+DESCRIPTION:Indication: Nasopharyngeal cancer\nNote: NICE technology appraisal: tislelizumab for nasopharyngeal cancer\, expected 13 May 2027 per the NICE in-development guidance table. NICE expected publication dates slip routinely\; the date here is the agency-published expected date from the NICE in-development guidance table.\nDate quality: guidance (2027-05-13)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v19-0014\nSource: https://www.nice.org.uk/guidance/indevelopment
 END:VEVENT
 BEGIN:VEVENT
 UID:v19-0015@biotech-catalyst-calendar
 DTSTAMP:20261001T000000Z
 DTSTART;VALUE=DATE:20270513
 SUMMARY:RHHBY — obinutuzumab HTA decision
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
-DESCRIPTION:Indication: Lupus\nNote: NICE technology appraisal: obinutuzumab for lupus\, expected 13 May 2027 per the NICE in-development guidance table. NICE expected publication dates slip routinely\; the date here is the agency-published expected date from the NICE in-development guidance table.\nDate quality: hard (2027-05-13)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v19-0015\nSource: https://www.nice.org.uk/guidance/indevelopment
+DESCRIPTION:Indication: Lupus\nNote: NICE technology appraisal: obinutuzumab for lupus\, expected 13 May 2027 per the NICE in-development guidance table. NICE expected publication dates slip routinely\; the date here is the agency-published expected date from the NICE in-development guidance table.\nDate quality: guidance (2027-05-13)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v19-0015\nSource: https://www.nice.org.uk/guidance/indevelopment
 END:VEVENT
 BEGIN:VEVENT
 UID:v19-0016@biotech-catalyst-calendar
 DTSTAMP:20261001T000000Z
 DTSTART;VALUE=DATE:20270513
 SUMMARY:INCY — povorcitinib HTA decision
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
-DESCRIPTION:Indication: Hidradenitis suppurativa\nNote: NICE technology appraisal: povorcitinib for hidradenitis suppurativa\, expected 13 May 2027 per the NICE in-development guidance table. NICE expected publication dates slip routinely\; the date here is the agency-published expected date from the NICE in-development guidance table.\nDate quality: hard (2027-05-13)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v19-0016\nSource: https://www.nice.org.uk/guidance/indevelopment
+DESCRIPTION:Indication: Hidradenitis suppurativa\nNote: NICE technology appraisal: povorcitinib for hidradenitis suppurativa\, expected 13 May 2027 per the NICE in-development guidance table. NICE expected publication dates slip routinely\; the date here is the agency-published expected date from the NICE in-development guidance table.\nDate quality: guidance (2027-05-13)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v19-0016\nSource: https://www.nice.org.uk/guidance/indevelopment
 END:VEVENT
 BEGIN:VEVENT
 UID:v19-0017@biotech-catalyst-calendar
 DTSTAMP:20261001T000000Z
 DTSTART;VALUE=DATE:20270610
 SUMMARY:INCY — tafasitamab + R-CHOP HTA decision
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
-DESCRIPTION:Indication: Diffuse large B-cell lymphoma\nNote: NICE technology appraisal: tafasitamab with R-CHOP for DLBCL\, expected 10 Jun 2027 per the NICE in-development guidance table. NICE expected publication dates slip routinely\; the date here is the agency-published expected date from the NICE in-development guidance table.\nDate quality: hard (2027-06-10)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v19-0017\nSource: https://www.nice.org.uk/guidance/indevelopment
+DESCRIPTION:Indication: Diffuse large B-cell lymphoma\nNote: NICE technology appraisal: tafasitamab with R-CHOP for DLBCL\, expected 10 Jun 2027 per the NICE in-development guidance table. NICE expected publication dates slip routinely\; the date here is the agency-published expected date from the NICE in-development guidance table.\nDate quality: guidance (2027-06-10)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v19-0017\nSource: https://www.nice.org.uk/guidance/indevelopment
 END:VEVENT
 BEGIN:VEVENT
 UID:v19-0018@biotech-catalyst-calendar
 DTSTAMP:20261001T000000Z
 DTSTART;VALUE=DATE:20270603
 SUMMARY:INCY — ruxolitinib cream HTA decision
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
-DESCRIPTION:Indication: Atopic dermatitis\nNote: NICE technology appraisal: ruxolitinib cream for atopic dermatitis\, expected 3 Jun 2027 per the NICE in-development guidance table. NICE expected publication dates slip routinely\; the date here is the agency-published expected date from the NICE in-development guidance table.\nDate quality: hard (2027-06-03)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v19-0018\nSource: https://www.nice.org.uk/guidance/indevelopment
+DESCRIPTION:Indication: Atopic dermatitis\nNote: NICE technology appraisal: ruxolitinib cream for atopic dermatitis\, expected 3 Jun 2027 per the NICE in-development guidance table. NICE expected publication dates slip routinely\; the date here is the agency-published expected date from the NICE in-development guidance table.\nDate quality: guidance (2027-06-03)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v19-0018\nSource: https://www.nice.org.uk/guidance/indevelopment
 END:VEVENT
 BEGIN:VEVENT
 UID:v19-0019@biotech-catalyst-calendar
 DTSTAMP:20261001T000000Z
 DTSTART;VALUE=DATE:20270113
 SUMMARY:AZN — trastuzumab deruxtecan (Enhertu) HTA decision
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
-DESCRIPTION:Indication: Gastric cancer (guidance review)\nNote: NICE review of guidance: Enhertu (trastuzumab deruxtecan\, AstraZeneca/Daiichi Sankyo) for gastric cancer\, expected 13 Jan 2027 per the NICE in-development guidance table. Guidance review\, not a first appraisal. NICE expected publication dates slip routinely\; the date here is the agency-published expected date from the NICE in-development guidance table.\nDate quality: hard (2027-01-13)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v19-0019\nSource: https://www.nice.org.uk/guidance/indevelopment
+DESCRIPTION:Indication: Gastric cancer (guidance review)\nNote: NICE review of guidance: Enhertu (trastuzumab deruxtecan\, AstraZeneca/Daiichi Sankyo) for gastric cancer\, expected 13 Jan 2027 per the NICE in-development guidance table. Guidance review\, not a first appraisal. NICE expected publication dates slip routinely\; the date here is the agency-published expected date from the NICE in-development guidance table.\nDate quality: guidance (2027-01-13)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v19-0019\nSource: https://www.nice.org.uk/guidance/indevelopment
 END:VEVENT
 BEGIN:VEVENT
 UID:v19-0020@biotech-catalyst-calendar
 DTSTAMP:20261001T000000Z
 DTSTART;VALUE=DATE:20270411
 SUMMARY:leriglitazone HTA decision
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
-DESCRIPTION:Indication: Highly Specialised Technologies appraisal\nNote: NICE Highly Specialised Technologies appraisal: leriglitazone\, expected 11 Apr 2027 per the NICE in-development guidance table. Sponsor is private (Minoryx Therapeutics). NICE expected publication dates slip routinely\; the date here is the agency-published expected date from the NICE in-development guidance table.\nDate quality: hard (2027-04-11)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v19-0020\nSource: https://www.nice.org.uk/guidance/indevelopment
+DESCRIPTION:Indication: Cerebral adrenoleukodystrophy (NICE Highly Specialised Technologies appraisal)\nNote: NICE Highly Specialised Technologies appraisal: leriglitazone\, expected 11 Apr 2027 per the NICE in-development guidance table. Sponsor is private (Minoryx Therapeutics). NICE expected publication dates slip routinely\; the date here is the agency-published expected date from the NICE in-development guidance table.\nDate quality: guidance (2027-04-11)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v19-0020\nSource: https://www.nice.org.uk/guidance/indevelopment
 END:VEVENT
 BEGIN:VEVENT
 UID:v19-0028@biotech-catalyst-calendar
@@ -2326,5 +2326,14 @@ SUMMARY:Conference
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 DESCRIPTION:Note: Austria Center Vienna\, Vienna\, Austria\; October 27-30\, 2027\; sarcoma/connective tissue oncology\nDate quality: hard (2027-10-27)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v40-0508\nSource: https://www.ctos.org/Meeting/FutureMeetings.aspx
+END:VEVENT
+BEGIN:VEVENT
+UID:v41-0002@biotech-catalyst-calendar
+DTSTAMP:20261001T000000Z
+DTSTART;VALUE=DATE:20270204
+SUMMARY:BBIO — infigratinib PDUFA decision
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+DESCRIPTION:Indication: achondroplasia (children)\nThe FDA's decision date on oral infigratinib for achondroplasia falls on 2027-02-04 — the agency's yes-or-no moment for BridgeBio's application\, and if approved it would be the first and only approved oral therapy for children with achondroplasia.\nNote: FDA accepted the NDA for oral infigratinib for filing and granted Priority Review (announced Oct 6\, 2026)\; PDUFA target action date February 4\, 2027. PROPEL 3 met its primary endpoint and key secondaries: largest AHV treatment effect of any Phase 3 study in achondroplasia (+2.10 cm/yr\, p<0.0001)\, and the first and only statistically significant improvement in both body proportionality and arm span\nDate quality: hard (2027-02-04)\nDetails: https://risdiplam.github.io/biotech-catalyst-calendar/#/event/v41-0002\nSource: https://www.globenewswire.com/news-release/2026/10/06/3375352/0/en/bridgebio-announces-fda-acceptance-and-priority-review-of-nda-for-oral-infigratinib-for-children-with-achondroplasia.html
 END:VEVENT
 END:VCALENDAR
