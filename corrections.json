@@ -1,1 +1,36 @@
-{"log": [{"date": "2026-10-11", "entries": ["Infigratinib (BBIO) PDUFA 2027-02-04, added in the 2026-10-09 hotfix, is now also in the raw JSON, the .ics feed and the BBIO ticker page (it was only in the interactive calendar).", "Adverum (ADVM) no longer trades after Lilly completed its acquisition in late 2025. The ixo-vec ARTEMIS readout now sits under LLY and is carried as inferred, since Lilly has not separately guided it.", "NICE expected publication dates (20 HTA rows) are now labelled guidance rather than hard, because NICE dates slip routinely. This matches how the CMS coverage decision row was already labelled.", "Fenebrutinib (Roche) PDUFA window is now labelled inferred: Roche disclosed no date, and an NME under priority review runs about 8 months from submission, so early Q2 2027 is possible.", "Sutacimig (COAG) readout moved from H1 to H2 2027 to match the registry primary completion date (Nov 2027).", "Gilead's once-weekly oral Yeztugo application is a supplemental NDA. Pitolisant GR (HRMY) is an enteric-coated tablet, not a pediatric formulation. Sedana Medical is not US-listed.", "NICE brentuximab vedotin appraisal moved from PFE to TAK (Takeda holds Adcetris rights in the UK). Leriglitazone's indication is now cerebral adrenoleukodystrophy.", "Savara's MOLBREEVI EU row now cites the correct source date (2026-03-30) and notes that 'decision in Q1 2027' may mean the EC decision rather than the CHMP opinion.", "Six rows recorded as 'Phase 3' or 'Phase 2/3' now use the standard phase value, so they appear in the Phase 3 tab.", "Removed the stale AKRO, OCUL and ADVM ticker pages, and refreshed the hero and methodology counts, which had not been updated since v4.0."], "version": "v4.2"}, {"date": "2026-09-24", "entries": [], "version": "v4.0"}]}
+{
+ "log": [
+  {
+   "date": "2026-10-20",
+   "entries": [
+    "Three FDA decision dates added: Anaphylm (AQST) on March 16, 2027, tabelecleucel (ATRA) on March 31, 2027, and UGN-103 (URGN) on June 14, 2027.",
+    "New 2027 readouts added for MRT-8102 in gout (GLUE), EDIT-401 (EDIT), ANB033 in celiac disease and eosinophilic esophagitis (TRAX), TRB-061 (TRXB) and RTN-001 (RTSN), plus a LIVMARLI sNDA submission window (MIRM) and the AHA, ERS and ACTRIMS 2027 meeting dates.",
+    "Mirum's brelovitug AZURE-2/-3 readout moved from Q2 to H2 2027, following the company's October update.",
+    "Removed events that will not happen in 2027: Caribou discontinued two programs, EyePoint ended its wet-AMD program after a Phase 3 miss, a Roche trial was terminated, and readouts for MDWD, REGN and ONC slipped to 2028 registry timelines.",
+    "RYTM's RM-718 readout moved from Q4 to Q2 2027 and Novartis's KFA115 from Q3 to Q4 2027 on updated registry completion dates; eight further registry dates were corrected, and Organon's tapinarof trial is now flagged as suspended (a precautionary dosing pause).",
+    "Every source link in the calendar was re-checked; two broken meeting links (ACOG, ISPN) were replaced with the organizers\u2019 current pages."
+   ]
+  },
+  {
+   "date": "2026-10-11",
+   "entries": [
+    "Infigratinib (BBIO) PDUFA 2027-02-04, added in the 2026-10-09 hotfix, is now also in the raw JSON, the .ics feed and the BBIO ticker page (it was only in the interactive calendar).",
+    "Adverum (ADVM) no longer trades after Lilly completed its acquisition in late 2025. The ixo-vec ARTEMIS readout now sits under LLY and is carried as inferred, since Lilly has not separately guided it.",
+    "NICE expected publication dates (20 HTA rows) are now labelled guidance rather than hard, because NICE dates slip routinely. This matches how the CMS coverage decision row was already labelled.",
+    "Fenebrutinib (Roche) PDUFA window is now labelled inferred: Roche disclosed no date, and an NME under priority review runs about 8 months from submission, so early Q2 2027 is possible.",
+    "Sutacimig (COAG) readout moved from H1 to H2 2027 to match the registry primary completion date (Nov 2027).",
+    "Gilead's once-weekly oral Yeztugo application is a supplemental NDA. Pitolisant GR (HRMY) is an enteric-coated tablet, not a pediatric formulation. Sedana Medical is not US-listed.",
+    "NICE brentuximab vedotin appraisal moved from PFE to TAK (Takeda holds Adcetris rights in the UK). Leriglitazone's indication is now cerebral adrenoleukodystrophy.",
+    "Savara's MOLBREEVI EU row now cites the correct source date (2026-03-30) and notes that 'decision in Q1 2027' may mean the EC decision rather than the CHMP opinion.",
+    "Six rows recorded as 'Phase 3' or 'Phase 2/3' now use the standard phase value, so they appear in the Phase 3 tab.",
+    "Removed the stale AKRO, OCUL and ADVM ticker pages, and refreshed the hero and methodology counts, which had not been updated since v4.0."
+   ],
+   "version": "v4.2"
+  },
+  {
+   "date": "2026-09-24",
+   "entries": [],
+   "version": "v4.0"
+  }
+ ]
+}
